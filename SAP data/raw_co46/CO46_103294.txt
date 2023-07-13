@@ -1,0 +1,233 @@
+
+Project						Material	Description	Requirement Element	Receipt Element	Receipt Element No.	Receipt Element Item	Rec./reqd qty	Target Quantity	Release/Creation	Bas. start date	Receipt Date	Requirements Date	MRP Controller	Reqmt Element Number	InhseProdTime	Purch. Group	Base Unit	Pl. Deliv. Time
+
+	103294
+
+		10280240				10280240	SET OF 5 LOCK DOG SEGMENTS, IVTC ASSY	OrdRes	POitem	         4501743227	                  10	-2	              1			07.12.2022	11.10.2022	M01	             7779586		BC3	EA	            101
+
+			10280240			10280240	SET OF 5 LOCK DOG SEGMENTS, IVTC ASSY	SubReq	ScPrSt			-1					05.08.2022	M01	            10242955		BC3	EA	            101
+			10280240			10280240	SET OF 5 LOCK DOG SEGMENTS, IVTC ASSY	SubReq	ScPrSt			-1					05.08.2022	M01	            10242956		BC3	EA	            101
+
+		10241098				10241098	SEAL, T-E, 220,0x230,8x9,0, HNBR85A+PEEK	OrdRes	ProjSt			-4					30.03.2022	Y01	             7779587		BC5	EA	            180
+		10241098				10241098	SEAL, T-E, 220,0x230,8x9,0, HNBR85A+PEEK	OrdRes	ProjSt			-2					30.03.2022	Y01	             7779587		BC5	EA	            180
+		10241097				10241097	SEAL, T-E, 220,0x230,8x9,0, HNBR90A+PEEK	OrdRes	ProjSt			-2					30.03.2022	Y01	             7779587		BC5	EA	            180
+		10302219				10302219	SEAL, LIP, 208,49x227,25x12,8, PEEK	OrdRes	ProjSt			-2					30.03.2022	M01	             7779587		BA1	EA	             60
+		10048551				10048551	HYDRAULIC SEAL 28MM W/ SOFT SEAL	OrdRes	ProjSt			-1					30.03.2022	M01	             7779587		BA1	EA	             60
+		10331081				10331081	SEAL,LIP-U,178,03x194,97x(13,50)HPU/PEEK	OrdRes	ProjSt			-2					30.03.2022	M01	             7779587		BA1	EA	             60
+		10331080				10331080	SEAL, LIP-U, 33,38x38x(3,43), XHPU	OrdRes	ProjSt			-2					30.03.2022	M01	             7779587		BA1	EA	             60
+		10302018				10302018	SEAL, LIP, 177,85x195,15x10,8, PEEK	OrdRes	ProjSt			-6					30.03.2022	M01	             7779587		BA1	EA	             60
+		BB17-NT0001-00				BB17-NT0001-00	12' SP BACKSEAL TEST GASKET	OrdRes	ProjSt			-2					30.03.2022	Y01	             7779587		TS9	EA	            195
+		BB17-MX0085-89				BB17-MX0085-89	WASHER SERRATED, M6, DIN 6798A, A4	OrdRes	ProjSt			-1.786					30.03.2022	M01	             7779587			EA	            120
+		10307060				10307060	TARPAULIN, VXT	OrdRes	PurRqs	           17357001	                  10	-1	              1	27.09.2022		29.03.2023	09.12.2022	Y01	             7808246		BC5	EA	            180
+		10298261				10298261	VXT, 7x5, W/ WATER INJECTION FCM	OrdRes	PrdOrd	             510449	                   1	-1	              1	06.10.2022	07.10.2022	14.11.2022	30.11.2022	A11	             7808246	           20		EA
+
+			10292988			10292988	VXT, 7x5, W/O FCM (CONFIGURABLE)	OrdRes	PrdOrd	             510347	                   1	-1	              1	24.10.2022	25.10.2022	05.12.2022	07.10.2022	A21	            10050636	           68		EA
+
+				10298829		10298829	WHC INDICATOR ASSEMBLY	OrdRes				-1					19.09.2022	M01	             9981760	            1	BA1	EA	             60
+				10295708		10295708	SEAL PLATE VMC 12" - ASSEMBLY	OrdRes	PrdOrd	             510705	                   1	-1	              1	06.10.2022	07.10.2022	01.11.2022	19.09.2022	A23	             9981760	           18		EA
+				10087766		10087766	VALVE SEAT, HC (28MM), SUPER DUPLEX	OrdRes	PurRqs	           17563907	                  10	-1	             11	24.10.2022		27.10.2022	19.09.2022	M01	             9981760	           15	BA1	EA	              1
+				10254629		10254629	STUD FT, 1 1/2-8UNR x 120mm, L7	OrdRes	PldOrd	          110129575		-11	             24	08.07.2022	15.07.2022	16.09.2022	19.09.2022	M01	             9981760		BA1	EA	             60
+				10237197		10237197	BOLT HEX, M20 x 120, L7	OrdRes				-20					19.09.2022	M01	             9981760		BA1	EA	             60
+				10105069		10105069	STAB, PROTECTION, SP, ISO 13628-8 A	OrdRes	ProjSt			-1					19.09.2022	Y01	             9981760		B02	EA	            163
+				10087766		10087766	VALVE SEAT, HC (28MM), SUPER DUPLEX	OrdRes	ProjSt			-1					19.09.2022	M01	             9981760		TS9	EA	            190
+
+			10277558			10277558	W.I FCM ASSY, JOHAN CASTBERG	OrdRes	PrdOrd	             510632	                   1	-1	              1	26.10.2022	27.10.2022	21.11.2022	07.10.2022	A21	            10050636	           28		EA
+
+				10295709		10295709	SEAL PLATE FCM 12" - ASSEMBLY	OrdRes	PrdOrd	             510617	                   1	-1	              1	03.11.2022	04.11.2022	08.11.2022	27.09.2022	A22	            10153892	           12		EA
+
+			10294904			10294904	COUNTER WEIGHT PLATE, FRONT, 813,2kg	OrdRes	PurRqs	           17583626	                  10	-1	              1	28.10.2022		26.04.2023	07.10.2022	C01	            10050636		BC4	EA	            150
+			10105069			10105069	STAB, PROTECTION, SP, ISO 13628-8 A	OrdRes	PurRqs	           17580884	                  10	-1	              1	28.10.2022		25.05.2023	07.10.2022	Y01	            10050636		B02	EA	            163
+			10297858			10297858	EFL 12WAY_P ROV/12WAY_S ROV L=9.0M	OrdRes	ProjSt			-1					07.10.2022	M01	            10050636	           15	BA1	EA	              1
+			10299542			10299542	DUMMY CITV	OrdRes	PldOrd	          110129578		-1	              1	04.02.2022	11.02.2022	18.04.2022	07.10.2022	M01	            10050636	           15	BA1	EA	              1
+			10301098			10301098	COUNTER WEIGHT PLATE,SIDE-BOTTOM,132.1kg	OrdRes	PurRqs	           17583720	                  10	-1	              1	28.10.2022		24.11.2022	07.10.2022	V01	            10050636		BC1	EA
+			10300895			10300895	COUNTER WEIGHT PLATE, SIDE, 131.6kg	OrdRes	PurRqs	           17583722	                  10	-10	             10	28.10.2022		24.11.2022	07.10.2022	V01	            10050636		BC1	EA
+
+		10343317				10343317	ASSY, VXT TRANSPORT PROTECTION W/O UPPER	OrdRes	ProjSt			-1					30.11.2022	M01	             7808246		BE9	EA	             30
+		10343841				10343841	ASSY, UPPER H4 PROFILE COVER FOR TRANSP	OrdRes	ProjSt			-1					30.11.2022	M01	             7808246		BE9	EA	             30
+		10307060				10307060	TARPAULIN, VXT	OrdRes	PurRqs	           17357002	                  10	-1	              1	27.09.2022		29.03.2023	16.12.2022	Y01	             7808254		BC5	EA	            180
+		10339398				10339398	VXT, 7x5, W/ PRODUCTION FCM, BREIDABLIKK	OrdRes	PrdOrd	             511391	                   1	-1	              1	25.10.2022	26.10.2022	31.01.2023	16.12.2022	A11	             7808254	           20		EA
+
+			10292988			10292988	VXT, 7x5, W/O FCM (CONFIGURABLE)	OrdRes	PrdOrd	             510487	                   1	-1	              1	24.10.2022	25.10.2022	05.12.2022	26.10.2022	A21	            10386336	           68		EA
+
+				10288974		10288974	7IN VXT STRUCTURE FRAME, ASSEMBLY	OrdRes	PurRqs	           17575169	                  10	-1	              1	28.10.2022		02.06.2023	21.09.2022	C01	            10051744	           30	BC4	EA	            190
+
+					10103338	10103338	SCREW HEX, M20 x 80, L7	SubReq	PurRqs	           17580724	                  10	-12	              2	28.10.2022		24.05.2023	28.10.2022	P01	            10446446		BC5	EA	            180
+					BB17-MX0039-00	BB17-MX0039-00	NUT HEX, M20, 7, ELZN	SubReq	PurRqs	           17581062	                  10	-20	             20	28.10.2022		19.05.2023	28.10.2022	P01	            10446446		BC5	EA	            176
+					10297569	10297569	ROOF, WELDMENT	SubReq	PurRqs	           17583759	                  10	-1	              1	28.10.2022		24.11.2022	28.10.2022	V01	            10446446		BC1	EA
+					10295763	10295763	TOP WELDMENT FRAME ASSEMBLY	SubReq	PurRqs	           17583884	                  10	-1	              1	28.10.2022		28.11.2022	28.10.2022	V01	            10446446		BC1	EA	              2
+					BB17-MX0103-17	BB17-MX0103-17	SCREW HEX, M12 x 45, L7	SubReq	ProjSt			-8					28.10.2022	P01	            10446446		BC5	EA	            180
+					BB17-MX0039-02	BB17-MX0039-02	NUT HEX, M12, 7	SubReq	ProjSt			-8					28.10.2022	P01	            10446446		BC5	EA	            176
+					BS0000596	BS0000596	SCREW HEX, M12 x 30, L7	SubReq	ProjSt			-8					28.10.2022	P01	            10446446		BC5	EA	            176
+					10297196	10297196	SCM FUNNEL ASSEMBLY	SubReq	PurRqs	           17583860	                  10	-1	              1	28.10.2022		24.11.2022	28.10.2022	V01	            10446446		BC1	EA
+					BB17-MX0290-00	BB17-MX0290-00	BOLT HEX, M16 x 80, L7	SubReq	ProjSt			-8					28.10.2022	P01	            10446446		BC5	EA	            180
+					10115867	10115867	SCREW HEX, M16 x 50, L7	SubReq	ProjSt			-12					28.10.2022	P01	            10446446		BC5	EA	            180
+					BB17-MX0082-07	BB17-MX0082-07	NUT HEX, M16, 7	SubReq	POitem	         4501725143	                  20	-20	             40			20.04.2022	28.10.2022	P01	            10446446		BC5	EA	            176
+					10298524	10298524	COUNTER WEIGHT SUPPORT- FRONT	SubReq	PurRqs	           17583832	                  10	-2	              2	28.10.2022		24.11.2022	28.10.2022	V01	            10446446		BC1	EA
+					10033884	10033884	SCREW HEX, M20 x 45, L7	SubReq	ShpgNt	         4501732648	                  10	-8	             16			29.09.2022	28.10.2022	P01	            10446446		BC5	EA	            180
+					10318327	10318327	ANODE BATTERY, AWB SIDE, TOP WELDMENT	SubReq	PurRqs	           17583772	                  10	-1	              1	28.10.2022		24.11.2022	28.10.2022	V01	            10446446		BC1	EA
+					10295739	10295739	ANODE BATTERY, TOP WELDMENT	SubReq	PurRqs	           17583792	                  10	-1	              1	28.10.2022		24.11.2022	28.10.2022	V01	            10446446		BC1	EA
+					BB17-MX0086-20	BB17-MX0086-20	WASHER FLAT, M12, ISO 7089, 200HV	SubReq	ProjSt			-12					28.10.2022	P01	            10446446		BC5	EA	            146
+
+				10278468		10278468	7x5" VXT ON WH, SPOOL ASSY(CONFIGURABLE)	OrdRes	PrdOrd	             509876	                   1	-1	              1	20.10.2022	21.10.2022	31.10.2022	21.09.2022	A21	            10051744	           23		EA
+
+					10283856	10283856	7IN VXT MVB, F/M (CONFIGURABLE)	OrdRes	ProjSt			-1					01.09.2022	M12	             9900697	          150		EA
+
+				10297835		10297835	REACTION PLATE, UPPER, VMX 12"	OrdRes	PurRqs	           17563859	                  10	-1	              1	24.10.2022		27.10.2022	21.09.2022	M01	            10051744	           15	BA1	EA	              1
+				10301736		10301736	FLANGE SQR, API 17SS, 3/4"x0,095", 69MPa	OrdRes	PurRqs	           17358849	                  10	-1	              1	27.09.2022		30.11.2022	21.09.2022	M01	            10051744		BA1	EA	             60
+				10295842		10295842	FCM GUIDE PIN, WELDMENT	OrdRes	PurRqs	           17583718	                  10	-2	              2	28.10.2022		19.04.2023	21.09.2022	C01	            10051744	           30	BC4	EA	            146
+				10315096		10315096	SEA CHEST 12L, 30 bar, 3/4"AE, ASSEMBLY	OrdRes	QM-lot	        80000113999		-1	              1		07.10.2022	07.10.2022	21.09.2022	C03	            10051744	           30	B02	EA	            170
+				10315035		10315035	SEA CHEST 37L, 30 bar, 3/4"AE, ASSEMBLY	OrdRes	QM-lot	        80000114051		-1	              1		07.10.2022	07.10.2022	21.09.2022	C03	            10051744	           30	B02	EA	            170
+				10310965		10310965	LF CITV Landing Ledge	OrdRes	QM-lot	        80000114405		-1	              1		25.10.2022	25.10.2022	21.09.2022	M01	            10051744	           15	BA1	EA	              1
+				10293335		10293335	CLAMP CONNECTOR, MKII DI, VMX 12"	OrdRes	PurRqs	           17563900	                  10	-1	              1	24.10.2022		27.10.2022	21.09.2022	M01	            10051744	           15	BA1	EA	              1
+				10295708		10295708	SEAL PLATE VMC 12" - ASSEMBLY	OrdRes	PurRqs	           17563860	                  10	-1	              1	24.10.2022		25.10.2022	21.09.2022	Y01	            10051744	           15	BA1	EA	              1
+				10087766		10087766	VALVE SEAT, HC (28MM), SUPER DUPLEX	OrdRes	PurRqs	           17563907	                  10	-11	             11	24.10.2022		27.10.2022	21.09.2022	M01	            10051744	           15	BA1	EA	              1
+				10054061		10054061	VALVE NOSE HC (28mm) SD	OrdRes	PurRqs	           17564032	                  10	-6	              6	24.10.2022		27.10.2022	21.09.2022	M01	            10051744	           15	BA1	EA	              1
+				BB17-MX0034-46		BB17-MX0034-46	CIRCLIP-RING DIAM.46	OrdRes	PurRqs	           17564033	                  10	-12	             12	24.10.2022		27.10.2022	21.09.2022	M01	            10051744	           15	BA1	EA	              1
+				10300034		10300034	HYDRAULIC COUPLER 28MM AE 9/16" L=277,5	OrdRes	PurRqs	           17563980	                  10	-2	              2	24.10.2022		14.11.2022	21.09.2022	M01	            10051744	           15	BA1	EA	              1
+				10300008		10300008	HYDRAULIC COUPLER 28MM AE 3/8" L = 277,5	OrdRes	PurRqs	           17563981	                  10	-4	              4	24.10.2022		27.10.2022	21.09.2022	M01	            10051744	           15	BA1	EA	              1
+				10300009		10300009	HYDRAULIC COUPLER 28MM OD 19.1 WT 2.4	OrdRes	PurRqs	           17564034	                  10	-1	              1	24.10.2022		27.10.2022	21.09.2022	M01	            10051744	           15	BA1	EA	              1
+				10300006		10300006	HYDRAULIC COUPLER 28MM AE 3/8" L = 325	OrdRes	PurRqs	           17563901	                  10	-5	              5	24.10.2022		27.10.2022	21.09.2022	M01	            10051744	           15	BA1	EA	              1
+				10254629		10254629	STUD FT, 1 1/2-8UNR x 120mm, L7	OrdRes	PurRqs	           17583949	                  10	-12	             12	28.10.2022		19.05.2023	21.09.2022	P01	            10051744		BC5	EA	            176
+				10124696		10124696	SCREW HEX, M24 x 70, L7	OrdRes				-7					21.09.2022	M01	            10051744		BA1	EA	              1
+				BB17-MX0039-00		BB17-MX0039-00	NUT HEX, M20, 7, ELZN	OrdRes	PurRqs	           17581061	                  10	-22	             22	28.10.2022		19.05.2023	21.09.2022	P01	            10051744		BC5	EA	            176
+				BB17-MX0103-17		BB17-MX0103-17	SCREW HEX, M12 x 45, L7	OrdRes				-12					21.09.2022	M01	            10051744		BA1	EA	             60
+				10237197		10237197	BOLT HEX, M20 x 120, L7	OrdRes	PurRqs	           17583726	                  10	-20	             20	28.10.2022		24.05.2023	21.09.2022	P01	            10051744		BC5	EA	            180
+				10136803		10136803	NUT HVY HEX, 1 1/2- 8UN, 7	OrdRes	ShpgNt	         4501732648	                  30	-12	             12			20.10.2022	21.09.2022	P01	            10051744	           10	BC5	EA	            150
+				10307728		10307728	PIN, DOWEL Ø25m6 x 50, ISO 8734	OrdRes	PurRqs	           17583834	                  10	-2	              2	28.10.2022		14.06.2023	21.09.2022	P01	            10051744		BC5	EA	            202
+				10307729		10307729	PIN, DOWEL Ø20m6 x 70, ISO 8734	OrdRes	PurRqs	           17583987	                  10	-2	              2	28.10.2022		14.06.2023	21.09.2022	P01	            10051744		BC5	EA	            202
+				10050687		10050687	SCREW HEX, M12 x 35, L7	OrdRes	PurRqs	           17584056	                  10	-18	             18	28.10.2022		24.05.2023	21.09.2022	P01	            10051744		BC5	EA	            180
+				10237392		10237392	PRODUCTION STINGER METAL SEAL, 718, F/M	OrdRes	ProjSt			-1					21.09.2022	M01	            10051744		BA1	EA	             60
+				10129764		10129764	SHCS HEX, M10X20, A4-80	OrdRes				-5					21.09.2022	P04	            10051744		BA1	EA	              1
+				10105069		10105069	STAB, PROTECTION, SP, ISO 13628-8 A	OrdRes	PurRqs	           17580883	                  10	-1	              1	28.10.2022		25.05.2023	21.09.2022	Y01	            10051744		B02	EA	            163
+				BS0000928		BS0000928	TUBE 3/4" ODX.156 WT MP MS15-095	OrdRes	ProjSt			-16					21.09.2022	M01	            10051744		BA1	M	              1
+				BS0000917		BS0000917	TUBE 9/16 ODx.125 WT MP MS15-085	OrdRes	ShpgNt	         4501733265	                  10	-1,500	             12			10.03.2023	21.09.2022	C02	            10051744		VJ1	M	            202
+				BB17-MX0044-02		BB17-MX0044-02	INKO MODULE BO 6-13 2.1 SS	OrdRes	PurRqs	           17563670	                  10	-30	              5	24.10.2022		27.12.2022	21.09.2022	P04	            10051744		BA1	EA	             60
+				BB17-MX0044-27		BB17-MX0044-27	BRACKET,BOLTED,INKO OMEGA,BO 6-13.7.2,SS	OrdRes	PurRqs	           17583885	                  10	-3	              3	28.10.2022		26.04.2023	21.09.2022	C02	            10051744		BC0	EA	            150
+				BB17-MX0625-00		BB17-MX0625-00	SCREW HEX, M8 x 35, L7M	OrdRes	ProjSt			-2					21.09.2022	M01	            10051744		BA1	EA	             60
+				BS0000834		BS0000834	TEE 3/4 MP(F) CTX12	OrdRes	ProjSt			-1					21.09.2022	M01	            10051744		BA1	EA	             60
+				BS0001079		BS0001079	TUBE 3/8 ODx.065 2507-T6-S-065-6ME-NOR	OrdRes	ProjSt			-30					21.09.2022	M01	            10051744		BA1	M	             60
+				BB17-MX0086-26		BB17-MX0086-26	WASHER FLAT, M10, ISO 7089, A4	OrdRes	PurRqs	           17382398	                  10	-1	              1	29.09.2022		30.11.2022	21.09.2022	P04	            10051744		BA1	EA	             60
+				10097685		10097685	EARTH CABLE, 16MM^2, Ø9/Ø9, L 250MM	OrdRes	ProjSt			-2					21.09.2022	M01	            10051744		BA1	EA	             60
+				10129764		10129764	SHCS HEX, M10X20, A4-80	OrdRes				-1					21.09.2022	P04	            10051744		BA1	EA	              1
+
+			10300960			10300960	COUNTER WEIGHT,SIDE,7in VXT ASSY 1481.7k	OrdRes	PurRqs	           17557613	                  10	-1	              1	28.10.2022		24.04.2023	26.10.2022	C01	            10386336		BC4	EA	            150
+
+				10300895		10300895	COUNTER WEIGHT PLATE, SIDE, 131.6kg	SubReq	PurRqs	           17583723	                  10	-10	             10	28.10.2022		24.11.2022	28.10.2022	V01	            10425297		BC1	EA
+				BS0000573		BS0000573	NUT HEX, M30, 7, ELZN	SubReq	ProjSt			-8					28.10.2022	P01	            10425297		BC5	EA	            176
+				10306562		10306562	STUD FT, M30 x 1320, L7	SubReq	PurRqs	           17558991	                  10	-4	              4	28.10.2022		24.05.2023	28.10.2022	P01	            10425297		BC5	EA	            180
+				10301098		10301098	COUNTER WEIGHT PLATE,SIDE-BOTTOM,132.1kg	SubReq	PurRqs	           17583721	                  10	-1	              1	28.10.2022		24.11.2022	28.10.2022	V01	            10425297		BC1	EA
+				10014017		10014017	WASHER FLAT, M30, ISO 7089, A4	SubReq	PurRqs	           17563680	                  10	-40	             31	28.10.2022		24.03.2023	28.10.2022	P01	            10425297		BC5	EA	            120
+
+			10300971			10300971	COUNTER WEIGHT, FRONT CORNER, ASSEMBLY	OrdRes	PurRqs	           17583572	                  10	-1	              1	28.10.2022		17.04.2023	26.10.2022	C01	            10386336		BC4	EA	            146
+
+				10300961		10300961	COUNTER WEIGHT PLATE, CORNER, 50,7kg	SubReq	PurRqs	           17583734	                  10	-6	              6	28.10.2022		24.05.2023	28.10.2022	C01	            10459739		BC4	EA	            180
+				10311755		10311755	STUD FT, M30 x 400, L7	SubReq	PurRqs	           17559437	                  10	-3	              1	28.10.2022		22.05.2023	28.10.2022	P01	            10459739		BC5	EA	            180
+				BS0000573		BS0000573	NUT HEX, M30, 7, ELZN	SubReq	ProjSt			-6					28.10.2022	P01	            10459739		BC5	EA	            176
+				10014017		10014017	WASHER FLAT, M30, ISO 7089, A4	SubReq	PurRqs	           17563680	                  10	-18	             31	28.10.2022		24.03.2023	28.10.2022	P01	            10459739		BC5	EA	            120
+
+			10294904			10294904	COUNTER WEIGHT PLATE, FRONT, 813,2kg	OrdRes	PurRqs	           17583627	                  10	-2	              2	28.10.2022		26.04.2023	26.10.2022	C01	            10386336		BC4	EA	            150
+			10235515			10235515	STUD FT, M30 x 350, L7	OrdRes	PurRqs	           17557616	                  10	-4	              4	28.10.2022		24.05.2023	26.10.2022	P01	            10386336		BC5	EA	            180
+			10105069			10105069	STAB, PROTECTION, SP, ISO 13628-8 A	OrdRes	PurRqs	           17580885	                  10	-1	              1	28.10.2022		25.05.2023	26.10.2022	Y01	            10386336		B02	EA	            163
+			10338285			10338285	FLOW CONTROL MODULE, BREIDABLIKK	OrdRes	PldOrd	          112390461		-1	              1	28.09.2022	05.10.2022	21.12.2022	26.10.2022	A21	            10386336	           52		EA
+			10297410			10297410	ASSY, SUBSEA CONTROL MODULE (SCM)	OrdRes	PldOrd	          112366462		-1	              1	10.10.2022	18.10.2022	18.11.2022	26.10.2022	A71	            10386336	           21		EA
+			10342054			10342054	SW DIU - IWIS, 1 x ROXAR DHNC, VXT	OrdRes	PldOrd	          112488928		-1	              1	17.10.2022	24.10.2022	08.11.2022	26.10.2022	P02	            10386336	           10	BC5	EA
+			10337753			10337753	BURNCO RELEASE AGENT	OrdRes	PurRqs	           17583910	                  10	-1	              1	28.10.2022		10.07.2023	26.10.2022	M01	            10386336		BC5	EA	            226
+			10337754			10337754	SILICONE TIECOAT PART A (UN 3295)	OrdRes	PurRqs	           17583889	                  10	-13	             13	28.10.2022		10.07.2023	26.10.2022	M01	            10386336		BC5	EA	            226
+			10337755			10337755	SILICONE TIECOAT PART B (UN 3295)	OrdRes	PurRqs	           17583890	                  10	-13	             13	28.10.2022		10.07.2023	26.10.2022	M01	            10386336		BC5	EA	            226
+			10346993			10346993	Contratherm C25-770-01 Part A	OrdRes	PurRqs	           17583886	                  10	-1	              1	28.10.2022		20.03.2023	26.10.2022	M01	            10386336		BC5	EA	            114
+			10346994			10346994	Contratherm C25-770-01 Part B	OrdRes	PurRqs	           17583888	                  10	-1	              1	28.10.2022		20.03.2023	26.10.2022	M01	            10386336	            1	BC5	EA	            114
+
+		10280171				10280171	INTERNAL VERTICAL TREE CAP ASSY, 7IN VXT	OrdRes	PldOrd	          112503185		-1	              1	21.10.2022	28.10.2022	10.02.2023	16.12.2022	A15	             7808254	           73		EA
+
+			10280362			10280362	LOCK RETENTION COLLET, IVTC ASSEMBLY	DepReq	ProjSt			-1					28.10.2022	M01	            10459201		BC3	EA	            116
+			10280361			10280361	STROKE END STOP, IVTC ASSEMBLY	DepReq	ProjSt			-1					28.10.2022	M01	            10459201		BC3	EA	            101
+			10280360			10280360	END STOP RETAINER NUT, IVTC ASSEMBLY	DepReq	ProjSt			-1					28.10.2022	M01	            10459201		BC3	EA	            116
+			10280240			10280240	SET OF 5 LOCK DOG SEGMENTS, IVTC ASSY	DepReq	PurRqs	           17558206	                  10	-1	              1	28.10.2022		07.03.2023	28.10.2022	M01	            10459201		BC3	EA	            101
+			10280241			10280241	ACTIVATION SLEEVE, IVTC ASSEMBLY	DepReq	PurRqs	           17583638	                  10	-1	              1	28.10.2022		07.03.2023	28.10.2022	M01	            10459201		BC3	EA	            101
+			10280239			10280239	MAIN BODY, IVTC ASSEMBLY, 7" VXT ON WH	DepReq	PurRqs	           17583536	                  10	-1	              1	28.10.2022		24.03.2023	28.10.2022	M01	            10459201		BC8	EA	            120
+
+				10283801		10283801	ROUND BAR, Ø240MM, DUPLEX	SubReq	PurRqs	           17558720	                  10	-330	            330	28.10.2022		17.05.2023	28.10.2022	C03	            10459693		BC2	MM	            172
+
+			10241098			10241098	SEAL, T-E, 220,0x230,8x9,0, HNBR85A+PEEK	DepReq	PurRqs	           17583861	                  10	-1	              1	28.10.2022		27.03.2023	28.10.2022	C02	            10459201		B02	EA	            121
+			10241097			10241097	SEAL, T-E, 220,0x230,8x9,0, HNBR90A+PEEK	DepReq	PurRqs	           17583791	                  10	-1	              1	28.10.2022		02.05.2023	28.10.2022	C02	            10459201		B02	EA	            156
+			10282494			10282494	SEAL RETAINER, ANNULUS M2M, IVTC, F/M	DepReq	PurRqs	           17583914	                  10	-1	              1	28.10.2022		08.05.2023	28.10.2022	M01	            10459201		TS9	EA	            163
+			10238041			10238041	SEAL, T-E, 187,0x197,0x9,0, HNBR85A+PEEK	DepReq	PurRqs	           17583927	                  10	-1	              1	28.10.2022		08.05.2023	28.10.2022	C02	            10459201		B02	EA	            163
+			10240736			10240736	SEAL, T-E, 187,0x197,0x9,0, HNBR90A+PEEK	DepReq	PurRqs	           17583934	                  10	-1	              1	28.10.2022		15.05.2023	28.10.2022	C02	            10459201		B02	EA	            170
+			10237392			10237392	PRODUCTION STINGER METAL SEAL, 718, F/M	DepReq	PurRqs	           17583952	                  10	-1	              1	28.10.2022		07.06.2023	28.10.2022	M01	            10459201	           28	BC3	EA	            195
+			10237393			10237393	PRODUCTION STINGER SEAL RETAINER, F/M	DepReq	PurRqs	           17583930	                  10	-1	              1	28.10.2022		08.05.2023	28.10.2022	M01	            10459201		TS9	EA	            163
+			10284750			10284750	SPRING PLUNGER, M8 THD, POM, BALL & SLOT	DepReq	PurRqs	           17583666	                  10	-5	              5	28.10.2022		26.04.2023	28.10.2022	C02	            10459201		BC0	EA	            150
+			10079142			10079142	EYEBOLT RUD VRS-M8	DepReq	PurRqs	           17583631	                  10	-2	              2	28.10.2022		14.06.2023	28.10.2022	L01	            10459201		BC0	EA	            202
+			BB20070-392			BB20070-392	O-RING, 126,59x3,53, NBR70A	DepReq	PurRqs	           17583517	                  10	-1	              1	28.10.2022		05.07.2023	28.10.2022	C02	            10459201		B02	EA	            222
+
+		10228322				10228322	SEAL, VGX-2 type, 18-3/4 15K, 17-4PH+AG	OrdRes	PurRqs	           17583604	                  10	-1	              1	28.10.2022		07.06.2023	16.12.2022	M01	             7808254		BC0	EA	            195
+		10348980				10348980	WOODEN BOX FOR VGX SEAL	OrdRes	PurRqs	           17583262	                  10	-1	              1	28.10.2022		20.03.2023	16.12.2022	U01	             7808254		BC3	EA	            114
+		10346266				10346266	LOCTITE 660, 50ml	OrdRes	ProjSt			-44					30.03.2022	M01	             8135536		BE9	EA	             15
+		10346798				10346798	SEALANT, TEKBOND PU40, 310ml	OrdRes	ProjSt			-36					30.03.2022	M01	             8135536		BE9	EA	             15
+		10007799				10007799	CLAMP-INKO, B1420.1.2/14-316	OrdRes	PurRqs	           17583859	                  10	-4	              4	28.10.2022		19.04.2023	01.08.2022	Y01	             8148543		BC0	EA	            146
+		BS0000917				BS0000917	TUBE 9/16 ODx.125 WT MP MS15-085	OrdRes	ProjSt			-4,500					01.08.2022	C02	             8148543		VJ1	M	            202
+		BS0000916				BS0000916	TUBE 3/8 ODx.086 WT MP MS15-093	OrdRes	PurRqs	           17584252	                  10	-140	            208	28.10.2022		11.04.2023	01.08.2022	C02	             8148543		M25	M	            135
+		10244077				10244077	THRT ORIENTATION SUB KEY, FM	OrdRes	PurRqs	           17583954	                  10	-4	              4	28.10.2022		22.03.2023	30.03.2022	M01	             8148543	           30	BC3	EA	            116
+		10229740				10229740	THRT ORIENTATION MAIN KEY, FM	OrdRes	PurRqs	           17583965	                  10	-1	              1	28.10.2022		22.03.2023	30.03.2022	M01	             8148543	           30	BC3	EA	            116
+		10093854				10093854	SCREW SET, CUP, M6 x 10, A4-80	OrdRes	PurRqs	           17584000	                  10	-1	              1	28.10.2022		26.04.2023	30.03.2022	P01	             8148543		BC5	EA	            150
+		10014967				10014967	SEAL, BXTYPE, 288,42x317,07x14,33, NI825	OrdRes	PurRqs	           17583968	                  10	-5	              3	28.10.2022		03.04.2023	30.03.2022	M01	             8148543		M25	EA	            128
+		10133136				10133136	SEAL, BX150, 72,19x9,30x9,30, NI825	OrdRes	PldOrd	          111594423		-3	             14	04.04.2022	04.05.2022	12.12.2022	30.03.2022	M01	             8148543		B02	EA	            114
+		BS0000783				BS0000783	ADPTR 9/16 MP(M) x 3/8 MP(F) 20M96K6	OrdRes	PurRqs	           17584106	                  10	-5	              6	28.10.2022		14.06.2023	30.03.2022	C02	             8148543		VJ1	EA	            202
+		10302236				10302236	WIPER, 10x30x33,6, PEEK- 3/4-14 NSPM	OrdRes	PurRqs	           17583929	                  10	-1	              1	28.10.2022		05.07.2023	30.03.2022	C02	             8148543		B02	EA	            222
+		10007799				10007799	CLAMP-INKO, B1420.1.2/14-316	OrdRes	PurRqs	           17583858	                  10	-10	              4	28.10.2022		19.04.2023	30.03.2022	Y01	             8148543		BC0	EA	            146
+		BB17-MX0044-03				BB17-MX0044-03	INKO MODULE BO 6-13 3.1 SS	OrdRes	PurRqs	           17583963	                  10	-5	              5	28.10.2022		24.05.2023	30.03.2022	C02	             8148543		BC0	EA	            180
+		10001848				10001848	BOLT, CLAMP STACKING M6x50,  A4-80	OrdRes	PurRqs	           17583833	                  10	-145	            140	28.10.2022		10.04.2023	01.08.2022	P01	             8148543		BC0	EA	            134
+		BS0001204				BS0001204	TEE, GBW, 2X¾ X.095, 3/8 X.065, 2507	OrdRes	PurRqs	           17583913	                  10	-1	              1	28.10.2022		12.06.2023	30.03.2022	C03	             8148543		BC5	EA	            197
+		10097685				10097685	EARTH CABLE, 16MM^2, Ø9/Ø9, L 250MM	OrdRes	ProjSt			-7					01.08.2022	C02	             8148543		BC0	EA	            180
+		10116464				10116464	RECEPTACLE, SINGLE PORT, WO/CV ISO A	OrdRes	PurRqs	           17583955	                  10	-1	              1	28.10.2022		08.05.2023	01.08.2022	C02	             8148543		B02	EA	            163
+		10133136				10133136	SEAL, BX150, 72,19x9,30x9,30, NI825	OrdRes	PldOrd	          111594423		-6	             14	04.04.2022	04.05.2022	12.12.2022	01.08.2022	M01	             8148543		B02	EA	            114
+		10137165				10137165	SCREW HEX, M20 x 70, L7	OrdRes	ProjSt			-84					01.08.2022	P01	             8148543		BC5	EA	            180
+		10208584				10208584	GUIDE PIN Ø24.4 SEAL PLATE	OrdRes	PurRqs	           17584032	                  10	-2	              4	28.10.2022		07.06.2023	01.08.2022	V01	             8148543		BC1	EA	            195
+		10208585				10208585	CIRCLIP S024M	OrdRes	PurRqs	           17584043	                  10	-2	              2	28.10.2022		26.04.2023	01.08.2022	Y01	             8148543			EA	            150
+		10293589				10293589	SEAL, T-E, 1018,00X1038,73x19,5, PU	OrdRes	PurRqs	           17584196	                  10	-2	              2	28.10.2022		05.07.2023	01.08.2022	C02	             8148543		B02	EA	            222
+		10306015				10306015	CLAMP Ø30 MM ASSY INCL. BOLTS, 316 + PP	OrdRes	PurRqs	           17563594	                  10	-295	            195	28.10.2022		19.04.2023	01.08.2022	C03	             8148543		BC0	EA	            146
+		BB17-MX0008-00				BB17-MX0008-00	SHCS HEX, M6X16, A4-80	OrdRes	PurRqs	           17584342	                  10	-12	             12	28.10.2022		19.05.2023	01.08.2022	C03	             8148543		BC5	EA	            176
+		BB17-MX0083-12				BB17-MX0083-12	NUT HEX, LOCK, M12, 7	OrdRes	ProjSt			-4					01.08.2022	P01	             8148543		BC5	EA	            202
+		BB17-NT0001-00				BB17-NT0001-00	12' SP BACKSEAL TEST GASKET	OrdRes	PurRqs	           17584044	                  10	-5	              3	28.10.2022		07.06.2023	01.08.2022	Y01	             8148543		TS9	EA	            195
+		BB18-NT0100-01				BB18-NT0100-01	LOCKING WASHER, TX SEAL AISI316	OrdRes	PldOrd	          112503221		-12	             12	29.09.2022	28.10.2022	01.11.2022	01.08.2022	Y01	             8148543			EA
+		BB20003-368				BB20003-368	SCREW HEX, M6 x 12, A4-80	OrdRes	PurRqs	           17525806	                  10	-60	             60	20.10.2022		09.05.2023	01.08.2022	P01	             8148543		BC5	EA	            176
+		BBH6907322825				BBH6907322825	SEAL, BX152, 84,68x10,24x10,24, NI825	OrdRes	ProjSt			-4					01.08.2022	M01	             8148543		TS9	EA	            203
+		BB20019-118				BB20019-118	BOLT HEX, M6 x 50, A4-80	OrdRes	PurRqs	           17523143	                  10	-8	              8	20.10.2022		28.03.2023	01.08.2022	P01	             8148543		BC5	EA	            134
+		BBH6907339825				BBH6907339825	SEAL, BX169, 173,51x12,93x15,85, NI825	OrdRes	ProjSt			-1					01.08.2022	M01	             8148543		TS9	EA	             30
+		BS0001079				BS0001079	TUBE 3/8 ODx.065 2507-T6-S-065-6ME-NOR	OrdRes	PurRqs	           17583911	                  10	-54	             54	28.10.2022		11.07.2023	01.08.2022	C02	             8148543		BC5	M	            227
+		10291678				10291678	TX-SEAL 12"-1,5" (40) GR2 MACH	OrdRes	ProjSt			-1					30.03.2022	V01	             8148543		M25	EA	            170
+		BBH6907339825				BBH6907339825	SEAL, BX169, 173,51x12,93x15,85, NI825	OrdRes	ProjSt			-1					01.08.2022	M01	             8148543		TS9	EA	             30
+		BS0000916				BS0000916	TUBE 3/8 ODx.086 WT MP MS15-093	OrdRes	PurRqs	           17584252	                  10	-68	            208	28.10.2022		11.04.2023	01.08.2022	C02	             8148543		M25	M	            135
+		BS0000916				BS0000916	TUBE 3/8 ODx.086 WT MP MS15-093	OrdRes	PurRqs	           17584251	                  10	-48	             26	28.10.2022		11.04.2023	30.03.2022	C02	             8148543		M25	M	            135
+		10208584				10208584	GUIDE PIN Ø24.4 SEAL PLATE	OrdRes	PurRqs	           17584032	                  10	-2	              4	28.10.2022		07.06.2023	01.08.2022	V01	             8148543		BC1	EA	            195
+		10225407				10225407	SCREW HEX, M10 x 70, A4-80	OrdRes	PurRqs	           17583745	                  10	-4	              4	28.10.2022		24.05.2023	01.08.2022	P01	             8148543		BC5	EA	            180
+		10301338				10301338	Klüberplex AG 11-462 [1KG]	OrdRes	PurRqs	           17583883	                  10	-2	              2	28.10.2022		13.06.2023	01.08.2022	C02	             8148543	           15	B54	EA	            180
+		10251897				10251897	PLASTIC iSTRIPS, 3,6MM X 140MM, BLACK	OrdRes	ProjSt			-200					01.08.2022	C02	             8148543		BC0	EA	            116
+		BB17-MX0014-00				BB17-MX0014-00	DRIVE SCREW, NO.6 x  9.5mm, A2	OrdRes	ProjSt			-14					30.03.2022	P01	             8148543		BC5	EA	            202
+		10266720				10266720	CLAMP, ACCUMULATOR, DIA 90-95mm	OrdRes	PurRqs	           17583928	                  10	-2	              2	28.10.2022		11.04.2023	01.08.2022	C02	             8148543		B02	EA	            135
+		BS0000783				BS0000783	ADPTR 9/16 MP(M) x 3/8 MP(F) 20M96K6	OrdRes	PurRqs	           17584106	                  10	-1	              6	28.10.2022		14.06.2023	30.03.2022	C02	             8148543		VJ1	EA	            202
+		BB17-MX0086-20				BB17-MX0086-20	WASHER FLAT, M12, ISO 7089, 200HV	OrdRes	ProjSt			-200					01.08.2022	P01	             8148543		BC5	EA	            146
+		BS0000783				BS0000783	ADPTR 9/16 MP(M) x 3/8 MP(F) 20M96K6	OrdRes	PurRqs	           17584107	                  10	-3	              3	28.10.2022		14.06.2023	01.08.2022	C02	             8148543		VJ1	EA	            202
+		BS0000834				BS0000834	TEE 3/4 MP(F) CTX12	OrdRes	PurRqs	           17583975	                  10	-1	              1	28.10.2022		13.12.2023	01.08.2022	C02	             8148543		M25	EA	            382
+		BS0000772				BS0000772	ADPTR 3 8 MP M x 3 4 MP F 20M612K6	OrdRes	PurRqs	           17583996	                  10	-4	              4	28.10.2022		22.06.2023	01.08.2022	C02	             8148543		B02	EA	            210
+		BB17-MX0083-12				BB17-MX0083-12	NUT HEX, LOCK, M12, 7	OrdRes	ProjSt			-1					01.08.2022	P01	             8148543		BC5	EA	            202
+		10099003				10099003	WASHER FLAT, M10, ISO 7089, STEEL	OrdRes	ProjSt			-78					01.08.2022	Y01	             8148543		BC5	EA	            146
+		BS0000909				BS0000909	GL ASSY ANTI VIB 9/16 MP KCBGLX90-316MC	OrdRes	PurRqs	           17584007	                  10	-1	              1	28.10.2022		14.06.2023	01.08.2022	C02	             8148543		VJ1	EA	            202
+		10199185				10199185	RADIAL SEAL, SEAT, SPLIT, 7-3/8"-10K	OrdRes	PurRqs	           17583957	                  10	-1	              1	28.10.2022		01.06.2023	01.08.2022	P01	             8148543		B02	EA	            189
+		BS0000772				BS0000772	ADPTR 3 8 MP M x 3 4 MP F 20M612K6	OrdRes	PurRqs	           17583996	                  10	-2	              4	28.10.2022		22.06.2023	01.08.2022	C02	             8148543		B02	EA	            210
+		BB17-MX0290-00				BB17-MX0290-00	BOLT HEX, M16 x 80, L7	OrdRes	ProjSt			-20					01.08.2022	P01	             8148543		BC5	EA	            180
+		10014967				10014967	SEAL, BXTYPE, 288,42x317,07x14,33, NI825	OrdRes	PurRqs	           17583969	                  10	-1	              1	28.10.2022		03.04.2023	01.08.2022	M01	             8148543		M25	EA	            128
+		BB17-MX0044-06				BB17-MX0044-06	INKO-BRACKET, B0613.1.2-316	OrdRes	POitem	         4501728068	                  10	-20	             20			27.10.2022	01.08.2022	C02	             8148543		BC0	EA	            150
+		10287923				10287923	OVERRIDE STEM EXT, 5-1/8", 318MM, F/M	OrdRes	PurRqs	           17583926	                  10	-1	              1	28.10.2022		02.06.2023	01.08.2022	M01	             8148543	           30	BC3	EA	            190
+		10292044				10292044	EFS CENTRALISER BUSH, ORIENT. SLV., F/M	OrdRes	ProjSt			-4					01.08.2022	M01	             8148543	           30	BC3	EA	            116
+		10288881				10288881	UNLOCK PISTON, WHC, 18 3/4", SCT2.0, F/M	OrdRes	ProjSt			-2					01.08.2022	M01	             8148543		BC2	EA	            165
+		10302855				10302855	PROD. STINGER RETAINER F/ PEEK FAT SEAL	OrdRes	ProjSt			-2					01.08.2022	M01	             8148543		BA1	EA	             60
+		10283527				10283527	SPIROL PIN, 0.8 OD X 4.0 LG	OrdRes	PurRqs	           17583966	                  10	-16	              2	28.10.2022		26.04.2023	01.08.2022	P01	             8148543		BC0	EA	            150
+		10246795				10246795	RET RING DNS 36 S16 34 x 44 02 x 1 69	OrdRes	PurRqs	           17583931	                  10	-44	              2	28.10.2022		30.06.2023	01.08.2022	M01	             8148543		BC0	EA	            218
+		BB17-MX0044-02				BB17-MX0044-02	INKO MODULE BO 6-13 2.1 SS	OrdRes	POitem	         4501728068	                  20	-60	             60			27.10.2022	01.08.2022	C02	             8148543		BC0	EA	            150
+		BS0000917				BS0000917	TUBE 9/16 ODx.125 WT MP MS15-085	OrdRes	ShpgNt	         4501733265	                  10	-12	             12			10.03.2023	01.08.2022	C02	             8148543		VJ1	M	            202
+		10133136				10133136	SEAL, BX150, 72,19x9,30x9,30, NI825	OrdRes	PldOrd	          111594423		-3	             14	04.04.2022	04.05.2022	12.12.2022	01.08.2022	M01	             8148543		B02	EA	            114
+		BB17-MX0014-00				BB17-MX0014-00	DRIVE SCREW, NO.6 x  9.5mm, A2	OrdRes	ProjSt			-12					01.08.2022	P01	             8148543		BC5	EA	            202
+		10271170				10271170	STUD DE, 1 1/8-8UNR X 240mm, L7	OrdRes	ProjSt			-2					01.08.2022	Y01	             8148543		BC5	EA	            150
+		10277570				10277570	PFCM W/GL ASSY, JOHAN CASTBERG	OrdRes	PrdOrd	             508541	                   1	-1	              1	20.10.2022	21.10.2022	31.10.2022	01.07.2022	A21	             9168048	           28		EA
+
+			10295709			10295709	SEAL PLATE FCM 12" - ASSEMBLY	OrdRes	PrdOrd	             508543	                   1	-1	              1	20.10.2022	21.10.2022	31.10.2022	11.07.2022	A22	             9356680	           12		EA

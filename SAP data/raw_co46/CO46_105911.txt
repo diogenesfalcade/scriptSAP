@@ -1,0 +1,7 @@
+
+Project			Material	Description	Requirement Element	Receipt Element	Receipt Element No.	Receipt Element Item	Rec./reqd qty	Target Quantity	Release/Creation	Bas. start date	Receipt Date	Requirements Date	MRP Controller	Reqmt Element Number	InhseProdTime	Purch. Group	Base Unit	Pl. Deliv. Time
+
+	105911
+
+		10107535	10107535	DOWNHOLE INTERFACE UNIT	OrdRes	PrdOrd	             510994	                   1	-1	              1	06.12.2022	07.12.2022	30.12.2022	11.11.2022	A72	             8431304	           50		EA
+		10107535	10107535	DOWNHOLE INTERFACE UNIT	OrdRes	PrdOrd	             510995	                   1	-1	              1	06.12.2022	07.12.2022	30.12.2022	18.11.2022	A72	             8431305	           50		EA

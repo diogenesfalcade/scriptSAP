@@ -1,0 +1,9 @@
+
+Project			Material	Description	Requirement Element	Receipt Element	Receipt Element No.	Receipt Element Item	Rec./reqd qty	Target Quantity	Release/Creation	Bas. start date	Receipt Date	Requirements Date	MRP Controller	Reqmt Element Number	InhseProdTime	Purch. Group	Base Unit	Pl. Deliv. Time
+
+	105077
+
+		BB26-080097-06	BB26-080097-06	GRAVOPLY 1.6MM THK - RED/WHITE	OrdRes	ProjSt			-1					04.08.2022	C01	             8039396		BC4	EA	            160
+		BB17-080522-02	BB17-080522-02	No.2 x 6.5Lg DR. SCREW TYPE U	OrdRes	ProjSt			-8					04.08.2022	P01	             8039396		BC5	EA	            232
+		BB15-081238-67	BB15-081238-67	GUIDE RAIL 160 RED	OrdRes	ProjSt			-2					01.01.2023	P01	             8307908		BC7	EA	            160
+		BB88-060181-03	BB88-060181-03	PCB TERMINATION - PINPAK SIZE18, AWG22/	OrdRes	ProjSt			-8					01.01.2023	P01	             8307908		BC7	EA	            160

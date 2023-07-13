@@ -1,0 +1,389 @@
+
+Project				Material	Description	Requirement Element	Receipt Element	Receipt Element No.	Receipt Element Item	Rec./reqd qty	Target Quantity	Release/Creation	Bas. start date	Receipt Date	Requirements Date	MRP Controller	Reqmt Element Number	InhseProdTime	Purch. Group	Base Unit	Pl. Deliv. Time
+
+	106006
+
+		BB17-000103-01		BB17-000103-01	WASHER, LOCK, REGULAR SPRING, .250 NOM	OrdRes	ProjSt			-10					01.12.2022	C03	             8436869		BC5	EA	            189
+		10197451		10197451	SHCS HEX, 1/4-20UNRCX2625, 718, PTFE	OrdRes	POitem	         4501741016	                  30	-3	              3			08.02.2023	01.12.2022	C03	             8436869		BC5	EA	            189
+		BB17-000120-01		BB17-000120-01	NUT HEX, 1/4-20UNC, 316SH	OrdRes	ProjSt			-2					01.12.2022	C03	             8436869		BC5	EA	            140
+		BB15-000606-07		BB15-000606-07	2 PIN BOOT	OrdRes	PurRqs	           16599903	                  10	-2	              2	20.07.2022		29.12.2022	01.12.2022	C03	             8436869		BC0	EA	            160
+		BB17-000125-01		BB17-000125-01	WASHER, FLAT,TYPE "B" REGULAR, .250 NOM,	OrdRes	ProjSt			-2					01.12.2022	C03	             8436869		BC5	EA	            189
+		BB17-000103-03		BB17-000103-03	WASHER, LOCK,REGULAR SPRING, .375 NOM,	OrdRes	ProjSt			-2					01.12.2022	C03	             8436869		BC5	EA	            150
+		BB17-000103-17		BB17-000103-17	WASHER, LOCK,REGULAR SPRING, #10 NOM,316	OrdRes	ProjSt			-2					01.12.2022	L02	             8436869		BC5	EA	            189
+		BB17-000125-10		BB17-000125-10	WASHER, FLAT, #10, 316SS	OrdRes	ProjSt			-2					01.12.2022	L02	             8436869		BC5	EA	            189
+		10079285		10079285	PLUG, HEX HEAD, .250 MSAE, 316SS	OrdRes	ShpgNt	         4501735899	                 170	-2	              2			20.10.2022	17.12.2021	S03	             8436869		M25	EA	            159
+		BB20-000102-62		BB20-000102-62	O-RING, 37,47x5,33, NBR70A	OrdRes	POitem	         4501744126	                  20	-10	             10			14.11.2022	14.11.2022	P02	             8436869		B02	EA	            180
+		BB20-000111-21		BB20-000111-21	O-RING, 9,25x1,78, NBR70A	OrdRes	POitem	         4501744126	                  30	-10	             10			14.11.2022	14.11.2022	C03	             8436869		B02	EA	            180
+		BB20-000111-66		BB20-000111-66	O-RING, 177,17x5,33, NBR70A	OrdRes	POitem	         4501744126	                  40	-10	             10			14.11.2022	14.11.2022	C03	             8436869		B02	EA	            180
+		BB20-000111-73		BB20-000111-73	O-RING, 37,46x3, NBR90A	OrdRes	POitem	         4501744126	                  50	-10	             10			14.11.2022	14.11.2022	P02	             8436869		B02	EA	            180
+		BB20-000111-75		BB20-000111-75	O-RING, 43,69x3, NBR90A	OrdRes	POitem	         4501744126	                  60	-10	             10			14.11.2022	14.11.2022	C03	             8436869		B02	EA	            180
+		BB20-000111-77		BB20-000111-77	O-RING, 75,57x5,33, NBR70A	OrdRes	POitem	         4501744126	                  70	-10	             10			14.11.2022	14.11.2022	C03	             8436869		TS9	EA	            180
+		BB20-000119-06		BB20-000119-06	O-RING, 850,9x5,33, NBR70A	OrdRes	PurRqs	           17583482	                  10	-10	             10	28.10.2022		24.05.2023	14.11.2022	C03	             8436869		TS9	EA	            180
+		10230504		10230504	O-RING, 50,17x5,33, NBR70A	OrdRes	POitem	         4501744126	                  10	-10	             10			14.11.2022	14.11.2022	C03	             8436869		B02	EA	            180
+		10103507		10103507	SCM ASSEMBLY,15K, 26 FUNCTIONS(21LP/5HP)	OrdRes	PldOrd	          111375851		-1	              1	29.11.2022	06.12.2022	10.03.2023	24.03.2023	A72	             8468822	           65		EA
+
+			BB15-000624-48	BB15-000624-48	POD PART, LATCH HOUSING, F/WEDGE PISTON,	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		U30	EA	            232
+			BB15-000624-49	BB15-000624-49	AWEDGE PISTONDOG ACTUATING	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		U30	EA	            207
+			BB15-000624-06	BB15-000624-06	CLIP RING LATCH DOG	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		U30	EA	            207
+			BB15-000624-07	BB15-000624-07	CLIP RETAINER	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC3	EA	            180
+			BB15-000624-08	BB15-000624-08	SPLIT RING - POD PART	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC3	EA	            180
+			BB15-000624-50	BB15-000624-50	LATCH DOGSF/WEDGE PISTON	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		U30	EA	            207
+			BB15-000624-10	BB15-000624-10	BUMPER NOSE - POD PART	DepReq	ProjSt			-1					06.12.2022	C03	             8792202	            2	BC3	EA	            160
+			BB15-000624-51	BB15-000624-51	Wedge Piston Key	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC3	EA	            160
+			BB16-000206-07	BB16-000206-07	ROD LATCH 3.000 OD X 89.937 LG NITRONIC	DepReq	ShpgNt	         4501728403	                  50	-1	              2			22.07.2022	06.12.2022	C03	             8792202		BC7	EA	            280
+			BB28-000165-33	BB28-000165-33	WLDMT,MDRL,SCM	DepReq	ShpgNt	         4501728403	                  70	-1	              2			22.07.2022	06.12.2022	C03	             8792202		BC4	EA	            280
+			BB19-000110-81	BB19-000110-81	Mandrel Seal Flange	DepReq	ShpgNt	         4501728403	                  60	-1	              2			22.07.2022	06.12.2022	C03	             8792202		BC7	EA	            180
+			10103747	10103747	BASE PLATE,DRILLED, SCM 15K,26 FUNCTIONS	DepReq	ProjSt			-1					06.12.2022	U01	             8792202		BC3	EA	            189
+			BB11-KS0700-01	BB11-KS0700-01	SELECTOR VALVE - SWT (24Vdc)	DepReq	POitem	         4501726885	                  20	-19	             38			07.11.2022	06.12.2022	C03	             8792202		U30	EA	            280
+			BB15-000656-30	BB15-000656-30	FILTER, HYDR, 3 MICRON,15000PSI,	DepReq	ShpgNt	         4501730249	                  10	-2	              4			09.11.2022	06.12.2022	C03	             8792202		U30	EA	            280
+			BB15-000207-18	BB15-000207-18	RING, RETAINING, EXT 1.500 INCONEL X-750	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		B02	EA	            159
+			BB15-000184-40	BB15-000184-40	RELIEF VALVE, 1/2" NPT, 10 PSI, 316 SS	DepReq	QM-lot	        10003169386		-3	              6		12.07.2022	12.07.2022	06.12.2022	C03	             8792202		M25	EA	            160
+			BB15-000165-91	BB15-000165-91	VALVE, NEEDLE, .250 FM/P,20000 PSI, 2 WA	DepReq	ProjSt			-2					06.12.2022	V01	             8792202		BC0	EA	            150
+			BB28-000187-14	BB28-000187-14	WELDMENT,BRACKET,MOUNTING ELECTRICAL 6 P	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC4	EA	            180
+			BB17-000114-74	BB17-000114-74	PLUG,HEX HD,.250 MNPT,316 SST,10000 PSI	DepReq	ShpgNt	         4501726954	                  10	-1	              2			23.05.2022	06.12.2022	C03	             8792202		M25	EA	            159
+			10041168	10041168	ICON CORE SEM 1200 BAUD 4K PROTOCOL	DepReq	POitem	         4501745208	                  10	-1	              2			15.12.2022	06.12.2022	M01	             8792202		BA1	EA	            130
+			BB15-000173-12	BB15-000173-12	RAW-TBG, SEAMLESS, .250 OD X .109 ID, .0	DepReq	ProjSt			-9,690					06.12.2022	C03	             8792202		M25	FT	            140
+			BB20-000111-66	BB20-000111-66	O-RING, 177,17x5,33, NBR70A	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		B02	EA	            180
+			BB17-000104-24	BB17-000104-24	SHCS HEX, 3/8-16UNRCX1,25, 316SH	DepReq	QM-lot	        10003210783		-8	             16		20.10.2022	20.10.2022	06.12.2022	C03	             8792202		BC5	EA	            150
+			BB15-000624-71	BB15-000624-71	COMPENSATION COVER, POD PART	DepReq	ProjSt			-5					06.12.2022	C03	             8792202		BC3	EA	            140
+			BB17-000102-85	BB17-000102-85	SCREW HEX, 10-32UNRFX0,375, 316SH	DepReq	ProjSt			-30					06.12.2022	C03	             8792202		BC5	EA	            150
+			BB17-000103-17	BB17-000103-17	WASHER, LOCK,REGULAR SPRING, #10 NOM,316	DepReq	ProjSt			-30					06.12.2022	L02	             8792202		BC5	EA	            189
+			BB17-000125-10	BB17-000125-10	WASHER, FLAT, #10, 316SS	DepReq	POitem	         4501729740	                  30	-30	             60			22.11.2022	06.12.2022	L02	             8792202		BC5	EA	            189
+			BB17-000104-92	BB17-000104-92	SHCS HEX, 1/2-13UNRCX6,25, 316SH	DepReq	QM-lot	        10003213548		-12	             24		27.10.2022	27.10.2022	06.12.2022	C03	             8792202		BC5	EA	            280
+			BB17-000103-02	BB17-000103-02	WASHER, LOCK,REGULAR SPRING, .500 NOM,31	DepReq	ProjSt			-23					06.12.2022	C03	             8792202		BC5	EA	            189
+			BB17-000120-17	BB17-000120-17	NUT HEX, 0,5-13UNC, 316SH	DepReq	ProjSt			-13					06.12.2022	C03	             8792202		BC5	EA	            280
+			BB15-000686-13	BB15-000686-13	CONN-ELECT, 8 CONTACT FLANGE MOUNTED, RO	DepReq	QM-lot	        10003211416		-1	              1		22.10.2022	22.10.2022	06.12.2022	C03	             8792202		BC7	EA	            250
+			BB17-000295-05	BB17-000295-05	SCREW HEX, 0,25-20UNRCX0,625, TI2	DepReq	POitem	         4501728264	                 100	-24	             50			23.11.2022	06.12.2022	C03	             8792202		BC5	EA	            180
+			BB15-000546-06	BB15-000546-06	ACCUMULATOR PART, BLADDER, MOD2.500 GALL	DepReq	POitem	         4501727060	                  20	-5	             10			06.12.2022	06.12.2022	C03	             8792202		BC5	EA	            214
+			BB17-000231-06	BB17-000231-06	THREDSEAL, WASHER, .88" BOLT,1.562 OD X	DepReq	ProjSt			-5					06.12.2022	C03	             8792202		BC5	EA	            189
+			BB17-000104-57	BB17-000104-57	SHCS HEX, 3/8-16UNRCX0,75, 316SH	DepReq	POitem	         4501728261	                  60	-30	             60			03.11.2022	06.12.2022	C03	             8792202		BC5	EA	            280
+			BB11-KS0701-01	BB11-KS0701-01	CHOKE CONTROL VALVE - SWT (24Vdc)	DepReq	POitem	         4501726885	                  40	-2	              4			07.11.2022	06.12.2022	C03	             8792202		U30	EA	            280
+			BB17-000284-90	BB17-000284-90	SHCS HEX, 7/16-14UNRCX1,25, 316SH	DepReq	QM-lot	        10003208956		-8	             16		17.10.2022	17.10.2022	06.12.2022	C03	             8792202		BC5	EA	            180
+			BB15-000182-39	BB15-000182-39	ACC,PSTN,.57 GAL,20 KSI, 0.562 M/P FLUID	DepReq	POitem	         4501727060	                  30	-1	              2			07.11.2022	06.12.2022	C03	             8792202		BC5	EA	            280
+			BB20-000111-77	BB20-000111-77	O-RING, 75,57x5,33, NBR70A	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		TS9	EA	            180
+			BB20-000110-39	BB20-000110-39	O-RING BACKUP,8-337, 3.018 IDX .183 CS,	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		B02	EA	            180
+			BB20-000119-06	BB20-000119-06	O-RING, 850,9x5,33, NBR70A	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		TS9	EA	            180
+			BB17-000103-12	BB17-000103-12	WASHER, LOCK,REGULAR SPRING, .750 NOM,31	DepReq	POitem	         4501728264	                 110	-6	             10			09.11.2022	06.12.2022	C03	             8792202		BC5	EA	            189
+			BB17-000284-93	BB17-000284-93	SHCS HEX, 3/4-10UNRCX2,5, 316SH	DepReq	POitem	         4501728262	                  70	-6	             12			22.11.2022	06.12.2022	C03	             8792202		BC5	EA	            180
+			BB17-000284-92	BB17-000284-92	SHCS HEX, 5/8-11UNRCX2, 316SH	DepReq	ProjSt			-8					06.12.2022	C03	             8792202		BC5	EA	            180
+			BB17-000103-10	BB17-000103-10	WASHER, LOCK,REGULAR SPRING, .625 NOM,31	DepReq	ProjSt			-8					06.12.2022	C03	             8792202		BC5	EA	            189
+			BB15-000245-30	BB15-000245-30	PIN, DOWEL, Ø1/4" x 0.50", 316SS	DepReq	PurRqs	           17583481	                  10	-1	              2	28.10.2022		04.05.2023	06.12.2022	C03	             8792202		M25	EA	            159
+			BB17-000162-14	BB17-000162-14	PIN, SLOTTED, SPRING, .375 ODX .750 L 3	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		BC0	EA	            150
+			BB15-000245-55	BB15-000245-55	PIN ORIENTATION	DepReq	ProjSt			-8					06.12.2022	C03	             8792202		BC3	EA	            180
+			BB28-000279-87	BB28-000279-87	WLDMNT, CVR, SCM	DepReq	POitem	         4501730946	                  30	-1	              2			20.12.2022	06.12.2022	C03	             8792202		BC4	EA	            280
+			BB20-000119-10	BB20-000119-10	O-RING, 64,77x2,62, NBR70A	DepReq	ProjSt			-4					06.12.2022	C03	             8792202		B02	EA	            180
+			BB20-000102-68	BB20-000102-68	O-RING, AS568-117, .799 ID X .103 CS,BUN	DepReq	POitem	         4501744706	                  10	-1	              3			17.11.2022	06.12.2022	C03	             8792202		B02	EA	            180
+			BB17-000284-94	BB17-000284-94	SHCS HEX, 7/8-9UNRCX2, 660D	DepReq	POitem	         4501738767	                  40	-2	              4			01.02.2023	06.12.2022	C03	             8792202		BC5	EA	            180
+			BB20-000111-75	BB20-000111-75	O-RING, 43,69x3, NBR90A	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		B02	EA	            180
+			BB15-000199-89	BB15-000199-89	XDCR ASSY,PRESS,POD,4-20 MA, 0-15000 PSI	DepReq	ShpgNt	         4501724758	                  20	-27	             54			16.12.2022	06.12.2022	C03	             8792202		BC7	EA	            200
+			BB17-000104-71	BB17-000104-71	SHCS HEX, 3/8-16UNRCX1,75, 316SH	DepReq	ProjSt			-8					06.12.2022	C03	             8792202		BC5	EA	            280
+			BB17-000103-07	BB17-000103-07	WASHER, LOCK,REGULAR SPRING, .437 NOM,31	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		BC5	EA	            189
+			BB88-KM0328-01	BB88-KM0328-01	CONN,ICON SEM, 16 WAY BRANTNERCABLE MOUN	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		BC7	EA	            280
+			BB88-KM0328-02	BB88-KM0328-02	ICON SEM,CONN,90 WAY BRANTNERCABLE MOUN	DepReq	ShpgNt	         4501726461	                  20	-2	              4			19.10.2022	06.12.2022	C03	             8792202		BC7	EA	            280
+			BB88-KM0328-03	BB88-KM0328-03	ICON SEM,CONN,96 WAY BRANTNERCABLE MOUN	DepReq	ShpgNt	         4501726461	                  30	-2	              4			19.10.2022	06.12.2022	C03	             8792202		BC7	EA	            280
+			BB20-000102-21	BB20-000102-21	O-RING, 82,14x3,53, NBR70A	DepReq	ProjSt			-4					06.12.2022	C03	             8792202		TS9	EA	            180
+			BB15-000624-75	BB15-000624-75	POD PART, INSULATOR, ROV CONNECTOR	DepReq	ProjSt			-4					06.12.2022	C03	             8792202		BC3	EA	            180
+			10041169	10041169	ICON AUX SEM 1200 BAUD 3K/4K PROTOCOL	DepReq	POitem	         4501745208	                  20	-1	              2			06.12.2022	06.12.2022	M01	             8792202		BA1	EA	            130
+			BB15-000656-19	BB15-000656-19	FILTER ELEMENT, HYDR, 8" LENGTH, 210BAR	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		U30	EA	            180
+			BB15-000226-18	BB15-000226-18	FLUID, DIELECTRIC, POLYDIMETHYLSILOXANE	DepReq	ProjSt			-173					06.12.2022	C03	             8792202		BC0	GAL	            140
+			BB15-000681-97	BB15-000681-97	ACCUMULATOR, BLADDER,1.25L, 207 bar	DepReq	POitem	         4501726434	                  20	-3	              6			22.11.2022	06.12.2022	S03	             8792202	            2	BC5	EA	            240
+			BB17-000278-06	BB17-000278-06	COLLAR, .562 M/P, 20000 PSI	DepReq	ShpgNt	         4501726954	                  70	-2	              6			23.05.2022	06.12.2022	C03	             8792202		M25	EA	            280
+			BB15-000693-20	BB15-000693-20	POD PART,PL,MTG,DUAL ICON SEM,TOP	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC3	EA	            280
+			BB15-000693-19	BB15-000693-19	POD PART,BRKT,MTG,DUAL ICON SEM,BOTTOM	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC4	EA	            280
+			BB28-000374-04	BB28-000374-04	WLDMT, BRKT, MTG, TRANSFER BARRIER	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC4	EA	            140
+			BB15-000242-18	BB15-000242-18	DECAL AKER SOLUTIONS LOGO ADHESIVE 36"x1	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC0	EA	            160
+			BB15-000680-94	BB15-000680-94	CONN-ELECT, ROV MATEABLE, RECEPTACLE, 4	DepReq	ShpgNt	         4501724371	                  20	-3	              6			21.09.2022	06.12.2022	C03	             8792202		BC7	EA	            250
+			BB15-000686-68	BB15-000686-68	LTPC, DUMMY, NO INSERTS, DELRIN	DepReq	ProjSt			-3					06.12.2022	C03	             8792202		BC7	EA	            250
+			BB28-000327-18	BB28-000327-18	WLDMNT,MANF,VERT,TRIPLE DIR CONTROL SPM	DepReq	POitem	         4501726466	                  60	-1	              2			09.11.2022	06.12.2022	C03	             8792202		U30	EA	            218
+			BB28-000327-19	BB28-000327-19	WLDMNT,MANF,VERT,TRIPLE DIR CONTROL SPM	DepReq	POitem	         4501726466	                  50	-1	              2			09.11.2022	06.12.2022	C03	             8792202		U30	EA	            224
+			10071545	10071545	WLDMNT,MANF,VERT,TRIPLE DIR CONTROL SPM	DepReq	POitem	         4501726466	                  30	-1	              2			09.11.2022	06.12.2022	C03	             8792202		U30	EA	            218
+			10110665	10110665	MANF,VERT,TRIPLE DIR CONTROL SPM VLVS	DepReq	POitem	         4501726466	                  40	-1	              2			09.11.2022	06.12.2022	C03	             8792202		U30	EA	            218
+			BB20-000111-21	BB20-000111-21	O-RING, 9,25x1,78, NBR70A	DepReq	ProjSt			-18					06.12.2022	C03	             8792202		B02	EA	            180
+			BB17-000214-40	BB17-000214-40	CLAMP, MOUNTING, HP ACCUMULATOR TO	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		BC4	EA	            280
+			BB17-000103-01	BB17-000103-01	WASHER, LOCK, REGULAR SPRING, .250 NOM	DepReq	ProjSt			-127					06.12.2022	C03	             8792202		BC5	EA	            189
+			BB17-080297-16	BB17-080297-16	WASHER FLAT M10 FORM'A' ST STL BS4320	DepReq	ProjSt			-2					06.12.2022	C02	             8792202		BC5	EA	            186
+			BB15-000733-01	BB15-000733-01	WIRE,22 AWG,WHT,600V,0.0425 OD19X34, FLH	DepReq	ProjSt			-500,000					06.12.2022	C03	             8792202		BC7	FT	            180
+			BB15-000733-02	BB15-000733-02	WIRE,22 AWG,BLK,600V,0.0425 OD19X34, FLH	DepReq	ProjSt			-500,000					06.12.2022	C03	             8792202		BC7	FT	            180
+			BB15-000205-13	BB15-000205-13	TIE, WRAP, 0-2.000 DIA, CABLE	DepReq	ProjSt			-500					06.12.2022	L02	             8792202		BC0	EA	            159
+			BB15-000367-32	BB15-000367-32	ELECT-MISC, WIRE MARKER, HEATSHRINK	DepReq	ProjSt			-500					06.12.2022	C03	             8792202		BC0	EA	            159
+			BB17-000293-28	BB17-000293-28	SHCS HEX, 5/16-18UNRCX2,25, 316SH	DepReq	ProjSt			-8					06.12.2022	C03	             8792202		BC5	EA	            280
+			BB15-000542-02	BB15-000542-02	RAW-TBG,SMLS,.562ODX.125W,20KSI,316SS,MP	DepReq	ProjSt			-3,000					06.12.2022	C03	             8792202		BC5	FT	            280
+			BB17-000182-04	BB17-000182-04	PLUG,HEX HD,.500 MNPT,7200PSI316 STAINL	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		BC0	EA	            159
+			BB15-000688-49	BB15-000688-49	CONN PART,ELECT,BOOT SEAL,NATRBR F/WIRE	DepReq	ProjSt			-50					06.12.2022	C03	             8792202		BC7	EA	            250
+			BB17-000293-30	BB17-000293-30	SHCS HEX, 5/16-18UNRCX1,5, 316SH	DepReq	ProjSt			-4					06.12.2022	C03	             8792202		BC5	EA	            280
+			BB17-000102-28	BB17-000102-28	BOLT HEX, 0,25-20UNRCX1,0, 316SH	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		BC5	EA	            280
+			BB15-000624-84	BB15-000624-84	SPACER REMOTE PRECHARGE VALVE	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC3	EA	            180
+			BB15-000624-85	BB15-000624-85	GUARD-POD PT.-R'MOTE.P'CH.VAL.	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC3	EA	            180
+			BB17-000150-81	BB17-000150-81	SHCS HEX, #10-24UNCX2,25, 316SH	DepReq	POitem	         4501728262	                 100	-4	              8			22.11.2022	06.12.2022	C03	             8792202		BC5	EA	            280
+			BB17-000114-73	BB17-000114-73	PLUG, .250 M/P, 20000 PSI, 316 STAINLESS	DepReq	ShpgNt	         4501726954	                  90	-3	              6			23.05.2022	06.12.2022	C03	             8792202		M25	EA	            180
+			BB17-000278-04	BB17-000278-04	COLLAR, .250 M/P, 20000 PSI, 316 STAINLE	DepReq	ShpgNt	         4501726954	                 110	-8	             16			23.05.2022	06.12.2022	C03	             8792202		M25	EA	            159
+			BB17-000114-70	BB17-000114-70	PLUG, HOLLOW HEX SOCKT HD, .250 MSAE, 31	DepReq	ProjSt			-33					06.12.2022	C03	             8792202		M25	EA	            159
+			BB17-000122-30	BB17-000122-30	PLUG, HEX HD, .312 MSAE, LONG THREAD,	DepReq	ProjSt			-16					06.12.2022	C03	             8792202		M25	EA	            160
+			BB17-000158-93	BB17-000158-93	NIPPLE, CLOSE,3/4NPT X 1.375 LG. SCH 40,	DepReq	ProjSt			-3					06.12.2022	C03	             8792202		M25	EA	            159
+			BB15-000686-63	BB15-000686-63	CONN-ELECT PART,RUBBER BOOT SEAL CAP	DepReq	ShpgNt	         4501724371	                  50	-4	              8			15.09.2022	06.12.2022	C03	             8792202		BC7	EA	            250
+			BB15-000719-81	BB15-000719-81	FEMALE CONN FS FOR RAYCHEM 22GA "HT"(.0	DepReq	ProjSt			-108					06.12.2022	C03	             8792202		BQ7	EA	            159
+			BB15-000719-82	BB15-000719-82	MALE CONN MP FOR RAYCHEM 22 GA"HT"(.041	DepReq	ProjSt			-22					06.12.2022	C03	             8792202		BQ7	EA	            180
+			BB15-000181-04	BB15-000181-04	WIRE STUB,RAYCHEM 22GA(.041 DIA)"HT"	DepReq	QM-lot	        10003212786		-102	            204		26.10.2022	26.10.2022	06.12.2022	C03	             8792202		BC0	EA	            140
+			BB15-000606-07	BB15-000606-07	2 PIN BOOT	DepReq	QM-lot	        10003212785		-77	            154		26.10.2022	26.10.2022	06.12.2022	C03	             8792202		BC0	EA	            160
+			10102437	10102437	SIX PIN TERMINAL BLOCK FOR CONNECTING UP	DepReq	ShpgNt	         4501726461	                  70	-19	             30			19.10.2022	06.12.2022	C03	             8792202		BC7	EA	            180
+			BB18-000130-64	BB18-000130-64	TAG, IDENTIFICATION,1.000 DIAW/.187 MTG	DepReq	ProjSt			-10					06.12.2022	L02	             8792202		BC0	EA	            159
+			10187811	10187811	SEAL RING TERMINAL M6 16-14 AWG BLUE	DepReq	ProjSt			-2					06.12.2022	L02	             8792202		BC5	EA	            180
+			BB17-000242-31	BB17-000242-31	SPCR,VOL EXCLUDER,269 CUBIC INCH DISPLAC	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		BC3	EA	            159
+			BB17-000242-29	BB17-000242-29	SPCR,VOL EXCLUDER,623 CUBIC INCH,DISPLAC	DepReq	ProjSt			-4					06.12.2022	C03	             8792202		BC3	EA	            160
+			BB17-000125-01	BB17-000125-01	WASHER, FLAT,TYPE "B" REGULAR, .250 NOM,	DepReq	ProjSt			-24					06.12.2022	C03	             8792202		BC5	EA	            189
+			BB17-000243-51	BB17-000243-51	SCREW HEX, 0,375-16UNRCX1,25, 316SH	DepReq	ProjSt			-4					06.12.2022	C03	             8792202		BC5	EA	            160
+			BB28-000327-21	BB28-000327-21	WLDMT,MANIF,HYDR,ADAPTER,8,250PSI VLV MT	DepReq	POitem	         4501726466	                  20	-2	              4			09.11.2022	06.12.2022	C03	             8792202		U30	EA	            218
+			BB18-000132-03	BB18-000132-03	VLV BODY,1/4" CHK VLV	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC3	EA	            280
+			BB15-000153-09	BB15-000153-09	VLV,CHK,CARTRIDGE TYPE,1/4",15KSPI,0.53	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC0	EA	            280
+			BB17-000294-41	BB17-000294-41	PLG,1.000 M/P,20KPSI W.P.,316SST	DepReq	ShpgNt	         4501726954	                  50	-1	              2			23.05.2022	06.12.2022	L02	             8792202		M25	EA	            159
+			BB17-000278-15	BB17-000278-15	NUT, GLAND, 1.000 M/P, 20000 PSI, 316 SS	DepReq	ShpgNt	         4501726954	                  40	-1	              2			23.05.2022	06.12.2022	C03	             8792202		M25	EA	            280
+			BB17-000242-32	BB17-000242-32	Volume Excluder, 518.5 cu in	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		BC3	EA	            180
+			BB11-KS0702-02	BB11-KS0702-02	E/H SELECTOR VALVE -SWT HP LHS 24VDC	DepReq	POitem	         4501726885	                  50	-2	              4			07.11.2022	06.12.2022	C03	             8792202		U30	EA	            280
+			BB11-KS0702-01	BB11-KS0702-01	E/H SELECTOR VALVE - SWT (24Vdc)	DepReq	POitem	         4501726885	                  30	-3	              6			07.11.2022	06.12.2022	C03	             8792202		U30	EA	            280
+			BB20-000119-60	BB20-000119-60	O-RING, 10,51x1,83, NBR90A	DepReq	ProjSt			-16					06.12.2022	C03	             8792202		B02	EA	            180
+			BB15-000205-52	BB15-000205-52	TIE, LOCKING, F/CABLE, MINIATURE	DepReq	ProjSt			-500					06.12.2022	C03	             8792202		BC0	EA	            280
+			BB20-000121-21	BB20-000121-21	O-RING,STATIC FACE SEAL ASSY,15KSI	DepReq	ProjSt			-19					06.12.2022	C03	             8792202		B02	EA	            180
+			BB17-000125-27	BB17-000125-27	WASHER, FLAT,TYPE "B" REGULAR, .375 NOM,	DepReq	ProjSt			-12					06.12.2022	C03	             8792202		BC5	EA	            189
+			BB17-000120-01	BB17-000120-01	NUT HEX, 1/4-20UNC, 316SH	DepReq	ProjSt			-41					06.12.2022	C03	             8792202		BC5	EA	            140
+			BB17-000278-09	BB17-000278-09	NUT, GLAND, .562 M/P, 20000 PSI, 316 SS	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		VJ1	EA	            280
+			BB17-000293-27	BB17-000293-27	SHCS HEX, 5/16-18UNRCX1,25, 316SH	DepReq	QM-lot	        10003211087		-8	             16		21.10.2022	21.10.2022	06.12.2022	C03	             8792202		BC5	EA	            280
+			10129765	10129765	SHCS HEX, 3/8-16UNRCX1,5, 316SH	DepReq	ProjSt			-4					06.12.2022	C03	             8792202		BC5	EA	            280
+			BB17-000103-03	BB17-000103-03	WASHER, LOCK,REGULAR SPRING, .375 NOM,	DepReq	ProjSt			-46					06.12.2022	C03	             8792202		BC5	EA	            150
+			BB15-000693-21	BB15-000693-21	ADAPTER, ACCUMULATOR, SCM PART	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC3	EA	            280
+			10155588	10155588	ACCUM, BLADDER, 5.00 GAL, 6KSI, AE STEM	DepReq	POitem	         4501730611	                  20	-1	              2			23.11.2022	06.12.2022	C03	             8792202		BC5	EA	            230
+			10172105	10172105	CPLG,HYD,FEM,0.25",15KPSI,R.I.CROWN SEAL	DepReq	ProjSt			-33					06.12.2022	C03	             8792202		BC0	EA	            160
+			10158837	10158837	POD, BRKT,STABILIZER,LP ACCUMULATOR wAE	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC4	EA	            160
+			10158990	10158990	HEX JAM NUT, SPECIAL, 2-12UNF, 316SS	DepReq	POitem	         4501738767	                  20	-1	              2			01.02.2023	06.12.2022	C03	             8792202		BC5	EA	            160
+			10197451	10197451	SHCS HEX, 1/4-20UNRCX2625, 718, PTFE	DepReq	POitem	         4501728262	                  20	-84	            168			28.11.2022	06.12.2022	C03	             8792202		BC5	EA	            189
+			BB17-000103-05	BB17-000103-05	WASHER SPRING	DepReq	ProjSt			-18					06.12.2022	L02	             8792202		BC5	EA	            159
+			10162916	10162916	LTPC,8-WAY,RECEPTACLE (SOCKET),TITANIUM	DepReq	ShpgNt	         4501724371	                  40	-1	              2			05.10.2022	06.12.2022	C03	             8792202		BC7	EA	            250
+			10228678	10228678	SHCS HEX, 5/16-18UNRCX2,5, 718, PTFE	DepReq	POitem	         4501728264	                  40	-20	             40			23.11.2022	06.12.2022	C03	             8792202		BC5	EA	            160
+			BB17-000293-26	BB17-000293-26	SHCS HEX, 5/16-18UNRCX2,5, 316SH	DepReq	ProjSt			-6					06.12.2022	C03	             8792202		BC5	EA	            280
+			BBH79260204473	BBH79260204473	O-RING, 227,97x6,99, NBR70A	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		B02	EA	            180
+			10230504	10230504	O-RING, 50,17x5,33, NBR70A	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		B02	EA	            180
+			10241909	10241909	CONN, STAB, 4-WAY, RECEPTACLE, ODI	DepReq	ProjSt			-8					06.12.2022	C03	             8792202		BC7	EA	            250
+			BB26-080001-19	BB26-080001-19	SHEET NEOPRENE 1000 x 600 x 3MM THK	DepReq	ProjSt			-1					06.12.2022	L02	             8792202		BC0	EA	             60
+			10259391	10259391	SHCS LOW HEX, M4X8, A4-80	DepReq	POitem	         4501728262	                  80	-3	              6			23.11.2022	06.12.2022	P01	             8792202		BC5	EA	            176
+			10261488	10261488	CABLE TIE MOUNT CTAM	DepReq	ProjSt			-3					06.12.2022	C02	             8792202		BC6	EA	            159
+			10140846	10140846	SHCS HEX, M6X45, A4-80	DepReq	ProjSt			-10					06.12.2022	P01	             8792202		BC5	EA	            216
+			BB15-000270-02	BB15-000270-02	WIRE CLOTH, .047 WIRE DIA, .120 OPEN WID	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC0	EA	            180
+			BB17-000125-13	BB17-000125-13	WASHER,FLAT, TYPE "B" REGULAR, .500 NOM	DepReq	ProjSt			-6					06.12.2022	C03	             8792202		BC5	EA	            189
+			BB17-000102-84	BB17-000102-84	SCREW HEX, 0,5-13UNRCX1,25, 316SH	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		BC5	EA	            280
+			BB16-000108-08	BB16-000108-08	CLAMP, TUBE, .375, 1 LINE,316STAINLESSS	DepReq	ProjSt			-5					06.12.2022	C03	             8792202		BC0	EA	            189
+			10240219	10240219	SCR, SHCS,.375-16 UNC-3A X .625 LG, 316	DepReq	ProjSt			-4					06.12.2022	C03	             8792202		BC5	EA	            280
+			BB17-100084-00	BB17-100084-00	SHCS HEX, 3/8-16UNRCX1, 316SH	DepReq	QM-lot	        10003210787		-2	              4		20.10.2022	20.10.2022	06.12.2022	S03	             8792202		BC5	EA	             90
+			10321088	10321088	SHCS HEX, 1/2-13UNRCX0,5, 316SH	DepReq	POitem	         4501728261	                  30	-2	              4			09.11.2022	06.12.2022	S03	             8792202		BC5	EA	             90
+			BB17-000278-10	BB17-000278-10	NUT, GLAND, .250 M/P, 20000 PSI, 316 SS,	DepReq	ProjSt			-8					06.12.2022	C02	             8792202		M25	EA	            140
+			BB17-100605-00	BB17-100605-00	SCREW HEX, 0,5-13UNRCX1,0, 316SH	DepReq	POitem	         4501728261	                  50	-2	              4			09.11.2022	06.12.2022	S03	             8792202		BC5	EA	             90
+			BB17-200641-00	BB17-200641-00	NUT HEX, 0,375-16UNC, 316SH	DepReq	ProjSt			-20					06.12.2022	C03	             8792202		BC5	EA	            260
+			BB17-MB0005-09	BB17-MB0005-09	WASHER, SERRATED; 1/4"; 316 SS	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC5	EA	             90
+			10155144	10155144	SHCS HEX, 1/4-20UNRCX0,625, A4-80	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC3	EA	             90
+			10155144	10155144	SHCS HEX, 1/4-20UNRCX0,625, A4-80	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		BC3	EA	             90
+			10125001	10125001	SHCS HEX, M12X35, A4-80	DepReq	ProjSt			-6					06.12.2022	S03	             8792202		BC5	EA	            189
+			10214299	10214299	NUT JAM HEX, 0,875-14UNF, 316SH	DepReq	ProjSt			-5					06.12.2022	S03	             8792202		BC5	EA	             90
+			BB17-MX0008-00	BB17-MX0008-00	SHCS HEX, M6X16, A4-80	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		BC5	EA	            176
+			10174540	10174540	SCREW HEX, M10X20, A4-80	DepReq	POitem	         4501741016	                  20	-2	              4			08.02.2023	06.12.2022	V01	             8792202		BC5	EA	            202
+			BB17-MX0008-00	BB17-MX0008-00	SHCS HEX, M6X16, A4-80	DepReq	ProjSt			-6					06.12.2022	C03	             8792202		BC5	EA	            176
+			10210124	10210124	SHCS HEX, 1/4-20UNRCX1, 316SH	DepReq	ProjSt			-24					06.12.2022	P01	             8792202		BC5	EA	            176
+			BS0000819	BS0000819	GLAND 1/4 MP(M) CGLX40	DepReq	ShpgNt	         4501726954	                  30	-1	              2			23.05.2022	06.12.2022	C03	             8792202		M25	EA	            260
+			10269343	10269343	SCREW HEX, 0,5-13UNRCX1,5, 316SH	DepReq	QM-lot	        10003210786		-1	              2		20.10.2022	20.10.2022	06.12.2022	P01	             8792202		BC5	EA	            150
+			BS0000845	BS0000845	CON, 1/2" OD(F)X1/2" NPT(M), SS-810-1-8	DepReq	ProjSt			-2					06.12.2022	Y01	             8792202		C36	EA	             49
+			BS0001088	BS0001088	TUBE 1/2 ODx.065 WT SS-T8-S-065-6ME	DepReq	POitem	         4501741789	                  20	-3	             24			28.12.2022	06.12.2022	P01	             8792202		M25	M	            150
+			BB17-HS0001-41	BB17-HS0001-41	TEE,UNION,1/2 TUBE,SWAGELOK, SS-810-3	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC0	EA	            382
+			BBSS-T4-S-049-6ME	BBSS-T4-S-049-6ME	TUBE, 1/4" OD X 0.049" WT, 7.5K PSI	DepReq	POitem	         4501730759	                  11	-6	             42			08.11.2022	06.12.2022	U01	             8792202		BC0	M	            350
+			BS0001097	BS0001097	TEE, 1/4" (M),  SS-400-3	DepReq	ProjSt			-2					06.12.2022	P01	             8792202		BC0	EA	            150
+			BB17-060016-12	BB17-060016-12	CONNECTOR 1/4" TUBE - 7/16"-20UNF SAE PO	DepReq	ProjSt			-4					06.12.2022	Y01	             8792202		BC0	EA	            120
+			10140427	10140427	REDUCER, 1/4" x 1/2" TUBE OD, SWAGELOK	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC0	EA	            280
+			10289380	10289380	MALE ELBOW 3/8"TUBE OD TO 1/8" MALE NPT	DepReq	Stock			-5					06.12.2022	B15	             8792202		B01	EA	            159
+			BB17-WE0198-17	BB17-WE0198-17	CONN,  STRAIGHT, 1/8  NPT (M) X 1/4 TUBE	DepReq	ProjSt			-3					06.12.2022	U01	             8792202		BC0	EA	            350
+			10004772	10004772	3/8" x 0,049" Tubing, Swagelok tubing	DepReq	ProjSt			-6					06.12.2022	P01	             8792202		BC5	M	            150
+			BB15-000719-86	BB15-000719-86	BLIND BOOT SEAL FOR BRATNER 6PIN TERMIN	DepReq	ProjSt			-28					06.12.2022	C03	             8792202		BQ7	EA	            180
+			10178397	10178397	CLAMP, BOLT, 304SS, 2-7/8" TO 1/8"	DepReq	POitem	         4501738767	                  30	-1	              2			01.02.2023	06.12.2022	C03	             8792202		M25	EA	            140
+			10178398	10178398	STUD FT, SPECIAL, #10-32UNF X 0.75", 316	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC5	EA	            180
+			10178399	10178399	CLAMP, LOOP, 1/2" OD 300 SS	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		M25	EA	            160
+			10178460	10178460	NUT HEX, LOCK, W/ INSE, #10-32 UNF, 18.8	DepReq	ProjSt			-2					06.12.2022	C03	             8792202		BC5	EA	            160
+			10178461	10178461	WASHER, FLAT, #10, 18-8 SS, 7/16"OD	DepReq	ProjSt			-1					06.12.2022	C03	             8792202		BC5	EA	            150
+
+		10103507		10103507	SCM ASSEMBLY,15K, 26 FUNCTIONS(21LP/5HP)	OrdRes	PldOrd	          111913728		-1	              1	29.11.2022	06.12.2022	10.03.2023	21.04.2023	A72	             8470025	           65		EA
+
+			BB15-000624-48	BB15-000624-48	POD PART, LATCH HOUSING, F/WEDGE PISTON,	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		U30	EA	            232
+			BB15-000624-49	BB15-000624-49	AWEDGE PISTONDOG ACTUATING	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		U30	EA	            207
+			BB15-000624-06	BB15-000624-06	CLIP RING LATCH DOG	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		U30	EA	            207
+			BB15-000624-07	BB15-000624-07	CLIP RETAINER	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC3	EA	            180
+			BB15-000624-08	BB15-000624-08	SPLIT RING - POD PART	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC3	EA	            180
+			BB15-000624-50	BB15-000624-50	LATCH DOGSF/WEDGE PISTON	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		U30	EA	            207
+			BB15-000624-10	BB15-000624-10	BUMPER NOSE - POD PART	DepReq	ProjSt			-1					06.12.2022	C03	             9241201	            2	BC3	EA	            160
+			BB15-000624-51	BB15-000624-51	Wedge Piston Key	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC3	EA	            160
+			BB16-000206-07	BB16-000206-07	ROD LATCH 3.000 OD X 89.937 LG NITRONIC	DepReq	ShpgNt	         4501728403	                  50	-1	              2			22.07.2022	06.12.2022	C03	             9241201		BC7	EA	            280
+			BB28-000165-33	BB28-000165-33	WLDMT,MDRL,SCM	DepReq	ShpgNt	         4501728403	                  70	-1	              2			22.07.2022	06.12.2022	C03	             9241201		BC4	EA	            280
+			BB19-000110-81	BB19-000110-81	Mandrel Seal Flange	DepReq	ShpgNt	         4501728403	                  60	-1	              2			22.07.2022	06.12.2022	C03	             9241201		BC7	EA	            180
+			10103747	10103747	BASE PLATE,DRILLED, SCM 15K,26 FUNCTIONS	DepReq	ProjSt			-1					06.12.2022	U01	             9241201		BC3	EA	            189
+			BB11-KS0700-01	BB11-KS0700-01	SELECTOR VALVE - SWT (24Vdc)	DepReq	POitem	         4501726885	                  20	-19	             38			07.11.2022	06.12.2022	C03	             9241201		U30	EA	            280
+			BB15-000656-30	BB15-000656-30	FILTER, HYDR, 3 MICRON,15000PSI,	DepReq	ShpgNt	         4501730249	                  10	-2	              4			09.11.2022	06.12.2022	C03	             9241201		U30	EA	            280
+			BB15-000207-18	BB15-000207-18	RING, RETAINING, EXT 1.500 INCONEL X-750	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		B02	EA	            159
+			BB15-000184-40	BB15-000184-40	RELIEF VALVE, 1/2" NPT, 10 PSI, 316 SS	DepReq	QM-lot	        10003169386		-3	              6		12.07.2022	12.07.2022	06.12.2022	C03	             9241201		M25	EA	            160
+			BB15-000165-91	BB15-000165-91	VALVE, NEEDLE, .250 FM/P,20000 PSI, 2 WA	DepReq	ProjSt			-2					06.12.2022	V01	             9241201		BC0	EA	            150
+			BB28-000187-14	BB28-000187-14	WELDMENT,BRACKET,MOUNTING ELECTRICAL 6 P	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC4	EA	            180
+			BB17-000114-74	BB17-000114-74	PLUG,HEX HD,.250 MNPT,316 SST,10000 PSI	DepReq	ShpgNt	         4501726954	                  10	-1	              2			23.05.2022	06.12.2022	C03	             9241201		M25	EA	            159
+			10041168	10041168	ICON CORE SEM 1200 BAUD 4K PROTOCOL	DepReq	POitem	         4501745208	                  10	-1	              2			15.12.2022	06.12.2022	M01	             9241201		BA1	EA	            130
+			BB15-000173-12	BB15-000173-12	RAW-TBG, SEAMLESS, .250 OD X .109 ID, .0	DepReq	ProjSt			-10,000					06.12.2022	C03	             9241201		M25	FT	            140
+			BB20-000111-66	BB20-000111-66	O-RING, 177,17x5,33, NBR70A	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		B02	EA	            180
+			BB17-000104-24	BB17-000104-24	SHCS HEX, 3/8-16UNRCX1,25, 316SH	DepReq	QM-lot	        10003210783		-8	             16		20.10.2022	20.10.2022	06.12.2022	C03	             9241201		BC5	EA	            150
+			BB15-000624-71	BB15-000624-71	COMPENSATION COVER, POD PART	DepReq	ProjSt			-5					06.12.2022	C03	             9241201		BC3	EA	            140
+			BB17-000102-85	BB17-000102-85	SCREW HEX, 10-32UNRFX0,375, 316SH	DepReq	ProjSt			-30					06.12.2022	C03	             9241201		BC5	EA	            150
+			BB17-000103-17	BB17-000103-17	WASHER, LOCK,REGULAR SPRING, #10 NOM,316	DepReq	ProjSt			-30					06.12.2022	L02	             9241201		BC5	EA	            189
+			BB17-000125-10	BB17-000125-10	WASHER, FLAT, #10, 316SS	DepReq	POitem	         4501729740	                  30	-30	             60			22.11.2022	06.12.2022	L02	             9241201		BC5	EA	            189
+			BB17-000104-92	BB17-000104-92	SHCS HEX, 1/2-13UNRCX6,25, 316SH	DepReq	QM-lot	        10003213548		-12	             24		27.10.2022	27.10.2022	06.12.2022	C03	             9241201		BC5	EA	            280
+			BB17-000103-02	BB17-000103-02	WASHER, LOCK,REGULAR SPRING, .500 NOM,31	DepReq	ProjSt			-23					06.12.2022	C03	             9241201		BC5	EA	            189
+			BB17-000120-17	BB17-000120-17	NUT HEX, 0,5-13UNC, 316SH	DepReq	ProjSt			-13					06.12.2022	C03	             9241201		BC5	EA	            280
+			BB15-000686-13	BB15-000686-13	CONN-ELECT, 8 CONTACT FLANGE MOUNTED, RO	DepReq	QM-lot	        10003211417		-1	              1		22.10.2022	22.10.2022	06.12.2022	C03	             9241201		BC7	EA	            250
+			BB17-000295-05	BB17-000295-05	SCREW HEX, 0,25-20UNRCX0,625, TI2	DepReq	POitem	         4501728264	                 100	-24	             50			23.11.2022	06.12.2022	C03	             9241201		BC5	EA	            180
+			BB15-000546-06	BB15-000546-06	ACCUMULATOR PART, BLADDER, MOD2.500 GALL	DepReq	POitem	         4501727060	                  20	-5	             10			06.12.2022	06.12.2022	C03	             9241201		BC5	EA	            214
+			BB17-000231-06	BB17-000231-06	THREDSEAL, WASHER, .88" BOLT,1.562 OD X	DepReq	ProjSt			-5					06.12.2022	C03	             9241201		BC5	EA	            189
+			BB17-000104-57	BB17-000104-57	SHCS HEX, 3/8-16UNRCX0,75, 316SH	DepReq	POitem	         4501728261	                  60	-30	             60			03.11.2022	06.12.2022	C03	             9241201		BC5	EA	            280
+			BB11-KS0701-01	BB11-KS0701-01	CHOKE CONTROL VALVE - SWT (24Vdc)	DepReq	POitem	         4501726885	                  40	-2	              4			07.11.2022	06.12.2022	C03	             9241201		U30	EA	            280
+			BB17-000284-90	BB17-000284-90	SHCS HEX, 7/16-14UNRCX1,25, 316SH	DepReq	QM-lot	        10003208956		-8	             16		17.10.2022	17.10.2022	06.12.2022	C03	             9241201		BC5	EA	            180
+			BB15-000182-39	BB15-000182-39	ACC,PSTN,.57 GAL,20 KSI, 0.562 M/P FLUID	DepReq	POitem	         4501727060	                  30	-1	              2			07.11.2022	06.12.2022	C03	             9241201		BC5	EA	            280
+			BB20-000111-77	BB20-000111-77	O-RING, 75,57x5,33, NBR70A	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		TS9	EA	            180
+			BB20-000110-39	BB20-000110-39	O-RING BACKUP,8-337, 3.018 IDX .183 CS,	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		B02	EA	            180
+			BB20-000119-06	BB20-000119-06	O-RING, 850,9x5,33, NBR70A	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		TS9	EA	            180
+			BB17-000103-12	BB17-000103-12	WASHER, LOCK,REGULAR SPRING, .750 NOM,31	DepReq	POitem	         4501728264	                 110	-6	             10			09.11.2022	06.12.2022	C03	             9241201		BC5	EA	            189
+			BB17-000284-93	BB17-000284-93	SHCS HEX, 3/4-10UNRCX2,5, 316SH	DepReq	POitem	         4501728262	                  70	-6	             12			22.11.2022	06.12.2022	C03	             9241201		BC5	EA	            180
+			BB17-000284-92	BB17-000284-92	SHCS HEX, 5/8-11UNRCX2, 316SH	DepReq	ProjSt			-8					06.12.2022	C03	             9241201		BC5	EA	            180
+			BB17-000103-10	BB17-000103-10	WASHER, LOCK,REGULAR SPRING, .625 NOM,31	DepReq	ProjSt			-8					06.12.2022	C03	             9241201		BC5	EA	            189
+			BB15-000245-30	BB15-000245-30	PIN, DOWEL, Ø1/4" x 0.50", 316SS	DepReq	PurRqs	           17583481	                  10	-1	              2	28.10.2022		04.05.2023	06.12.2022	C03	             9241201		M25	EA	            159
+			BB17-000162-14	BB17-000162-14	PIN, SLOTTED, SPRING, .375 ODX .750 L 3	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		BC0	EA	            150
+			BB15-000245-55	BB15-000245-55	PIN ORIENTATION	DepReq	ProjSt			-8					06.12.2022	C03	             9241201		BC3	EA	            180
+			BB28-000279-87	BB28-000279-87	WLDMNT, CVR, SCM	DepReq	POitem	         4501730946	                  30	-1	              2			20.12.2022	06.12.2022	C03	             9241201		BC4	EA	            280
+			BB20-000119-10	BB20-000119-10	O-RING, 64,77x2,62, NBR70A	DepReq	ProjSt			-4					06.12.2022	C03	             9241201		B02	EA	            180
+			BB20-000102-68	BB20-000102-68	O-RING, AS568-117, .799 ID X .103 CS,BUN	DepReq	POitem	         4501744706	                  10	-1	              3			17.11.2022	06.12.2022	C03	             9241201		B02	EA	            180
+			BB17-000284-94	BB17-000284-94	SHCS HEX, 7/8-9UNRCX2, 660D	DepReq	POitem	         4501738767	                  40	-2	              4			01.02.2023	06.12.2022	C03	             9241201		BC5	EA	            180
+			BB20-000111-75	BB20-000111-75	O-RING, 43,69x3, NBR90A	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		B02	EA	            180
+			BB15-000199-89	BB15-000199-89	XDCR ASSY,PRESS,POD,4-20 MA, 0-15000 PSI	DepReq	ShpgNt	         4501724758	                  20	-27	             54			16.12.2022	06.12.2022	C03	             9241201		BC7	EA	            200
+			BB17-000104-71	BB17-000104-71	SHCS HEX, 3/8-16UNRCX1,75, 316SH	DepReq	ProjSt			-8					06.12.2022	C03	             9241201		BC5	EA	            280
+			BB17-000103-07	BB17-000103-07	WASHER, LOCK,REGULAR SPRING, .437 NOM,31	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		BC5	EA	            189
+			BB88-KM0328-01	BB88-KM0328-01	CONN,ICON SEM, 16 WAY BRANTNERCABLE MOUN	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		BC7	EA	            280
+			BB88-KM0328-02	BB88-KM0328-02	ICON SEM,CONN,90 WAY BRANTNERCABLE MOUN	DepReq	ShpgNt	         4501726461	                  20	-2	              4			19.10.2022	06.12.2022	C03	             9241201		BC7	EA	            280
+			BB88-KM0328-03	BB88-KM0328-03	ICON SEM,CONN,96 WAY BRANTNERCABLE MOUN	DepReq	ShpgNt	         4501726461	                  30	-2	              4			19.10.2022	06.12.2022	C03	             9241201		BC7	EA	            280
+			BB20-000102-21	BB20-000102-21	O-RING, 82,14x3,53, NBR70A	DepReq	ProjSt			-4					06.12.2022	C03	             9241201		TS9	EA	            180
+			BB15-000624-75	BB15-000624-75	POD PART, INSULATOR, ROV CONNECTOR	DepReq	ProjSt			-4					06.12.2022	C03	             9241201		BC3	EA	            180
+			10041169	10041169	ICON AUX SEM 1200 BAUD 3K/4K PROTOCOL	DepReq	POitem	         4501745208	                  20	-1	              2			06.12.2022	06.12.2022	M01	             9241201		BA1	EA	            130
+			BB15-000656-19	BB15-000656-19	FILTER ELEMENT, HYDR, 8" LENGTH, 210BAR	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		U30	EA	            180
+			BB15-000226-18	BB15-000226-18	FLUID, DIELECTRIC, POLYDIMETHYLSILOXANE	DepReq	PurRqs	           16599933	                  10	-173	             16	20.07.2022		09.12.2022	06.12.2022	C03	             9241201		BC0	GAL	            140
+			BB15-000681-97	BB15-000681-97	ACCUMULATOR, BLADDER,1.25L, 207 bar	DepReq	POitem	         4501726434	                  20	-3	              6			22.11.2022	06.12.2022	S03	             9241201	            2	BC5	EA	            240
+			BB17-000278-06	BB17-000278-06	COLLAR, .562 M/P, 20000 PSI	DepReq	ShpgNt	         4501726954	                  70	-2	              6			23.05.2022	06.12.2022	C03	             9241201		M25	EA	            280
+			BB15-000693-20	BB15-000693-20	POD PART,PL,MTG,DUAL ICON SEM,TOP	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC3	EA	            280
+			BB15-000693-19	BB15-000693-19	POD PART,BRKT,MTG,DUAL ICON SEM,BOTTOM	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC4	EA	            280
+			BB28-000374-04	BB28-000374-04	WLDMT, BRKT, MTG, TRANSFER BARRIER	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC4	EA	            140
+			BB15-000242-18	BB15-000242-18	DECAL AKER SOLUTIONS LOGO ADHESIVE 36"x1	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC0	EA	            160
+			BB15-000680-94	BB15-000680-94	CONN-ELECT, ROV MATEABLE, RECEPTACLE, 4	DepReq	ShpgNt	         4501724371	                  20	-3	              6			21.09.2022	06.12.2022	C03	             9241201		BC7	EA	            250
+			BB15-000686-68	BB15-000686-68	LTPC, DUMMY, NO INSERTS, DELRIN	DepReq	ProjSt			-3					06.12.2022	C03	             9241201		BC7	EA	            250
+			BB28-000327-18	BB28-000327-18	WLDMNT,MANF,VERT,TRIPLE DIR CONTROL SPM	DepReq	POitem	         4501726466	                  60	-1	              2			09.11.2022	06.12.2022	C03	             9241201		U30	EA	            218
+			BB28-000327-19	BB28-000327-19	WLDMNT,MANF,VERT,TRIPLE DIR CONTROL SPM	DepReq	POitem	         4501726466	                  50	-1	              2			09.11.2022	06.12.2022	C03	             9241201		U30	EA	            224
+			10071545	10071545	WLDMNT,MANF,VERT,TRIPLE DIR CONTROL SPM	DepReq	POitem	         4501726466	                  30	-1	              2			09.11.2022	06.12.2022	C03	             9241201		U30	EA	            218
+			10110665	10110665	MANF,VERT,TRIPLE DIR CONTROL SPM VLVS	DepReq	POitem	         4501726466	                  40	-1	              2			09.11.2022	06.12.2022	C03	             9241201		U30	EA	            218
+			BB20-000111-21	BB20-000111-21	O-RING, 9,25x1,78, NBR70A	DepReq	ProjSt			-18					06.12.2022	C03	             9241201		B02	EA	            180
+			BB17-000214-40	BB17-000214-40	CLAMP, MOUNTING, HP ACCUMULATOR TO	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		BC4	EA	            280
+			BB17-000103-01	BB17-000103-01	WASHER, LOCK, REGULAR SPRING, .250 NOM	DepReq	ProjSt			-127					06.12.2022	C03	             9241201		BC5	EA	            189
+			BB17-080297-16	BB17-080297-16	WASHER FLAT M10 FORM'A' ST STL BS4320	DepReq	ProjSt			-2					06.12.2022	C02	             9241201		BC5	EA	            186
+			BB15-000733-01	BB15-000733-01	WIRE,22 AWG,WHT,600V,0.0425 OD19X34, FLH	DepReq	ProjSt			-500,000					06.12.2022	C03	             9241201		BC7	FT	            180
+			BB15-000733-02	BB15-000733-02	WIRE,22 AWG,BLK,600V,0.0425 OD19X34, FLH	DepReq	ProjSt			-500,000					06.12.2022	C03	             9241201		BC7	FT	            180
+			BB15-000205-13	BB15-000205-13	TIE, WRAP, 0-2.000 DIA, CABLE	DepReq	ProjSt			-500					06.12.2022	L02	             9241201		BC0	EA	            159
+			BB15-000367-32	BB15-000367-32	ELECT-MISC, WIRE MARKER, HEATSHRINK	DepReq	ProjSt			-500					06.12.2022	C03	             9241201		BC0	EA	            159
+			BB17-000293-28	BB17-000293-28	SHCS HEX, 5/16-18UNRCX2,25, 316SH	DepReq	ProjSt			-8					06.12.2022	C03	             9241201		BC5	EA	            280
+			BB15-000542-02	BB15-000542-02	RAW-TBG,SMLS,.562ODX.125W,20KSI,316SS,MP	DepReq	ProjSt			-3,000					06.12.2022	C03	             9241201		BC5	FT	            280
+			BB17-000182-04	BB17-000182-04	PLUG,HEX HD,.500 MNPT,7200PSI316 STAINL	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		BC0	EA	            159
+			BB15-000688-49	BB15-000688-49	CONN PART,ELECT,BOOT SEAL,NATRBR F/WIRE	DepReq	ProjSt			-50					06.12.2022	C03	             9241201		BC7	EA	            250
+			BB17-000293-30	BB17-000293-30	SHCS HEX, 5/16-18UNRCX1,5, 316SH	DepReq	ProjSt			-4					06.12.2022	C03	             9241201		BC5	EA	            280
+			BB17-000102-28	BB17-000102-28	BOLT HEX, 0,25-20UNRCX1,0, 316SH	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		BC5	EA	            280
+			BB15-000624-84	BB15-000624-84	SPACER REMOTE PRECHARGE VALVE	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC3	EA	            180
+			BB15-000624-85	BB15-000624-85	GUARD-POD PT.-R'MOTE.P'CH.VAL.	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC3	EA	            180
+			BB17-000150-81	BB17-000150-81	SHCS HEX, #10-24UNCX2,25, 316SH	DepReq	POitem	         4501728262	                 100	-4	              8			22.11.2022	06.12.2022	C03	             9241201		BC5	EA	            280
+			BB17-000114-73	BB17-000114-73	PLUG, .250 M/P, 20000 PSI, 316 STAINLESS	DepReq	ShpgNt	         4501726954	                  90	-3	              6			23.05.2022	06.12.2022	C03	             9241201		M25	EA	            180
+			BB17-000278-04	BB17-000278-04	COLLAR, .250 M/P, 20000 PSI, 316 STAINLE	DepReq	ShpgNt	         4501726954	                 110	-8	             16			23.05.2022	06.12.2022	C03	             9241201		M25	EA	            159
+			BB17-000114-70	BB17-000114-70	PLUG, HOLLOW HEX SOCKT HD, .250 MSAE, 31	DepReq	ProjSt			-33					06.12.2022	C03	             9241201		M25	EA	            159
+			BB17-000122-30	BB17-000122-30	PLUG, HEX HD, .312 MSAE, LONG THREAD,	DepReq	ProjSt			-16					06.12.2022	C03	             9241201		M25	EA	            160
+			BB17-000158-93	BB17-000158-93	NIPPLE, CLOSE,3/4NPT X 1.375 LG. SCH 40,	DepReq	ProjSt			-3					06.12.2022	C03	             9241201		M25	EA	            159
+			BB15-000686-63	BB15-000686-63	CONN-ELECT PART,RUBBER BOOT SEAL CAP	DepReq	ShpgNt	         4501724371	                  50	-4	              8			15.09.2022	06.12.2022	C03	             9241201		BC7	EA	            250
+			BB15-000719-81	BB15-000719-81	FEMALE CONN FS FOR RAYCHEM 22GA "HT"(.0	DepReq	ProjSt			-108					06.12.2022	C03	             9241201		BQ7	EA	            159
+			BB15-000719-82	BB15-000719-82	MALE CONN MP FOR RAYCHEM 22 GA"HT"(.041	DepReq	ProjSt			-22					06.12.2022	C03	             9241201		BQ7	EA	            180
+			BB15-000181-04	BB15-000181-04	WIRE STUB,RAYCHEM 22GA(.041 DIA)"HT"	DepReq	QM-lot	        10003212786		-102	            204		26.10.2022	26.10.2022	06.12.2022	C03	             9241201		BC0	EA	            140
+			BB15-000606-07	BB15-000606-07	2 PIN BOOT	DepReq	QM-lot	        10003212785		-77	            154		26.10.2022	26.10.2022	06.12.2022	C03	             9241201		BC0	EA	            160
+			10102437	10102437	SIX PIN TERMINAL BLOCK FOR CONNECTING UP	DepReq	ShpgNt	         4501726461	                  70	-19	             30			19.10.2022	06.12.2022	C03	             9241201		BC7	EA	            180
+			BB18-000130-64	BB18-000130-64	TAG, IDENTIFICATION,1.000 DIAW/.187 MTG	DepReq	ProjSt			-10					06.12.2022	L02	             9241201		BC0	EA	            159
+			BB17-000242-31	BB17-000242-31	SPCR,VOL EXCLUDER,269 CUBIC INCH DISPLAC	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		BC3	EA	            159
+			BB17-000242-29	BB17-000242-29	SPCR,VOL EXCLUDER,623 CUBIC INCH,DISPLAC	DepReq	ProjSt			-4					06.12.2022	C03	             9241201		BC3	EA	            160
+			BB17-000125-01	BB17-000125-01	WASHER, FLAT,TYPE "B" REGULAR, .250 NOM,	DepReq	ProjSt			-24					06.12.2022	C03	             9241201		BC5	EA	            189
+			BB17-000243-51	BB17-000243-51	SCREW HEX, 0,375-16UNRCX1,25, 316SH	DepReq	ProjSt			-4					06.12.2022	C03	             9241201		BC5	EA	            160
+			BB28-000327-21	BB28-000327-21	WLDMT,MANIF,HYDR,ADAPTER,8,250PSI VLV MT	DepReq	POitem	         4501726466	                  20	-2	              4			09.11.2022	06.12.2022	C03	             9241201		U30	EA	            218
+			BB18-000132-03	BB18-000132-03	VLV BODY,1/4" CHK VLV	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC3	EA	            280
+			BB15-000153-09	BB15-000153-09	VLV,CHK,CARTRIDGE TYPE,1/4",15KSPI,0.53	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC0	EA	            280
+			BB17-000294-41	BB17-000294-41	PLG,1.000 M/P,20KPSI W.P.,316SST	DepReq	ShpgNt	         4501726954	                  50	-1	              2			23.05.2022	06.12.2022	L02	             9241201		M25	EA	            159
+			BB17-000278-15	BB17-000278-15	NUT, GLAND, 1.000 M/P, 20000 PSI, 316 SS	DepReq	ShpgNt	         4501726954	                  40	-1	              2			23.05.2022	06.12.2022	C03	             9241201		M25	EA	            280
+			BB17-000242-32	BB17-000242-32	Volume Excluder, 518.5 cu in	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		BC3	EA	            180
+			BB11-KS0702-02	BB11-KS0702-02	E/H SELECTOR VALVE -SWT HP LHS 24VDC	DepReq	POitem	         4501726885	                  50	-2	              4			07.11.2022	06.12.2022	C03	             9241201		U30	EA	            280
+			BB11-KS0702-01	BB11-KS0702-01	E/H SELECTOR VALVE - SWT (24Vdc)	DepReq	POitem	         4501726885	                  30	-3	              6			07.11.2022	06.12.2022	C03	             9241201		U30	EA	            280
+			BB20-000119-60	BB20-000119-60	O-RING, 10,51x1,83, NBR90A	DepReq	ProjSt			-16					06.12.2022	C03	             9241201		B02	EA	            180
+			BB15-000205-52	BB15-000205-52	TIE, LOCKING, F/CABLE, MINIATURE	DepReq	ProjSt			-500					06.12.2022	C03	             9241201		BC0	EA	            280
+			BB20-000121-21	BB20-000121-21	O-RING,STATIC FACE SEAL ASSY,15KSI	DepReq	ProjSt			-19					06.12.2022	C03	             9241201		B02	EA	            180
+			BB17-000125-27	BB17-000125-27	WASHER, FLAT,TYPE "B" REGULAR, .375 NOM,	DepReq	ProjSt			-12					06.12.2022	C03	             9241201		BC5	EA	            189
+			BB17-000120-01	BB17-000120-01	NUT HEX, 1/4-20UNC, 316SH	DepReq	ProjSt			-41					06.12.2022	C03	             9241201		BC5	EA	            140
+			BB17-000278-09	BB17-000278-09	NUT, GLAND, .562 M/P, 20000 PSI, 316 SS	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		VJ1	EA	            280
+			BB17-000293-27	BB17-000293-27	SHCS HEX, 5/16-18UNRCX1,25, 316SH	DepReq	QM-lot	        10003211087		-8	             16		21.10.2022	21.10.2022	06.12.2022	C03	             9241201		BC5	EA	            280
+			10129765	10129765	SHCS HEX, 3/8-16UNRCX1,5, 316SH	DepReq	ProjSt			-4					06.12.2022	C03	             9241201		BC5	EA	            280
+			BB17-000103-03	BB17-000103-03	WASHER, LOCK,REGULAR SPRING, .375 NOM,	DepReq	ProjSt			-46					06.12.2022	C03	             9241201		BC5	EA	            150
+			BB15-000693-21	BB15-000693-21	ADAPTER, ACCUMULATOR, SCM PART	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC3	EA	            280
+			10155588	10155588	ACCUM, BLADDER, 5.00 GAL, 6KSI, AE STEM	DepReq	POitem	         4501730611	                  20	-1	              2			23.11.2022	06.12.2022	C03	             9241201		BC5	EA	            230
+			10172105	10172105	CPLG,HYD,FEM,0.25",15KPSI,R.I.CROWN SEAL	DepReq	ProjSt			-33					06.12.2022	C03	             9241201		BC0	EA	            160
+			10158837	10158837	POD, BRKT,STABILIZER,LP ACCUMULATOR wAE	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC4	EA	            160
+			10158990	10158990	HEX JAM NUT, SPECIAL, 2-12UNF, 316SS	DepReq	POitem	         4501738767	                  20	-1	              2			01.02.2023	06.12.2022	C03	             9241201		BC5	EA	            160
+			10197451	10197451	SHCS HEX, 1/4-20UNRCX2625, 718, PTFE	DepReq	POitem	         4501728262	                  20	-84	            168			28.11.2022	06.12.2022	C03	             9241201		BC5	EA	            189
+			BB17-000103-05	BB17-000103-05	WASHER SPRING	DepReq	ProjSt			-18					06.12.2022	L02	             9241201		BC5	EA	            159
+			10162916	10162916	LTPC,8-WAY,RECEPTACLE (SOCKET),TITANIUM	DepReq	ShpgNt	         4501724371	                  40	-1	              2			05.10.2022	06.12.2022	C03	             9241201		BC7	EA	            250
+			10228678	10228678	SHCS HEX, 5/16-18UNRCX2,5, 718, PTFE	DepReq	POitem	         4501728264	                  40	-20	             40			23.11.2022	06.12.2022	C03	             9241201		BC5	EA	            160
+			BB17-000293-26	BB17-000293-26	SHCS HEX, 5/16-18UNRCX2,5, 316SH	DepReq	ProjSt			-6					06.12.2022	C03	             9241201		BC5	EA	            280
+			BBH79260204473	BBH79260204473	O-RING, 227,97x6,99, NBR70A	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		B02	EA	            180
+			10230504	10230504	O-RING, 50,17x5,33, NBR70A	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		B02	EA	            180
+			10241909	10241909	CONN, STAB, 4-WAY, RECEPTACLE, ODI	DepReq	ProjSt			-8					06.12.2022	C03	             9241201		BC7	EA	            250
+			BB26-080001-19	BB26-080001-19	SHEET NEOPRENE 1000 x 600 x 3MM THK	DepReq	ProjSt			-1					06.12.2022	L02	             9241201		BC0	EA	             60
+			10259391	10259391	SHCS LOW HEX, M4X8, A4-80	DepReq	POitem	         4501728262	                  80	-3	              6			23.11.2022	06.12.2022	P01	             9241201		BC5	EA	            176
+			10261488	10261488	CABLE TIE MOUNT CTAM	DepReq	ProjSt			-3					06.12.2022	C02	             9241201		BC6	EA	            159
+			10140846	10140846	SHCS HEX, M6X45, A4-80	DepReq	ProjSt			-10					06.12.2022	P01	             9241201		BC5	EA	            216
+			BB15-000270-02	BB15-000270-02	WIRE CLOTH, .047 WIRE DIA, .120 OPEN WID	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC0	EA	            180
+			BB17-000125-13	BB17-000125-13	WASHER,FLAT, TYPE "B" REGULAR, .500 NOM	DepReq	ProjSt			-6					06.12.2022	C03	             9241201		BC5	EA	            189
+			BB17-000102-84	BB17-000102-84	SCREW HEX, 0,5-13UNRCX1,25, 316SH	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		BC5	EA	            280
+			BB16-000108-08	BB16-000108-08	CLAMP, TUBE, .375, 1 LINE,316STAINLESSS	DepReq	ProjSt			-5					06.12.2022	C03	             9241201		BC0	EA	            189
+			10240219	10240219	SCR, SHCS,.375-16 UNC-3A X .625 LG, 316	DepReq	ProjSt			-4					06.12.2022	C03	             9241201		BC5	EA	            280
+			BB17-100084-00	BB17-100084-00	SHCS HEX, 3/8-16UNRCX1, 316SH	DepReq	QM-lot	        10003210787		-2	              4		20.10.2022	20.10.2022	06.12.2022	S03	             9241201		BC5	EA	             90
+			10321088	10321088	SHCS HEX, 1/2-13UNRCX0,5, 316SH	DepReq	POitem	         4501728261	                  30	-2	              4			09.11.2022	06.12.2022	S03	             9241201		BC5	EA	             90
+			BB17-000278-10	BB17-000278-10	NUT, GLAND, .250 M/P, 20000 PSI, 316 SS,	DepReq	ProjSt			-8					06.12.2022	C02	             9241201		M25	EA	            140
+			BB17-100605-00	BB17-100605-00	SCREW HEX, 0,5-13UNRCX1,0, 316SH	DepReq	POitem	         4501728261	                  50	-2	              4			09.11.2022	06.12.2022	S03	             9241201		BC5	EA	             90
+			BB17-200641-00	BB17-200641-00	NUT HEX, 0,375-16UNC, 316SH	DepReq	ProjSt			-20					06.12.2022	C03	             9241201		BC5	EA	            260
+			BB17-MB0005-09	BB17-MB0005-09	WASHER, SERRATED; 1/4"; 316 SS	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC5	EA	             90
+			10155144	10155144	SHCS HEX, 1/4-20UNRCX0,625, A4-80	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC3	EA	             90
+			10155144	10155144	SHCS HEX, 1/4-20UNRCX0,625, A4-80	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		BC3	EA	             90
+			10125001	10125001	SHCS HEX, M12X35, A4-80	DepReq	ProjSt			-6					06.12.2022	S03	             9241201		BC5	EA	            189
+			10214299	10214299	NUT JAM HEX, 0,875-14UNF, 316SH	DepReq	ProjSt			-5					06.12.2022	S03	             9241201		BC5	EA	             90
+			BB17-MX0008-00	BB17-MX0008-00	SHCS HEX, M6X16, A4-80	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		BC5	EA	            176
+			10174540	10174540	SCREW HEX, M10X20, A4-80	DepReq	POitem	         4501741016	                  20	-2	              4			08.02.2023	06.12.2022	V01	             9241201		BC5	EA	            202
+			BB17-MX0008-00	BB17-MX0008-00	SHCS HEX, M6X16, A4-80	DepReq	ProjSt			-6					06.12.2022	C03	             9241201		BC5	EA	            176
+			10210124	10210124	SHCS HEX, 1/4-20UNRCX1, 316SH	DepReq	ProjSt			-24					06.12.2022	P01	             9241201		BC5	EA	            176
+			BS0000819	BS0000819	GLAND 1/4 MP(M) CGLX40	DepReq	ShpgNt	         4501726954	                  30	-1	              2			23.05.2022	06.12.2022	C03	             9241201		M25	EA	            260
+			10269343	10269343	SCREW HEX, 0,5-13UNRCX1,5, 316SH	DepReq	QM-lot	        10003210786		-1	              2		20.10.2022	20.10.2022	06.12.2022	P01	             9241201		BC5	EA	            150
+			BS0000845	BS0000845	CON, 1/2" OD(F)X1/2" NPT(M), SS-810-1-8	DepReq	ProjSt			-2					06.12.2022	Y01	             9241201		C36	EA	             49
+			BS0001088	BS0001088	TUBE 1/2 ODx.065 WT SS-T8-S-065-6ME	DepReq	POitem	         4501741789	                  20	-3	             24			28.12.2022	06.12.2022	P01	             9241201		M25	M	            150
+			BB17-HS0001-41	BB17-HS0001-41	TEE,UNION,1/2 TUBE,SWAGELOK, SS-810-3	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC0	EA	            382
+			BBSS-T4-S-049-6ME	BBSS-T4-S-049-6ME	TUBE, 1/4" OD X 0.049" WT, 7.5K PSI	DepReq	POitem	         4501730759	                  11	-6	             42			08.11.2022	06.12.2022	U01	             9241201		BC0	M	            350
+			BS0001097	BS0001097	TEE, 1/4" (M),  SS-400-3	DepReq	ProjSt			-2					06.12.2022	P01	             9241201		BC0	EA	            150
+			BB17-060016-12	BB17-060016-12	CONNECTOR 1/4" TUBE - 7/16"-20UNF SAE PO	DepReq	ProjSt			-4					06.12.2022	Y01	             9241201		BC0	EA	            120
+			10140427	10140427	REDUCER, 1/4" x 1/2" TUBE OD, SWAGELOK	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC0	EA	            280
+			10289380	10289380	MALE ELBOW 3/8"TUBE OD TO 1/8" MALE NPT	DepReq	Stock			-5					06.12.2022	B15	             9241201		B01	EA	            159
+			BB17-WE0198-17	BB17-WE0198-17	CONN,  STRAIGHT, 1/8  NPT (M) X 1/4 TUBE	DepReq	ProjSt			-3					06.12.2022	U01	             9241201		BC0	EA	            350
+			10004772	10004772	3/8" x 0,049" Tubing, Swagelok tubing	DepReq	ProjSt			-6					06.12.2022	P01	             9241201		BC5	M	            150
+			BB15-000719-86	BB15-000719-86	BLIND BOOT SEAL FOR BRATNER 6PIN TERMIN	DepReq	ProjSt			-28					06.12.2022	C03	             9241201		BQ7	EA	            180
+			10187811	10187811	SEAL RING TERMINAL M6 16-14 AWG BLUE	DepReq	ProjSt			-2					06.12.2022	L02	             9241201		BC5	EA	            180
+			10178397	10178397	CLAMP, BOLT, 304SS, 2-7/8" TO 1/8"	DepReq	POitem	         4501738767	                  30	-1	              2			01.02.2023	06.12.2022	C03	             9241201		M25	EA	            140
+			10178398	10178398	STUD FT, SPECIAL, #10-32UNF X 0.75", 316	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC5	EA	            180
+			10178399	10178399	CLAMP, LOOP, 1/2" OD 300 SS	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		M25	EA	            160
+			10178460	10178460	NUT HEX, LOCK, W/ INSE, #10-32 UNF, 18.8	DepReq	ProjSt			-2					06.12.2022	C03	             9241201		BC5	EA	            160
+			10178461	10178461	WASHER, FLAT, #10, 18-8 SS, 7/16"OD	DepReq	ProjSt			-1					06.12.2022	C03	             9241201		BC5	EA	            150

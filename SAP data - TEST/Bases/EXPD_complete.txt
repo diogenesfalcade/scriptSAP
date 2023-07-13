@@ -1,0 +1,476 @@
+28.10.2022                                                                                                                                               Dynamic List Display                                                                                                                                                                                                        1
+
+
+	Purch.Doc.	Item	WBS element	Vendor	Name 1	Ackn. No.	StatDelDte	Deliv.date	Expediting Description
+
+	4500922516	  20	104231-05BR	138982	Voestalpine High Performance	ACK - 08/03/2021	20.07.2021	30.11.2022	07/01/2022 - TRG or IMP to be informed by COMEX
+LANÇAMENTO 1700001912 - TRG 0480/21
+
+	4500934556	  10	104231-05BR	107194	Techni AS	OK 18/08/2021	15.09.2021	30.10.2022	06/10/2022 - FUP sendo feito com sourcing
+	4500936165	  20	105077-06BR	149797	Astute Electronics Limited	ACK - 24/08/2021	06.10.2021	08.10.2021	27/09/2021 - 21/09/2021 SI - IMP 0576/21 AIR (10  off) ETA AS 8/10/2021
+	4500936747	  70	104231-05BR	109466	Hydrasun Ltd		10.03.2022	23.11.2022	Last Update 26/10/2022 -  (SI Date)05/09/2022 - SEA (30,5 off) PR#02282/22 IMP 1170/22  DI: 2220733709 ETA AKSO 28.10.2022
+	4500937061	  10	104231-05BR	172446	Zamet Industry Spolka Z	ACK - 02/08/2021	18.10.2021	08.01.2022
+	4500944657	  30	104231-05BR	107050	Metalcam S.p.a	OC_10.11.2021	28.10.2022	20.11.2022	29/07/2022 - 26/03/2022 - AIR (3 off) - TRG 0247/22  DI: - ETA AS 25.04.2022
+	4500944672	  60	104231-05BR	104018	TP-Products AS	ACK 25/05/2022	21.03.2022	07.12.2022	Last Update 26/10/2022 -  (SI Date)23/09/2022 - SEA (2 off) PR#02485/22 IMP 1272/22  DI:  ETA AKSO 07.12.2022
+	4500945370	  10	104231-05BR	4001558	Sas Systemes Et Connectique Du Mans		30.06.2022	20.05.2022	29/07/2022 - 20/04/2022 - AIR (1 off) - TRG 0524/22  DI: - ETA AS 20.05.2022
+LANÇAMENTO TRG 0685/22 DOC Nº 1700005663
+	4500945956	 130	104231-06BR	114794	Brantner And Associates Inc	ACK - 05/01/2022	24.06.2022	31.10.2022	28/10/2022 - Itens em fabricação. FCA date adiada para final de outubro/22.
+	4500945956	  70	105157-06BR	114794	Brantner And Associates Inc	ACK - 05/01/2022	17.11.2022	09.12.2022	Last Update 26/10/2022 -  (SI Date)30/09/2022 - SEA (17 off) PR#02565/22 IMP 1328/22  DI:  ETA AKSO 09.12.2022
+	4500945956	  80	105157-06BR	114794	Brantner And Associates Inc	ACK - 05/01/2022	24.06.2022	09.12.2022	Last Update 26/10/2022 -  (SI Date)30/09/2022 - SEA (21 off) PR#02565/22 IMP 1328/22  DI:  ETA AKSO 09.12.2022
+	4500945956	 100	105157-06BR	114794	Brantner And Associates Inc	ACK - 05/01/2022	24.06.2022	09.12.2022	Last Update 26/10/2022 -  (SI Date)30/09/2022 - SEA (2 off) PR#02565/22 IMP 1328/22  DI:  ETA AKSO 09.12.2022 ___Last Update 26/10/2022 -  (SI Date)30/09/2022 - SEA (2 off) PR#02565/22 IMP 1328/22  DI:  ETA AKSO 09.12.2022
+	4500945956	 120	105157-06BR	114794	Brantner And Associates Inc	ACK - 05/01/2022	24.06.2022	19.10.2022	Last Update 26/10/2022 -  (SI Date)19/09/2022 - AIR (4 off) - IMP 1249/22  DI: - ETA AKSO 19.10.2022 ___Last Update 26/10/2022 -  (SI Date)19/09/2022 - AIR (1 off) - IMP 1249/22  DI: - ETA AKSO 19.10.2022
+	4500945956	  90	105157-06BR	114794	Brantner And Associates Inc	ACK - 05/01/2022	01.07.2022	17.11.2022	Last Update 26/10/2022 -  (SI Date)19/09/2022 - AIR (18 off) - IMP 1249/22  DI: - ETA AKSO 19.10.2022
+	4500946964	  10	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 07/12/2021	22.07.2022	25.10.2022	Last Update 26/10/2022 -  (SI Date)16/08/2022 - SEA (10 off) PR#02127/22 IMP 1069/22  DI:  ETA AKSO 25.10.2022 ___Last Update 26/10/2022 -  (SI Date)16/08/2022 - SEA (10 off) PR#02127/22 IMP 1069/22  DI:  ETA AKSO 25.10.2022 ___Last Update 26/10/2022 -  (
+	4500946964	  70	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 14/03/2022	26.08.2022	09.11.2022	Last Update 26/10/2022 -  (SI Date)31/08/2022 - SEA (8 off) PR#02249/22 IMP 1147/22  DI:  ETA AKSO 09.11.2022
+	4500947873	   1	104564-06BR	129612	North East Bolting Supplies Ltd	ACK 09/12/2021	06.12.2022	06.12.2022	13/03/2022 - waiting for SMDL, requested to supplier on 12/09 + schedule
+	4500948367	  10	104231-05BR	133484	Norwegian Seals AS		30.06.2022	18.11.2022	28/10/2022-NOI for dim. inspection uploaded 24.10.
+	4500948367	  20	104231-05BR	133484	Norwegian Seals AS		30.06.2022	18.11.2022	28/10/2022-NOI for dim. inspection uploaded 24.10.
+	4500948367	  30	104231-05BR	133484	Norwegian Seals AS		30.06.2022	18.11.2022	28/10/2022-NOI for dim. inspection uploaded 24.10.
+	4500950478	  60	105157-06BR	153597	Swiftool Precision		16.04.2023	15.06.2023	27/10/2022--  SMDL approved with Code 1,Parts under Production planning process , DNV intervension for Load test. Work progress on schedule, Material readiness by 14.04.2023.
+	4500950478	  50	105157-06BR	153597	Swiftool Precision		19.02.2023	20.04.2023	27/10/2022--  SMDL approved with Code 1,Parts under Production process , DNV intervension for Load test. Work progress on schedule, Material readiness by 19.02.2023.
+	4500950478	  40	105157-06BR	153597	Swiftool Precision		18.12.2022	16.02.2023	27/10/2022--  SMDL approved with Code 1, DNV intervension for Load test. MRB accepted with code 1,Parts are manufactured. Testing date confirmation awaited fom Swiftool.
+	4500950478	  30	105157-06BR	153597	Swiftool Precision		29.09.2022	28.11.2022	27/10/2022--  SMDL approved with Code 1, DNV intervension for Load test. MRB accepted with code 1,Parts are manufactured. Testing date confirmation awaited fom Swiftool.
+	4500950478	  20	105157-06BR	153597	Swiftool Precision		08.07.2022	29.12.2022	Last Update 26/10/2022 -  (SI Date)11/10/2022 - SEA (1 off) PR#02650/22 IMP 1374/22  DI:  ETA AKSO 29.12.2022
+	4500951673	  30	104231-06BR	I355	Aker Solutions Limited	ACK_28/01/2022	31.05.2022	02.11.2022	Last Update 22/09/2022 -  (SI Date)14/09/2022 - AIR (1 off) PR#02414/22 IMP 1220/22  DI:  ETA AKSO 18.10.2022
+	4500951673	  20	104231-06BR	I355	Aker Solutions Limited	ACK_28/01/2022	31.05.2022	02.11.2022	Last Update 22/09/2022 -  (SI Date)14/09/2022 - AIR (1 off) PR#02414/22 IMP 1220/22  DI:  ETA AKSO 18.10.2022
+	4500951712	  30	105157-06BR	I355	Aker Solutions Limited		15.07.2022	18.11.2022	Last Update 26/10/2022 -  (SI Date)15/10/2022 - AIR (3 off) PR#02778/22 IMP 1397/22  DI:  ETA AKSO 18.11.2022
+	4500951712	  20	105157-06BR	I355	Aker Solutions Limited		08.07.2022	02.11.2022
+	4500953396	  20	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 22/02/2022	07.10.2022	06.11.2022	27/10/2022 - Requisição de coleta enviada
+27/10/2022 - Requisição de coleta enviada
+	4500953396	  10	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 22/02/2022	22.10.2022	21.11.2022	27/10/2022 - Requisição de coleta enviada
+	4500953468	  20	105157-06BR	I355	Aker Solutions Limited	ACK_08/06/2022	13.07.2022	14.11.2022	Last Update 26/10/2022 -  (SI Date)11/10/2022 - AIR (4 off) PR#02659/22 IMP 1377/22  DI:  ETA AKSO 14.11.2022
+	4500954034	  20	104231-06BR	I376	Aker Solutions Malaysia Sdn Bhd		10.08.2022	10.08.2022
+	4501724372	  40	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 22/03/2022	19.08.2022	30.10.2022	27/10/2022 - MATERIAL DELAY - Previsão para 04/11/2022
+	4501724372	  60	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 22/03/2022	19.08.2022	30.10.2022	27/10/2022 - Aguarda aprovação do MRB ticket 741,608
+	4501724372	  30	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 22/03/2022	19.08.2022	30.10.2022	27/10/2022 - Aguarda requisição de coleta
+	4501724372	  70	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 22/03/2022	19.08.2022	17.10.2022	Last Update 22/09/2022 -  (SI Date)17/09/2022 - AIR (10 off) PR#02432/22 IMP 1245/22  DI:  ETA AKSO 17.10.2022
+	4501724372	  50	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 22/03/2022	19.08.2022	06.11.2022	Last Update 26/10/2022 -  (SI Date)07/10/2022 - AIR (3 off) PR#02626/22 IMP 1359/22  DI:  ETA AKSO 06.11.2022
+	4501724372	  80	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 22/03/2022	19.08.2022	30.10.2022	27/10/2022 - Teledyne revisando MRB para 10 itens, outros 10 itens aguardando aprovação do MRB 749,968
+	4501724372	  90	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 22/03/2022	19.08.2022	20.11.2022	27/10/2022 - On track para 25/11/2022
+	4501724372	 100	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 22/03/2022	19.08.2022	20.11.2022	27/10/2022 - On track para 25/11/2022
+	4501724372	 110	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 22/03/2022	19.08.2022	20.11.2022	27/10/2022 - On track para 25/11/2022
+	4501724372	 120	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 22/03/2022	19.08.2022	20.11.2022	27/10/2022 - On track para 25/11/2022
+	4501725394	  70	100935-06BR-RP	I355	Aker Solutions Limited		01.02.2023	17.04.2023
+	4501725394	  80	100935-06BR	I355	Aker Solutions Limited		09.02.2023	25.04.2023
+	4501725394	  60	100935-06BR-RP	I355	Aker Solutions Limited		08.01.2023	24.03.2023
+	4501725394	  50	100935-06BR	I355	Aker Solutions Limited		09.02.2023	25.04.2023
+	4501725394	  90	100935-06BR-RP	I355	Aker Solutions Limited		08.01.2023	24.03.2023
+	4501725394	 100	100935-06BR-RP	I355	Aker Solutions Limited		01.02.2023	17.04.2023
+	4501725640	  10	105157-06BRT	114794	Brantner And Associates Inc	ACK - 05/05/2022	28.10.2022	28.11.2022	28/10/2022 - On track - previsto finalizar em 28/10/2022.
+	4501726057	  10	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 05/04/2022	28.08.2022	06.11.2022	27/10/2022 - MATERIAL DELAY - Previsão para 04/11/2022
+	4501727176	  50	105157-06BRT	127759	Dell Computadores do Brasil Ltda	OK 01/04/2022	20.04.2022	20.04.2022
+	4501727341	  60	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 23/05/2022	25.10.2022	24.11.2022	27/10/2022 - Previsão de GA para 14/12
+	4501727341	  40	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 23/05/2022	30.08.2022	30.10.2022	27/10/2022 - MATERIAL DELAY - Previsão para 04/11/2022
+	4501727341	  90	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 23/05/2022	25.10.2022	15.01.2023	27/10/2022 - On track para 13/01/2023
+	4501727341	  20	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 23/05/2022	30.08.2022	06.11.2022	Last Update 26/10/2022 -  (SI Date)07/10/2022 - AIR (2 off) PR#02626/22 IMP 1359/22  DI:  ETA AKSO 06.11.2022
+	4501727341	  80	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 23/05/2022	25.10.2022	15.01.2023	27/10/2022 - On track para 16/12/2022
+	4501727341	  70	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 23/05/2022	25.10.2022	15.01.2023	27/10/2022 - On track para 16/12/2022
+	4501727341	  50	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 23/05/2022	25.10.2022	15.01.2023	27/10/2022 - On track para 30/12/2022
+	4501727427	  20	105157-06BRT	I355	Aker Solutions Limited	ACK_08/06/2022	30.04.2022	14.11.2022	Last Update 26/10/2022 -  (SI Date)11/10/2022 - AIR (1 off) PR#02660/22 IMP 1378/22  DI:  ETA AKSO 14.11.2022
+	4501728790	  20	105157-06BRT	4000381	Plexus Services Ro Srl		28.10.2022	28.10.2022
+	4501729131	  30	105157-06BR	123286	Vama Industrial Ltda	ACK - 06/05/2022	16.12.2022	24.12.2022	28/10/2022 - (Bruto) Ag. Torno + Fresa + Mandrilgadora (13/12)  + Rebarbação (14/12)  + Metrologia + Insp. Aker (15/12)  + Book (16/12) + Entrega
+	4501729131	  40	105157-06BR	123286	Vama Industrial Ltda	ACK - 06/05/2022	25.03.2023	02.04.2023	28/10/2022 - (Bruto) Ag. Torno + Fresa + Mandrilgadora + Rebarbação (22/03/2023) + Metrologia + Insp. Aker + Book (25/03/2023) + Entrega
+	4501729253	  10	105157-06BRT	171252	Viga Servicos EM Informatica LTDA	OK 31/05/2022	15.12.2022	15.12.2022
+	4501729253	  30	105157-06BRT	171252	Viga Servicos EM Informatica LTDA	OK 31/05/2022	15.12.2022	15.12.2022
+	4501729253	  20	105157-06BRT	171252	Viga Servicos EM Informatica LTDA	OK 31/05/2022	15.12.2022	15.12.2022
+	4501730143	  10	100935-03BR	4004013	James Walker Moorflex Limited	ACK on 25.05.2022	09.09.2022	23.11.2022	Last Update 26/10/2022 -  (SI Date)20/10/2022 - AIR  (2 off) PR#02770/22 IMP 1416/22  DI:  ETA AKSO 23.11.2022
+	4501730516	  10	105157-06BRT	174954	Siemens Energy Limited	ACK - 07/06/2022	29.07.2022	16.09.2022	27/10/2022 - Fabricação finalizada, disponível para coleta.
+	4501730744	  20	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 14/06/2022	08.12.2022	05.03.2023	27/10/2022 - Previsão de GA para 02/12. On track para 14/04/2023
+	4501730744	  10	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 14/06/2022	08.12.2022	05.03.2023	27/10/2022 - Previsão de GA para 02/12. On track para 14/04/2023
+	4501731112	  20	105157-06BR	123286	Vama Industrial Ltda	ACK - 20/05/2022	22.08.2022	02.11.2022	06/10/2022 - Aguardando aprovação do Book (Faturado na NF 21774)
+	4501731112	  30	105157-06BR	123286	Vama Industrial Ltda	ACK - 20/05/2022	22.08.2022	02.11.2022	06/10/2022 - Aguardando aprovação do Book (Faturado na NF 21774)
+	4501731633	  30	105157-06BR	170239	FCF - Fabrica Catarinense De	ACK - 19/07/2022	14.09.2022	14.10.2022	06/10/2022 -  Concluído - 20295
+	4501731763	  10	105157-06BRT	107296	Teledyne Instruments, Inc	ACK - 21/06/2022	16.12.2022	15.01.2023	27/10/2022 - On track para 16/12/2022
+	4501731854	  60	100935-06BR-RP	153597	Swiftool Precision		30.09.2022	14.12.2022	27/10/2022- Revised SMDL and ITP is accepted with code1. MRB is accepted with code 1. Parts are ready. CIPL received from Swiftool.
+	4501731854	  50	100935-06BR	153597	Swiftool Precision	ACK_09/06/2022	30.09.2022	14.12.2022	27/10/2022- Revised SMDL and ITP is accepted with code1. MRB is accepted with code 1. Parts are ready. CIPL received from Swiftool.
+	4501732087	  20	105157-06BRT	161665	Mega Infoh Informatica Ltda	OK 09/06/2022	09.07.2022	09.07.2022
+	4501732095	  10	105157-06BR	174954	Siemens Energy Limited	ACK - 27/07/2022	27.07.2022	11.11.2022	27/10/2022 - Fabricação finalizada, disponível para coleta.
+	4501732098	  30	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 30/06/2022	10.10.2022	06.11.2022	Last Update 26/10/2022 -  (SI Date)07/10/2022 - AIR (100 off) PR#02626/22 IMP 1359/22  DI:  ETA AKSO 06.11.2022 ___Last Update 26/10/2022 -  (SI Date)07/10/2022 - AIR (100 off) PR#02626/22 IMP 1359/22  DI:  ETA AKSO 06.11.2022 ___Last Update 26/10/2022 -
+	4501732098	  10	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 30/06/2022	10.10.2022	06.11.2022	Last Update 26/10/2022 -  (SI Date)07/10/2022 - AIR (100 off) PR#02626/22 IMP 1359/22  DI:  ETA AKSO 06.11.2022 ___Last Update 26/10/2022 -  (SI Date)07/10/2022 - AIR (100 off) PR#02626/22 IMP 1359/22  DI:  ETA AKSO 06.11.2022 ___Last Update 26/10/2022 -
+	4501732098	  40	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 30/06/2022	10.10.2022	13.11.2022	27/10/2022 - Aguarda requisição de coleta
+	4501732098	  20	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 30/06/2022	10.10.2022	13.11.2022	27/10/2022 - Aguarda shipping docs
+	4501732645	  30	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK T&C 3.3	01.10.2022	28.10.2022	20/10/2022 - NF 56697
+	4501732645	 120	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK T&C 3.3	11.10.2022	28.10.2022	20/10/2022 - NF 56479
+	4501732645	 130	105157-06BRT	142825	Bubamaster Usinagem de Pecas Ltda	ACK T&C 3.3	11.10.2022	28.10.2022	20/10/2022 - NF 56479
+	4501732645	 140	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK T&C 3.3	01.10.2022	28.10.2022	20/10/2022 - NF 56479
+	4501732645	  20	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK T&C 3.3	01.10.2022	31.12.2022	20/10/2022 - REVESTIMENTO (GP) + INSP. + TICKET
+	4501732750	  10	105157-06BR	174954	Siemens Energy Limited	ACK - 23/06/2022	05.09.2022	13.11.2022	Last Update 26/10/2022 -  (SI Date)10/10/2022 - AIR (64 off) PR#02647/22 IMP 1371/22  DI:  ETA AKSO 13.11.2022
+	4501732973	  30	100935-06BR	155302	Usiteki Usinagem Tecnica Ltda.	ACK 15/06/2022	20.08.2022	15.09.2022	27/09/2022 - Entregue pela NF 8001
+	4501733124	  20	105157-06BR	171813	Equipsea Equipamentos E Servicos	ACK T&C´s 3.3	12.09.2022	23.11.2022	26/10/2022 - Usinagem  (Previsão 03/11) + Montagem (Previsão 07/11)  + Pintura (Previsão 14/11) +Inspeção Final (Previsão 16/11 ) + Faturamento + Transporte (18/11)
+	4501733124	  30	105157-06BR	171813	Equipsea Equipamentos E Servicos	ACK T&C´s 3.3	13.03.2023	13.03.2023	21/10/2022 -Usinagem (Previsão 20/02) + Montagem (Previsão 02/03)  + Pintura (Previsão 09/03) + Inspeção Final (Previsão 10/03) + Faturamento + Transporte.
+	4501733401	  30	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 30/06/2022	10.10.2022	18.11.2022	Last Update 26/10/2022 -  (SI Date)19/10/2022 - AIR (100 off) PR#02760/22 IMP 1413/22  DI:  ETA AKSO 18.11.2022 ___Last Update 26/10/2022 -  (SI Date)19/10/2022 - AIR (100 off) PR#02760/22 IMP 1413/22  DI:  ETA AKSO 18.11.2022 ___Last Update 26/10/2022 -
+	4501733481	  20	104564-06BR	I376	Aker Solutions Malaysia Sdn Bhd		26.09.2022	05.11.2022	Last Update 26/10/2022 -  (SI Date)24/09/2022 - AIR (1 off) PR#02500/22 IMP 1278/22  DI: 2220960705 ETA AKSO 25.10.2022
+	4501733681	 110	100935-06BR	115436	Brantner & Associates Inc	ACK - 11/07/2022	08.12.2022	09.01.2023	28/10/2022 - On track, previsto embarcar em 08/12/2022.
+	4501733681	 150	100935-06BR-RP	115436	Brantner & Associates Inc	ACK - 21/09/2022	13.03.2023	13.04.2023	28/10/2022 - On track, previsto embarcar 13/03/2023. Nova linha criada para regularização a questão Repetro (referente à linha 100).
+	4501733681	 100	100935-06BR	115436	Brantner & Associates Inc	ACK - 11/07/2022	13.03.2023	13.04.2023	28/10/2022 - On track, previsto embarcar 13/03/2023.
+	4501733681	 170	100935-06BR-RP	115436	Brantner & Associates Inc	ACK - 21/09/2022	08.12.2022	09.01.2023	28/10/2022 - On track, previsto embarcar em 08/12/2022. Nova linha criada para regularização a questão Repetro (referente à linha 120).
+	4501733681	 160	100935-06BR-RP	115436	Brantner & Associates Inc	ACK - 21/09/2022	08.12.2022	09.01.2023	28/10/2022 - On track, previsto embarcar em 08/12/2022. Nova linha criada para regularização a questão Repetro (referente à linha 110).
+	4501733681	 120	100935-06BR	115436	Brantner & Associates Inc	ACK - 11/07/2022	08.12.2022	09.01.2023	28/10/2022 - On track, previsto embarcar em 08/12/2022.
+	4501734306	  50	105157-06BRT	170239	FCF - Fabrica Catarinense De	ACK - 30/07/2022	06.09.2022	05.11.2022	26/10/2022 -  POSTAGEM DE BOOK  -> EMBALAGEM 21/10/2022
+	4501734752	  10	104231-05BR	122875	Gp Isolamentos Mecanicos Lt	ACK - Item Colocado	26.09.2022	26.09.2022
+	4501735024	  20	100935-06BR	109377	ESI Technology Ltd	ACK_06/07/2022	02.12.2022	01.02.2023	28/10/2022- Revised SMDL is accepted with code 1. Work Progress on schedule, Material readyness by 02.12.2022. Total quantity split into 25 Ea & 50 Ea with line item 30.
+
+	4501735024	  30	100935-06BR-RP	109377	ESI Technology Ltd	ACK_16/09/2022	02.12.2022	01.02.2023	28/10/2022 - Revised SMDL accepted with code 1.New line item included for 50 Ea quantity for WBS 100935-06BR-RP from earlier PO line item 20.Work Progress on schedule, Material readyness by 02.12.2022
+	4501735055	  40	100935-06BR-RP	109897	Flow Technologies Inc	ACK_29/09/2022	12.11.2022	15.01.2023	27/10/2022- SMDL & ITP accepted with code 1.Work progress on schedule readyness of materials by 12.11.2022.New line added by splitting Qty from line 20.No change in PO Total Qty & price.Outline Drg & Supplier Request Submiited by FTI for Aker review.
+	4501735055	  30	100935-06BR-RP	109897	Flow Technologies Inc	ACK_29/09/2022	12.11.2022	15.01.2023	27/10/2022- SMDL & ITP accepted with code 1.Work progress on schedule readyness of materials by 12.11.2022.New line added by splitting Qty from line 20.No change in PO Total Qty & price.Outline Drg & Supplier Request Submiited by FTI for Aker review.
+	4501735055	  20	100935-06BR	109897	Flow Technologies Inc	ACK_07/07/2022	12.11.2022	15.01.2023	27/10/2022- SMDL & ITP accepted with code 1.  Work progress on schedule readyness of materials by 12.11.2022. Supplier Request is in Engg Review. Outline drawing received from FTI for Aker review.
+	4501735162	  10	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 20/07/2022	05.12.2022	16.12.2022	27/10/2022 - CoC aprovado. Fornecedor está acompanhando o processo do Repetro no estado do RS junto à Receita (NF 16217).
+	4501735162	  20	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 20/07/2022	05.12.2022	16.12.2022	27/10/2022 - CoC aprovado. Fornecedor está acompanhando o processo do Repetro no estado do RS junto à Receita (NF 16217).
+	4501735162	  30	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 20/07/2022	05.12.2022	16.12.2022	27/10/2022 - CoC aprovado. Fornecedor está acompanhando o processo do Repetro no estado do RS junto à Receita (NF 16217).
+	4501735162	  40	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 20/07/2022	05.12.2022	16.12.2022	27/10/2022 - CoC aprovado. Fornecedor está acompanhando o processo do Repetro no estado do RS junto à Receita (NF 16217).
+	4501735162	 130	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 20/07/2022	05.12.2022	16.12.2022	27/10/2022 - CoC aprovado. Fornecedor está acompanhando o processo do Repetro no estado do RS junto à Receita (NF 16217).
+	4501735162	 120	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 20/07/2022	05.12.2022	16.12.2022	27/10/2022 - CoC aprovado. Fornecedor está acompanhando o processo do Repetro no estado do RS junto à Receita (NF 16217).
+	4501735162	 110	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 20/07/2022	05.12.2022	16.12.2022	27/10/2022 - CoC pendente.
+	4501735162	 100	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 20/07/2022	05.12.2022	16.12.2022	27/10/2022 - CoC aprovado. Fornecedor está acompanhando o processo do Repetro no estado do RS junto à Receita (NF 16217).
+	4501735162	  90	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 20/07/2022	05.12.2022	16.12.2022	27/10/2022 - CoC aprovado. Fornecedor está acompanhando o processo do Repetro no estado do RS junto à Receita (NF 16217).
+	4501735162	  80	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 20/07/2022	05.12.2022	16.12.2022	27/10/2022 - CoC aprovado. Fornecedor está acompanhando o processo do Repetro no estado do RS junto à Receita (NF 16217).
+	4501735162	  70	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 20/07/2022	05.12.2022	16.12.2022	27/10/2022 - CoC aprovado. Fornecedor está acompanhando o processo do Repetro no estado do RS junto à Receita (NF 16217).
+	4501735162	  60	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 20/07/2022	05.12.2022	16.12.2022	27/10/2022 - CoC aprovado. Fornecedor está acompanhando o processo do Repetro no estado do RS junto à Receita (NF 16217).
+	4501735162	  50	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 20/07/2022	05.12.2022	16.12.2022	27/10/2022 - CoC pendente.
+	4501735387	 120	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 10.08.2022	01.12.2022	12.01.2022	27/10/2022 - AG. REBARBA (PREVISÃO TÉRMINO 26/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 28/10/2022) + DATA BOOK + TICKET (PREVISÃO TÉRMINO 28/10/2022) + FATURAMENTO + COLETA
+	4501735387	 100	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 10.08.2022	01.12.2022	12.01.2022	27/10/2022 - AG. REBARBA (PREVISÃO TÉRMINO 26/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 28/10/2022) + DATA BOOK + TICKET (PREVISÃO TÉRMINO 28/10/2022) + FATURAMENTO + COLETA
+	4501735387	  30	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 10.08.2022	10.10.2022	11.11.2022	27/10/2022 - AG. REBARBA (PREVISÃO TÉRMINO 26/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 28/10/2022) + DATA BOOK + TICKET (PREVISÃO TÉRMINO 28/10/2022) + FATURAMENTO + COLETA
+	4501735387	  40	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 10.08.2022	10.10.2022	11.11.2022	27/10/2022 - AG. REBARBA (PREVISÃO TÉRMINO 26/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 28/10/2022) + DATA BOOK + TICKET (PREVISÃO TÉRMINO 28/10/2022) + FATURAMENTO + COLETA
+	4501735387	  90	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 10.08.2022	01.12.2022	12.01.2022	27/10/2022 - AG. REBARBA (PREVISÃO TÉRMINO 26/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 28/10/2022) + DATA BOOK + TICKET (PREVISÃO TÉRMINO 28/10/2022) + FATURAMENTO + COLETA
+	4501735387	  60	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 10.08.2022	10.10.2022	11.11.2022	27/10/2022 - AG. REBARBA (PREVISÃO TÉRMINO 26/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 28/10/2022) + DATA BOOK + TICKET (PREVISÃO TÉRMINO 28/10/2022) + FATURAMENTO + COLETA
+	4501735387	  50	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 10.08.2022	10.10.2022	11.11.2022	27/10/2022 - AG. REBARBA (PREVISÃO TÉRMINO 26/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 28/10/2022) + DATA BOOK + TICKET (PREVISÃO TÉRMINO 28/10/2022) + FATURAMENTO + COLETA
+	4501735387	  20	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 10.08.2022	10.10.2022	11.11.2022	27/10/2022 - AG. REBARBA (PREVISÃO TÉRMINO 26/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 28/10/2022) + DATA BOOK + TICKET (PREVISÃO TÉRMINO 28/10/2022) + FATURAMENTO + COLETA
+	4501735387	  80	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 10.08.2022	01.12.2022	12.01.2022	27/10/2022 - AG. REBARBA (PREVISÃO TÉRMINO 26/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 28/10/2022) + DATA BOOK + TICKET (PREVISÃO TÉRMINO 28/10/2022) + FATURAMENTO + COLETA
+	4501735387	 110	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 10.08.2022	01.12.2022	12.01.2022	27/10/2022 - AG. REBARBA (PREVISÃO TÉRMINO 26/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 28/10/2022) + DATA BOOK + TICKET (PREVISÃO TÉRMINO 28/10/2022) + FATURAMENTO + COLETA
+	4501735387	  70	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 10.08.2022	21.09.2022	11.11.2022	27/10/2022 - AG. REBARBA (PREVISÃO TÉRMINO 26/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 28/10/2022) + DATA BOOK + TICKET (PREVISÃO TÉRMINO 28/10/2022) + FATURAMENTO + COLETA
+	4501735473	  20	105157-06BR	171813	Equipsea Equipamentos E Servicos	ACK - 08/07/2022	20.07.2022	20.07.2022	07/09/2022 - APROVADO
+	4501735626	  20	105157-06BR	174954	Siemens Energy Limited	ACK - 18/08/2022	19.08.2022	25.10.2022	Last Update 26/10/2022 -  (SI Date)21/09/2022 - AIR (100 off) PR#02464/22 IMP 1252/22  DI:  ETA AKSO 27.10.2022 ___Last Update 26/10/2022 -  (SI Date)10/10/2022 - SEA (100 off) PR#02644/22 IMP 1370/22  DI:  ETA AKSO 28.12.2022
+	4501735626	  10	105157-06BR	174954	Siemens Energy Limited	ACK - 18/08/2022	19.08.2022	25.10.2022	Last Update 26/10/2022 -  (SI Date)21/09/2022 - AIR (100 off) PR#02464/22 IMP 1252/22  DI:  ETA AKSO 27.10.2022 ___Last Update 26/10/2022 -  (SI Date)10/10/2022 - SEA (100 off) PR#02644/22 IMP 1370/22  DI:  ETA AKSO 28.12.2022
+	4501735706	  20	105157-06BR	174954	Siemens Energy Limited	ACK - 18/08/2022	15.03.2023	14.04.2023	27/10/2022 - Demanda planejada e programada no SAP, fabricação ainda não iniciada.
+	4501735933	  10	100935-06BR-RP	139649	Rittal Sistemas Eletromecanicos	ACK - 14/07/2022	30.11.2022	13.12.2022	28/10/2022 - Importação em andamento.
+	4501736330	 100	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	20.10.2022	28.10.2022	20/10/2022 - NF 56863
+	4501736330	  20	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	18.11.2022	02.12.2022	20/10/2022 -REVESTIMENTO (GP) + INSP. + TICKET
+	4501736330	  30	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	18.11.2022	02.12.2022	20/10/2022 -REVESTIMENTO (GP) + INSP. + TICKET
+	4501736330	  40	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	18.11.2022	02.12.2022	20/10/2022 -REVESTIMENTO (GP) + INSP. + TICKET
+	4501736330	 110	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	18.11.2022	02.12.2022	20/10/2022 -REVESTIMENTO (GP) + INSP. + TICKET
+	4501736330	  50	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	18.11.2022	02.12.2022	20/10/2022 - CQ + REVESTIMENTO (GP) + INSP. + TICKET
+	4501736330	  60	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	18.11.2022	02.12.2022	20/10/2022 -REVESTIMENTO (GP) + INSP. + TICKET
+	4501736330	 160	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	18.11.2022	02.12.2022	20/10/2022 -REVESTIMENTO (GP) + INSP. + TICKET
+	4501736330	 150	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	18.11.2022	02.12.2022	20/10/2022 -REVESTIMENTO (GP) + INSP. + TICKET
+	4501736330	 140	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	18.11.2022	02.12.2022	20/10/2022 -REVESTIMENTO (GP) + INSP. + TICKET
+	4501736330	 130	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	18.11.2022	02.12.2022	20/10/2022 -REVESTIMENTO (GP) + INSP. + TICKET
+	4501736330	 120	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	18.11.2022	02.12.2022	20/10/2022 -REVESTIMENTO (GP) + INSP. + TICKET
+	4501736330	  80	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	18.11.2022	02.12.2022	20/10/2022 -REVESTIMENTO (GP) + INSP. + TICKET
+	4501736330	  90	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	20.10.2022	28.10.2022	20/10/2022 - NF 56862
+	4501736330	  70	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ACK 30/07/2022	18.11.2022	02.12.2022	20/10/2022 -REVESTIMENTO (GP) + INSP. + TICKET
+	4501736460	  30	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 24/08/2022	09.12.2022	08.01.2023	27/10/2022 - On track para 09/12/2022.
+	4501736533	  30	105157-06BR	170239	FCF - Fabrica Catarinense De	ACK OK - 09/08/2022	15.09.2022	02.11.2022	26/10/2022 -  Concluído - NF: 20446
+	4501736533	  40	105157-06BR	170239	FCF - Fabrica Catarinense De	ACK OK - 09/08/2022	15.09.2022	02.11.2022	26/10/2022 -  Concluído - NF: 20472
+	4501736533	  20	105157-06BRT	170239	FCF - Fabrica Catarinense De	ACK OK - 09/08/2022	15.09.2022	02.11.2022	26/10/2022 -  Concluído - NF: 20446
+	4501736841	  20	100935-06BR	I200	Aker Solutions AS		30.09.2022	02.11.2022
+	4501736851	  50	105157-06BR	170239	FCF - Fabrica Catarinense De	ACK OK - 26/08/2022	24.10.2022	22.11.2022	26/10/2022 -  PROD ->  INP PROCESSO -> E.DUREZA ->W45: E.EXTERNO ->W47: PMI -> INSP F -> BOOK ->W48: POSTAG -> EMBALAGEM 22/11/2022
+	4501736887	  10	105157-06BRT	115436	Brantner & Associates Inc	ACK - 17/08/2022	17.01.2023	17.02.2023	28/10/2022 - SMDL internal review. On track, previsto embarcar em 17/01/2023.
+28/10/2022 - SMDL internal review. On track, previsto embarcar em 17/01/2023.
+	4501736887	  20	105157-06BRT	115436	Brantner & Associates Inc	ACK - 17/08/2022	17.01.2023	17.02.2023	28/10/2022 - SMDL internal review. On track, previsto embarcar em 17/01/2023.
+	4501736887	  30	105157-06BRT	115436	Brantner & Associates Inc	ACK - 17/08/2022	17.01.2023	17.02.2023	28/10/2022 - SMDL internal review. On track, previsto embarcar em 17/01/2023.
+	4501736890	  60	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 12/08/20222	25.11.2022	25.11.2022	27/10/2022 - AG. REVESTIMENTO (PREVISÃO 02/11/2022) + DATA BOOK + TICKET ( PREVISÃO 02/11/2022) + FATURAMENTO + COLETA
+	4501736890	  10	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 12/08/20222	25.08.2022	18.11.2022	27/10/2022 - AG. APROVAÇÃO AKER (TICKET 737.645)
+	4501736890	  50	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 12/08/20222	27.10.2022	11.11.2022	27/10/2022 - AG. USINAGEM FINAL (PREVISÃO TÉRMINO 25/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 26/10/2022) + REVESTIMENTO (PREVISÃO 07/11/2022) + DATA BOOK + TICKET ( PREVISÃO 07/11/2022) + FATURAMENTO + COLETA
+	4501736890	  40	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 12/08/20222	27.10.2022	11.11.2022	27/10/2022 - AG. USINAGEM FINAL (PREVISÃO TÉRMINO 25/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 26/10/2022) + REVESTIMENTO (PREVISÃO 07/11/2022) + DATA BOOK + TICKET ( PREVISÃO 07/11/2022) + FATURAMENTO + COLETA
+	4501736890	  30	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 12/08/20222	27.10.2022	11.11.2022	27/10/2022 - AG. USINAGEM FINAL (PREVISÃO TÉRMINO 25/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 26/10/2022) + REVESTIMENTO (PREVISÃO 07/11/2022) + DATA BOOK + TICKET ( PREVISÃO 07/11/2022) + FATURAMENTO + COLETA
+	4501736890	  20	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 12/08/20222	27.10.2022	11.11.2022	27/10/2022 - AG. USINAGEM FINAL (PREVISÃO TÉRMINO 25/10/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 26/10/2022) + REVESTIMENTO (PREVISÃO 07/11/2022) + DATA BOOK + TICKET ( PREVISÃO 07/11/2022) + FATURAMENTO + COLETA
+	4501736896	  40	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ack 03/08/2022	27.10.2022	28.10.2022	20/10/2022 - FATURADO NA DANFE 56961
+	4501737544	 100	100935-06BR-RP	107296	Teledyne Instruments, Inc	ACK - 31.08.2022	15.11.2022	01.01.2023	27/10/2022 - On track para 27/12/2022
+	4501737544	  20	100935-06BR-RP	107296	Teledyne Instruments, Inc	ACK - 31.08.2022	15.11.2022	01.01.2023	27/10/2022 - On track para 27/12/2022
+	4501737544	  30	100935-06BR	107296	Teledyne Instruments, Inc	ACK - 31.08.2022	15.11.2022	18.12.2022	27/10/2022 - On track para 27/12/2022
+	4501737544	  40	100935-06BR-RP	107296	Teledyne Instruments, Inc	ACK - 31.08.2022	15.11.2022	18.12.2022	27/10/2022 - On track para 27/12/2022
+	4501737544	  50	100935-06BR	107296	Teledyne Instruments, Inc	ACK - 31.08.2022	15.11.2022	18.12.2022	27/10/2022 - On track para 27/12/2022
+	4501737544	  60	100935-06BR-RP	107296	Teledyne Instruments, Inc	ACK - 31.08.2022	15.11.2022	18.12.2022	27/10/2022 - On track para 27/12/2022
+	4501737544	  70	100935-06BR	107296	Teledyne Instruments, Inc	ACK - 31.08.2022	15.11.2022	18.12.2022	27/10/2022 - On track para 27/12/2022
+	4501737544	  80	100935-06BR-RP	107296	Teledyne Instruments, Inc	ACK - 31.08.2022	15.11.2022	18.12.2022	27/10/2022 - On track para 27/12/2022
+	4501737544	  90	100935-06BR	107296	Teledyne Instruments, Inc	ACK - 31.08.2022	15.11.2022	01.01.2023	27/10/2022 - On track para 27/12/2022
+	4501737544	  10	100935-06BR	107296	Teledyne Instruments, Inc	ACK - 31.08.2022	15.11.2022	01.01.2023	27/10/2022 - On track para 27/12/2022
+	4501737544	 110	100935-06BR	107296	Teledyne Instruments, Inc	ACK - 31.08.2022	15.11.2022	18.12.2022	27/10/2022 - On track para 27/12/2022
+	4501737768	  30	105157-06BRT	177722	Weipa Automacao E Sistemas Ltda		30.10.2022	30.10.2022
+	4501737768	  40	105157-06BRT	177722	Weipa Automacao E Sistemas Ltda		30.10.2022	30.10.2022
+	4501737768	  22	105157-06BRT	177722	Weipa Automacao E Sistemas Ltda		29.09.2022	29.09.2022
+	4501737969	  20	105157-06BR	135571	Adriana da Silva Produtos de Metais	OK 09/08/2022	20.09.2022	20.09.2022
+	4501738024	  20	105157-06BR	153597	Swiftool Precision	ACK_13/09/2022	08.09.2022	15.11.2022	27/10/2022 - PO approved.Swiftool  have received materials on site working on internal process. PO is for logistics purposes only for Akers sending free issue material
+	4501738024	  30	105157-06BR	153597	Swiftool Precision	ACK_13/09/2022	08.09.2022	15.11.2022	27/10/2022 - PO approved.Swiftool  have received materials on site working on internal process. PO is for logistics purposes only for Akers sending free issue material
+	4501738024	  50	105157-06BR	153597	Swiftool Precision	ACK_13/09/2022	02.09.2022	15.11.2022	27/10/2022 - PO approved.Swiftool  have received materials on site working on internal process. PO is for logistics purposes only for Akers sending free issue material
+	4501738024	  60	105157-06BR	153597	Swiftool Precision	ACK_13/09/2022	02.09.2022	15.11.2022	27/10/2022 - PO approved.Swiftool  have received materials on site working on internal process. PO is for logistics purposes only for Akers sending free issue material
+	4501738068	  60	105157-06BR	122856	Ferramentas Gerais Comercio e		08.09.2022	22.09.2022	09/08/2022 - PO em Processo de Aprovação Interna
+	4501738068	  80	105157-06BR	122856	Ferramentas Gerais Comercio e		08.09.2022	22.09.2022	09/08/2022 - PO em Processo de Aprovação Interna
+	4501738068	  70	105157-06BR	122856	Ferramentas Gerais Comercio e		08.09.2022	22.09.2022	09/08/2022 - PO em Processo de Aprovação Interna
+	4501738068	  90	104231-05BR	122856	Ferramentas Gerais Comercio e		08.09.2022	22.09.2022	09/08/2022 - PO em Processo de Aprovação Interna
+	4501738073	 130	105157-06BR	107228	Aquasign Markers Limited	ACK - 23/08/2022	08.09.2022	27.10.2022	Last Update 26/10/2022 -  (SI Date)23/09/2022 - AIR (7 off) PR#02541/22 IMP 1274/22  DI: 2221152190 ETA AKSO 04.10.2022
+	4501738073	 140	105157-06BR	107228	Aquasign Markers Limited	ACK - 23/08/2022	08.09.2022	27.10.2022	Last Update 26/10/2022 -  (SI Date)23/09/2022 - AIR (7 off) PR#02541/22 IMP 1274/22  DI: 2221152190 ETA AKSO 04.10.2022
+	4501738073	 120	105157-06BR	107228	Aquasign Markers Limited	ACK - 23/08/2022	08.09.2022	27.10.2022	Last Update 26/10/2022 -  (SI Date)23/09/2022 - AIR (7 off) PR#02541/22 IMP 1274/22  DI: 2221152190 ETA AKSO 04.10.2022
+	4501738073	  20	105157-06BR	107228	Aquasign Markers Limited	ACK - 23/08/2022	08.09.2022	19.10.2022	04/10/2022 - IMP 1274/22 (waiting COMEX confirmation)
+	4501738073	  30	105157-06BR	107228	Aquasign Markers Limited	ACK - 23/08/2022	08.09.2022	19.10.2022	04/10/2022 - IMP 1274/22 (waiting COMEX confirmation)
+	4501738073	  40	105157-06BR	107228	Aquasign Markers Limited	ACK - 23/08/2022	08.09.2022	19.10.2022	04/10/2022 - IMP 1274/22 (waiting COMEX confirmation)
+	4501738073	  50	105157-06BR	107228	Aquasign Markers Limited	ACK - 23/08/2022	08.09.2022	19.10.2022	04/10/2022 - IMP 1274/22 (waiting COMEX confirmation)
+	4501738073	  60	105157-06BR	107228	Aquasign Markers Limited	ACK - 23/08/2022	08.09.2022	19.10.2022	04/10/2022 - IMP 1274/22 (waiting COMEX confirmation)
+	4501738073	  70	105157-06BR	107228	Aquasign Markers Limited	ACK - 23/08/2022	08.09.2022	19.10.2022	04/10/2022 - IMP 1274/22 (waiting COMEX confirmation)
+	4501738073	  80	105157-06BR	107228	Aquasign Markers Limited	ACK - 23/08/2022	08.09.2022	19.10.2022	04/10/2022 - IMP 1274/22 (waiting COMEX confirmation)
+	4501738073	  90	105157-06BR	107228	Aquasign Markers Limited	ACK - 23/08/2022	08.09.2022	19.10.2022	04/10/2022 - IMP 1274/22 (waiting COMEX confirmation)
+	4501738073	 100	105157-06BR	107228	Aquasign Markers Limited	ACK - 23/08/2022	08.09.2022	19.10.2022	04/10/2022 - IMP 1274/22 (waiting COMEX confirmation)
+	4501738073	 110	105157-06BR	107228	Aquasign Markers Limited	ACK - 23/08/2022	08.09.2022	19.10.2022	04/10/2022 - IMP 1274/22 (waiting COMEX confirmation)
+	4501738223	  70	100935-06BR-RP	I376	Aker Solutions Malaysia Sdn Bhd		01.03.2023	01.03.2023
+	4501738223	  90	100935-06BR-RP	I376	Aker Solutions Malaysia Sdn Bhd		01.03.2023	01.03.2023
+	4501738223	  50	100935-06BR-RP	I376	Aker Solutions Malaysia Sdn Bhd		15.04.2023	15.04.2023
+	4501738223	  60	100935-06BR	I376	Aker Solutions Malaysia Sdn Bhd		01.03.2023	01.03.2023
+	4501738223	 100	100935-06BR	I376	Aker Solutions Malaysia Sdn Bhd		03.03.2023	03.03.2023
+	4501738223	  80	100935-06BR	I376	Aker Solutions Malaysia Sdn Bhd		01.03.2023	01.03.2023
+	4501738223	  40	100935-06BR	I376	Aker Solutions Malaysia Sdn Bhd		15.04.2023	15.04.2023
+	4501738223	 160	100935-06BR-RP	I376	Aker Solutions Malaysia Sdn Bhd		03.03.2023	03.03.2023
+	4501738223	 110	100935-06BR-RP	I376	Aker Solutions Malaysia Sdn Bhd		03.03.2023	03.03.2023
+	4501738223	 150	100935-06BR	I376	Aker Solutions Malaysia Sdn Bhd		03.03.2023	03.03.2023
+	4501738223	 140	100935-06BR-RP	I376	Aker Solutions Malaysia Sdn Bhd		03.03.2023	03.03.2023
+	4501738223	 130	100935-06BR	I376	Aker Solutions Malaysia Sdn Bhd		03.03.2023	03.03.2023
+	4501738229	  10	100935-06BR	135303	Halliburton Energy Services, Inc.	ACK - 22/08/2022	11.01.2023	10.02.2023	28/10/2022 - Ajuste de Pre-Production Documents.
+	4501738229	  20	100935-06BR-RP	135303	Halliburton Energy Services, Inc.	ACK - 22/08/2022	11.01.2023	10.02.2023	28/10/2022 - Ajuste de Pre-Production Documents.
+	4501738294	  10	105157-06BR	170239	FCF - Fabrica Catarinense De	ACK OK - 18/08/2022	25.08.2022	25.08.2022	SMDL Documentation
+	4501738294	 100	105157-06BR	170239	FCF - Fabrica Catarinense De	ACK OK - 18/08/2022	28.11.2022	22.11.2022	26/10/2022 -  E.EXTERNO ->W46: PMI ->W47: INSP F -> BOOK -> POSTAG -> EMBALAGEM 15/11/2022
+	4501738294	  30	105157-06BR	170239	FCF - Fabrica Catarinense De	ACK OK - 18/08/2022	28.11.2022	05.12.2022	26/10/2022 -  E.DUREZA ->W45: E.EXTERNO ->W46: PMI ->W47: INSP F -> BOOK -> POSTAG -> EMBALAGEM 28/11/2022
+	4501738294	  40	105157-06BR	170239	FCF - Fabrica Catarinense De	ACK OK - 18/08/2022	28.11.2022	05.12.2022	26/10/2022 -  ULTRASSOM -> PROD ->  INP PROCESSO -> E.DUREZA ->W47: E.EXTERNO ->W49: PMI -> INSP F -> POSTAG -> EMBALAGEM ->W51: BOOK 28/11/2022
+	4501738294	  50	105157-06BR	170239	FCF - Fabrica Catarinense De	ACK OK - 18/08/2022	28.11.2022	05.12.2022	26/10/2022 -  PROD ->  PROD -> INP PROCESSO ->W45: E.DUREZA ->W46: E.EXTERNO ->W47: PMI ->W48: INSP F -> POSTAG -> EMBALAGEM ->W50: BOOK 28/11/2022
+	4501738294	  60	105157-06BR	170239	FCF - Fabrica Catarinense De	ACK OK - 18/08/2022	28.11.2022	05.12.2022	26/10/2022 -  E.DUREZA ->W45: E.EXTERNO ->W46: PMI ->W47: INSP F -> BOOK -> POSTAG -> EMBALAGEM 28/11/2022
+	4501738294	  70	105157-06BR	170239	FCF - Fabrica Catarinense De	ACK OK - 18/08/2022	28.11.2022	05.12.2022	26/10/2022 -  PROD ->  INP PROCESSO -> E.DUREZA ->W45: E.EXTERNO ->W47: PMI -> INSP F ->W48: POSTAG -> EMBALAGEM ->W51: BOOK 28/11/2022
+	4501738294	  80	105157-06BR	170239	FCF - Fabrica Catarinense De	ACK OK - 18/08/2022	28.11.2022	05.12.2022	26/10/2022 -  E.EXTERNO ->W46: PMI ->W47: INSP F -> BOOK -> POSTAG -> EMBALAGEM 28/11/2022
+	4501738294	  90	105157-06BR	170239	FCF - Fabrica Catarinense De	ACK OK - 18/08/2022	28.11.2022	22.11.2022	26/10/2022 -  E.EXTERNO ->W46: PMI ->W47: INSP F -> BOOK -> POSTAG -> EMBALAGEM 15/11/2022
+	4501738545	  30	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ack 08/09/2022	18.11.2022	28.10.2022	20/10/2022 - FATURADO NA DANFE 56937
+	4501738546	  20	105157-06BR	153597	Swiftool Precision	ACK 25/08/2022	15.10.2022	15.11.2022	27/10/2022 -  Parts are ready, COC accepted with code 1, CIPL received & sent to Aker logistics.
+	4501738638	 130	104231-06BR	I376	Aker Solutions Malaysia Sdn Bhd		25.08.2022	10.11.2022
+	4501739029	  10	105157-06BR	160697	MarshallXport LLC	ACK - 25/08/2022	19.09.2022	16.11.2022	Last Update 26/10/2022 -  (SI Date)17/10/2022 - AIR (1 off) PR#02735/22 IMP 1403/22  DI:  ETA AKSO 16.11.2022
+	4501739055	  10	100935-06BR-RP	122733	Transcontrol Com Ind De	ACK - 06/09/2022	15.01.2023	15.12.2022	26/10/2022 - em teste
+	4501739055	   1	100935-06BR-RP	122733	Transcontrol Com Ind De	ACK - 06/09/2022	05.09.2022	23.10.2022	28/10/2022 - SMDL e ITP under internal review.
+	4501739055	  20	100935-06BR	122733	Transcontrol Com Ind De	ACK - 06/09/2022	15.01.2023	15.12.2022	26/10/2022 - em teste
+	4501739179	 170	105157-06BRT	149797	Astute Electronics Limited	ACK OK - 13/10/2022	16.09.2022	16.10.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739179	  60	105157-06BR	149797	Astute Electronics Limited	ACK OK - 13/10/2022	16.09.2022	16.10.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739179	  80	105157-06BR	149797	Astute Electronics Limited	ACK OK - 13/10/2022	16.09.2022	16.10.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739179	 130	105157-06BRT	149797	Astute Electronics Limited	ACK OK - 13/10/2022	16.09.2022	16.10.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739179	  10	105157-06BR	149797	Astute Electronics Limited	ACK OK - 13/10/2022	05.09.2022	05.09.2022
+	4501739179	  20	105157-06BR	149797	Astute Electronics Limited	ACK OK - 13/10/2022	16.09.2022	09.12.2022	Last Update 26/10/2022 -  (SI Date)21/09/2022 - SEA (420 off) PR#02461/22 IMP 1255/22  DI:  ETA AKSO 09.12.2022
+	4501739179	  30	105157-06BR	149797	Astute Electronics Limited	ACK OK - 13/10/2022	31.10.2022	30.11.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739179	  40	105157-06BR	149797	Astute Electronics Limited	ACK OK - 13/10/2022	16.09.2022	16.10.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739179	 160	105157-06BRT	149797	Astute Electronics Limited	ACK OK - 13/10/2022	16.09.2022	16.10.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739179	 150	105157-06BRT	149797	Astute Electronics Limited	ACK OK - 13/10/2022	16.09.2022	16.10.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739179	 120	105157-06BRT	149797	Astute Electronics Limited	ACK OK - 13/10/2022	16.09.2022	16.10.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739179	  70	105157-06BR	149797	Astute Electronics Limited	ACK OK - 13/10/2022	31.10.2022	30.11.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739179	  90	105157-06BRT	149797	Astute Electronics Limited	ACK OK - 13/10/2022	16.09.2022	16.10.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739180	  30	105157-06BR	109738	Simpson Donald and Co Ltd	ACK OK - 11/10/2022	03.10.2022	03.11.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739180	  40	105157-06BR	109738	Simpson Donald and Co Ltd	ACK OK - 11/10/2022	21.11.2022	21.12.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739180	  50	105157-06BR	109738	Simpson Donald and Co Ltd	ACK OK - 11/10/2022	21.11.2022	21.12.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739180	  60	105157-06BR	109738	Simpson Donald and Co Ltd	ACK OK - 11/10/2022	03.10.2022	03.11.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739180	  70	105157-06BR	109738	Simpson Donald and Co Ltd	ACK OK - 11/10/2022	14.11.2022	14.12.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739180	  90	105157-06BR	109738	Simpson Donald and Co Ltd	ACK OK - 11/10/2022	03.10.2022	03.11.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739180	  80	105157-06BR	109738	Simpson Donald and Co Ltd	ACK OK - 11/10/2022	03.10.2022	03.11.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739180	  20	105157-06BR	109738	Simpson Donald and Co Ltd	ACK OK - 11/10/2022	03.10.2022	03.11.2022	22/08/2022 - PO em Processo de Aprovação Interna
+	4501739488	  50	100935-06BR	4003076	W G Jones (Durham) Limited	ACK_1/09/2022	03.01.2023	19.03.2023	28/10/2022-   SMDL is accepted with code 1. Work progress on schedule,Material readiness by 03.01.2023.
+	4501739488	  40	100935-06BR-RP	4003076	W G Jones (Durham) Limited	ACK_1/09/2022	03.01.2023	19.03.2023	28/10/2022-   SMDL is accepted with code 1. Work progress on schedule,Material readiness by 03.01.2023.
+	4501739488	  20	100935-06BR	4003076	W G Jones (Durham) Limited	ACK_1/09/2022	03.01.2023	19.03.2023	28/10/2022-   SMDL is accepted with code 1. Work progress on schedule,Material readiness by 03.01.2023.
+	4501739488	  30	100935-06BR-RP	4003076	W G Jones (Durham) Limited	ACK_1/09/2022	03.01.2023	19.03.2023	28/10/2022-   SMDL is accepted with code 1. Work progress on schedule,Material readiness by 03.01.2023.
+	4501739533	  30	100935-06BR-RP	172553	Parker Hannifin Corporation	ACK - 09/09/2022	09.02.2023	26.01.2023	14/10/2022 - SMDL in internal review, readiness 12/12
+	4501739533	  20	100935-06BR	172553	Parker Hannifin Corporation	ACK - 09/09/2022	09.02.2023	26.01.2023	14/10/2022 - SMDL in internal review, readiness 12/12
+	4501739533	  10	100935-06BR	172553	Parker Hannifin Corporation	ACK - 09/09/2022	08.09.2022	08.09.2022
+	4501739561	  30	100935-06BR-RP	171018	Trieng Tecnica Industrial Ltda	ACK - 19.09.2022	08.11.2022	18.11.2022	27/10/2022 - AG.MP / ENVIO AKER (AKER) - LEAD TIME 75 DIAS
+	4501739561	  20	100935-06BR	171018	Trieng Tecnica Industrial Ltda	ACK - 19.09.2022	08.11.2022	18.11.2022	27/10/2022 - AG.MP / ENVIO AKER (AKER) - LEAD TIME 75 DIAS
+	4501739644	  10	105157-06BRT	4000948	SEG Fabricação E Montagem	OK 31/08/2022	15.11.2022	15.11.2022
+	4501739646	  10	105157-06BRT	130205	Sulmech - Solucoes Em Usinagem	OK 02/09/2022	30.10.2022	30.10.2022
+	4501739646	  20	105157-06BRT	130205	Sulmech - Solucoes Em Usinagem	OK 02/09/2022	30.10.2022	30.10.2022
+	4501739680	 300	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 310	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 320	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 330	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 570	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 560	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 550	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 540	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 290	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 280	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 270	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 260	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 250	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 240	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 230	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 220	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 210	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 200	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 190	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	  50	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 530	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 520	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 510	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 500	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 490	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 480	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 470	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 460	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 420	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 410	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 340	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 350	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 360	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 370	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 380	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 450	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 440	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 430	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 390	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 400	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 180	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 630	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 640	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 650	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 660	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 670	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 680	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - OC-25177 - SALTY STEEL - 24/10  + CENTRO DE USINAGEM + AJUSTAGEM + RETIFICA + QUALIDADE + MRB
+	4501739680	  10	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	26.09.2022	26.09.2022	05/10/2022 - EM PROCESSO DE ELABORAÇÃO DE SMDL
+	4501739680	  20	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 620	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 610	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	  30	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	  40	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	  60	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	  70	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 580	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 590	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 170	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 160	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 150	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 140	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 130	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 120	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 110	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 600	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	 690	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - OC-25177 - SALTY STEEL - 24/10  + CENTRO DE USINAGEM + AJUSTAGEM + RETIFICA + QUALIDADE + MRB
+	4501739680	 100	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	  90	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739680	  80	100935-06BR	147492	Qualiferr Qualidade em Ferramentas	ACK 06/09/2022	01.12.2022	14.12.2022	19/10/2022 - TORNO CNC + AJUSTAGEM + QUALIDADE + MRB
+	4501739712	  30	105157-06BR	122836	Sacor Siderotecnica S A	ACK - 06/09/2022	19.10.2022	02.11.2022	20/10/2022 - Material pronto, COC aprovado, aguarda faturamento.
+	4501739795	  30	100935-06BR	156410	Pall Corporation Pall Trinco	ACK - 30.08.2022	29.11.2022	28.12.2022	27/10/2022 - On track para: 29/11/2022
+	4501739795	  20	100935-06BR-RP	156410	Pall Corporation Pall Trinco	ACK - 30.08.2022	12.12.2022	12.01.2023	27/10/2022 - On track para: 12/12/2022
+	4501739795	  10	100935-06BR	156410	Pall Corporation Pall Trinco	ACK - 30.08.2022	12.12.2022	12.01.2023	27/10/2022 - On track para: 12/12/2022
+	4501739795	  60	100935-06BR	156410	Pall Corporation Pall Trinco	ACK - 30.08.2022	03.12.2022	02.01.2023	27/10/2022 - On track para: 05/12/2022
+	4501739795	  50	100935-06BR-RP	156410	Pall Corporation Pall Trinco	ACK - 30.08.2022	03.12.2022	02.01.2023	27/10/2022 - On track para: 05/12/2022
+	4501739795	  40	100935-06BR-RP	156410	Pall Corporation Pall Trinco	ACK - 30.08.2022	29.11.2022	28.12.2022	27/10/2022 - On track para: 05/12/2022
+	4501739812	  30	105157-06BRT	155302	Usiteki Usinagem Tecnica Ltda.	OK 02/09/2022	30.10.2022	30.10.2022
+	4501739913	  20	105157-06BR	4000881	HKM EMP. E PARTICIPAÇÕES LTDA	ACK - 19.09.2022	15.01.2023	31.12.2023	04/10/2022 - (Start a depender do PMP)  Corte (21/10/2022) +Preparação (24/10/2022)+ Solda (31/10/2022)+ Acabamento (14/11/2022)+ Usinagem(18/11/2022) + C.Q (28/11/2022) +  Inspeção Aker (28/11/2022) +  Pintura  (29/11/2022) + Inspeção Final 02/12/2022) 
+	4501739924	  10	100935-06BR-RP	161206	Smart Electronic Solutions Ltd	ACK - 15/09/2022	30.11.2022	20.12.2022	27/10/2022 - SMDL returned to vendor
+	4501739924	  20	100935-06BR-RP	161206	Smart Electronic Solutions Ltd	ACK - 15/09/2022	30.11.2022	20.12.2022	27/10/2022 - SMDL returned to vendor
+	4501739924	  30	100935-06BR-RP	161206	Smart Electronic Solutions Ltd	ACK - 15/09/2022	30.11.2022	20.12.2022	27/10/2022 - SMDL returned to vendor
+	4501739924	  40	100935-06BR-RP	161206	Smart Electronic Solutions Ltd	ACK - 15/09/2022	30.11.2022	20.12.2022	27/10/2022 - SMDL returned to vendor
+	4501739924	  50	100935-06BR-RP	161206	Smart Electronic Solutions Ltd	ACK - 15/09/2022	30.11.2022	20.12.2022	27/10/2022 - SMDL returned to vendor
+	4501739924	  60	100935-06BR-RP	161206	Smart Electronic Solutions Ltd	ACK - 15/09/2022	10.01.2023	10.02.2023	27/10/2022 - SMDL returned to vendor
+	4501739924	  70	100935-06BR-RP	161206	Smart Electronic Solutions Ltd	ACK - 15/09/2022	30.11.2022	20.12.2022	27/10/2022 - SMDL returned to vendor
+	4501739924	  80	100935-06BR-RP	161206	Smart Electronic Solutions Ltd	ACK - 15/09/2022	30.11.2022	20.12.2022	27/10/2022 - SMDL returned to vendor
+	4501739924	  90	100935-06BR-RP	161206	Smart Electronic Solutions Ltd	ACK - 15/09/2022	30.11.2022	20.12.2022	27/10/2022 - SMDL returned to vendor
+	4501739957	  20	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ack 08/09/2022	30.11.2022	14.12.2022	20/10/2022 - TORNO OP01 + CENTRO OP01 + INSP. + TICKET
+	4501739957	  30	105157-06BR	142825	Bubamaster Usinagem de Pecas Ltda	ack 08/09/2022	30.11.2022	28.10.2022	20/10/2022 - CENTRO OP01 + CENTRO OP02 + INSP. + MONTAGEM + INSP. + TICKET
+20/10/2022 - FATURADO NA DANFE 56892
+	4501740196	  10	104231-05BR	109078	Valve Components Ltd		02.01.2023	02.12.2022	12/09: Rework scope. Material yet to be shipped back to VCL for rework
+	4501740348	  20	100935-06BR	171018	Trieng Tecnica Industrial Ltda	ACK - 21.09.2022	19.02.2023	19.02.2023	27/10/2022 - AG.CORTE (PREVISÃO TÉRMINO 23/01/2023) + PRÉ USINAGEM (PREVISÃO TÉRMINO 30/01/2023) + SOLDA (PREVISÃO TÉRMINO 03/02/2023) + INSP. TRIENG (PREVISÃO TÉRMINO 04/02/2023) + REVESTIMENTO (PREVISÃO TÉRMINO 15/02/2023) + MONTAGEM (PREVISÃO TÉRMINO 1
+	4501740348	  30	100935-06BR	171018	Trieng Tecnica Industrial Ltda	ACK - 21.09.2022	22.02.2023	22.02.2023	27/10/2022 - AG.CORTE + PRÉ USINAGEM + SOLDA + INSP. TRIENG + TESTE + REVESTIMENTO + DATA BOOK + TICKET + FATURAMENTO + COLETA
+	4501740348	  40	100935-06BR	171018	Trieng Tecnica Industrial Ltda	ACK - 21.09.2022	23.03.2023	23.03.2023	27/10/2022 - AG.CORTE + PRÉ USINAGEM + SOLDA + INSP. TRIENG + TESTE + REVESTIMENTO + DATA BOOK + TICKET + FATURAMENTO + COLETA
+	4501740450	  60	100935-06BR-RP	I3550	Subsea Components		04.01.2023	20.03.2023
+	4501740450	  50	100935-06BR-RP	I3550	Subsea Components		04.01.2023	20.03.2023
+	4501740450	  40	100935-06BR-RP	I3550	Subsea Components		25.02.2023	11.05.2023
+	4501740450	  30	100935-06BR-RP	I3550	Subsea Components		25.02.2023	11.05.2023
+	4501740450	  20	100935-06BR-RP	I3550	Subsea Components		11.02.2023	27.04.2023
+	4501740528	  20	100935-06BR-RP	124615	Cdc Brasil Distribuidora de	ACK - 06/10/2022	07.11.2022	17.11.2022	27/10/2022 - Aguarda MRB
+	4501740834	  10	104231-05BR	133484	Norwegian Seals AS		07.10.2022	22.10.2022	28/10/2022-Docs approved 28.09. Still waiting for pick up from week 39
+	4501740897	 150	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	25.11.2022	18.01.2023	28/10/2022-awaiting material - MRB submittal 18.11.22
+	4501740897	 140	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	25.11.2022	18.01.2023	28/10/2022-awaiting material - MRB submittal 17.11.22
+	4501740897	 130	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	21.01.2023	16.03.2023	28/10/2022-planning - material status to be advised - MRB submittal 05.01.23
+	4501740897	 120	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	06.02.2023	01.04.2023	28/10/2022-planning - material status to be advised - MRB submittal 16.01.23
+	4501740897	 110	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	04.02.2023	30.03.2023	28/10/2022-planning - material status to be advised - MRB submittal 12.01.23
+	4501740897	 100	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	08.02.2023	03.04.2023	28/10/2022-planning - material status to be advised - MRB submittal 18.01.23
+	4501740897	  90	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	04.02.2023	30.03.2023	28/10/2022-planning - material status to be advised - MRB submittal 13.01.23
+	4501740897	  80	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	04.02.2023	30.03.2023	28/10/2022-planning - material status to be advised - MRB submittal 13.01.23
+	4501740897	  70	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	04.02.2023	30.03.2023	28/10/2022-planning - material status to be advised - MRB submittal 13.01.23
+	4501740897	  60	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	08.10.2022	01.12.2022	28/10/2022-awaiting material - MRB submittal 17.11.22
+	4501740897	  50	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	08.10.2022	01.12.2022	28/10/2022-awaiting material - MRB submittal 17.11.22
+	4501740897	  40	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	18.03.2023	11.05.2023	28/10/2022-planning - material status to be advised - MRB submittal 24.02.23
+	4501740897	  30	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	18.03.2023	11.05.2023	28/10/2022-planning - material status to be advised - MRB submittal 24.02.23
+	4501740897	  20	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	15.02.2023	10.04.2023	28/10/2022-planning - material status to be advised - MRB submittal 25.01.23
+	4501740897	  10	105157-06BR	173176	Wulfrun Specialised Fasteners	ACK OK - 29/09/2022	16.09.2022	16.09.2022	28/10/2022-SMDL line
+	4501740998	  10	104564-06BR	107296	Teledyne Instruments, Inc		02.01.2023	17.01.2023	12/09/2022 - PO de retrabalho
+	4501740998	  20	104564-06BR	107296	Teledyne Instruments, Inc		02.01.2023	17.01.2023	12/09/2022 - PO de retrabalho
+	4501740998	  30	104564-06BR	107296	Teledyne Instruments, Inc		29.12.2022	17.01.2023	12/09/2022 - PO de retrabalho
+	4501740998	  40	104564-06BR	107296	Teledyne Instruments, Inc		02.01.2023	17.01.2023	12/09/2022 - PO de retrabalho
+	4501740998	  50	104564-06BR	107296	Teledyne Instruments, Inc		02.01.2023	17.01.2023	12/09/2022 - PO de retrabalho
+	4501740998	  60	104564-06BR	107296	Teledyne Instruments, Inc		02.01.2023	17.01.2023	12/09/2022 - PO de retrabalho
+	4501741102	  30	100935-06BR-RP	171018	Trieng Tecnica Industrial Ltda	ACK - 14.09.2022	01.02.2023	01.02.2023	27/10/2022 - AG.MP + CORTE + DOBRA + PRÉ USINAGEM + SOLDA + ENDS + USINAGEM FINAL + INSP. TRIENG + REVESTIMENTO + DATA BOOK + TICKET + FATURAMENTO + COLETA
+	4501741102	  20	100935-06BR	171018	Trieng Tecnica Industrial Ltda	ACK - 14.09.2022	15.03.2023	15.03.2023	27/10/2022 - AG.MP + CORTE + DOBRA + PRÉ USINAGEM + SOLDA + ENDS + USINAGEM FINAL + INSP. TRIENG + REVESTIMENTO + DATA BOOK + TICKET + FATURAMENTO + COLETA
+	4501741104	  20	100935-06BR-RP	4000881	HKM EMP. E PARTICIPAÇÕES LTDA	ACK - 23.09.2022	20.02.2023	20.02.2023	25/10/2022 - Aguardando PPM
+	4501741173	  20	105157-06BRT	122905	Ado Comercial e Industrial de		04.11.2022	04.11.2022	14/10/2022 - item pronto
+	4501741173	  40	105157-06BRT	122905	Ado Comercial e Industrial de		04.11.2022	04.11.2022	14/10/2022 - PROCESSO EM FINALIZAÇÃO
+	4501741173	  60	105157-06BRT	122905	Ado Comercial e Industrial de		04.11.2022	04.11.2022	14/10/2022 - EM PRODUÇÃO
+	4501741173	  70	105157-06BRT	122905	Ado Comercial e Industrial de		04.11.2022	04.11.2022	14/10/2022 - EM PRODUÇÃO
+	4501741173	  80	105157-06BRT	122905	Ado Comercial e Industrial de		04.11.2022	04.11.2022	14/10/2022 - EM PRODUÇÃO
+	4501741173	 120	105157-06BRT	122905	Ado Comercial e Industrial de		04.11.2022	04.11.2022	14/10/2022 - ITEM PRONTO
+	4501741404	  20	104564-06BR	107296	Teledyne Instruments, Inc	ACK 20.09.2022	25.11.2022	25.12.2022	27/10/2022 - On track para 25/11/2023
+	4501741404	  30	104564-06BR	107296	Teledyne Instruments, Inc	ACK 20.09.2022	25.11.2022	25.12.2022	27/10/2022 - On track para 25/11/2023
+	4501741404	  10	104564-06BR	107296	Teledyne Instruments, Inc	ACK 20.09.2022	25.11.2022	25.12.2022	27/10/2022 - On track para 25/11/2023
+	4501741444	  10	105157-06BR	124565	Industria Mecanica Jf Ltda	ack 26/09/2022	15.10.2022	16.12.2022	26/10/2022 - SMDL e PIT aprovados
+	4501741444	  20	105157-06BR	124565	Industria Mecanica Jf Ltda	ack 26/09/2022	09.12.2022	31.12.2022	26/10/2022 - Aguardando cronograma
+	4501741468	  20	100935-06BR-RP	109290	Captec Ltd	ACK - 29/09/2022	24.11.2022	20.12.2022	27/10/2022 - ACK recebido, data confirmada EXW 24/11
+	4501741562	  10	104231-05BR	109466	Hydrasun Ltd	ACK OK - 11/10/2022	20.12.2022	03.04.2023
+	4501741591	  10	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 10.10.2022	09.03.2023	29.03.2023	27/10/2022 - Aguarda SMDL
+	4501741591	  20	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 10.10.2022	09.03.2023	29.03.2023	27/10/2022 - Aguarda SMDL
+	4501741591	  30	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 10.10.2022	09.03.2023	29.03.2023	27/10/2022 - Aguarda SMDL
+	4501741591	  40	105157-06BR	107296	Teledyne Instruments, Inc	ACK - 10.10.2022	09.03.2023	29.03.2023	27/10/2022 - Aguarda SMDL
+	4501741860	  50	104564-06BR	I355	Aker Solutions Limited		01.11.2022	15.11.2022
+	4501741860	  40	104564-06BR	I355	Aker Solutions Limited		01.11.2022	15.11.2022
+	4501741953	  20	100935-06BR-RP	109799	Tierney Strachan Consulting Ltd.		30.11.2022	20.12.2022	28/10/2022 - ON HOLD, aguarda PO revisada.
+	4501741970	  20	100935-06BR-RP	172553	Parker Hannifin Corporation	OK -306723	20.01.2023	30.03.2023	14/10/2022 - Ack ok (wait SAP) - check required documents, readiness 10/01
+	4501741970	  10	100935-06BR	172553	Parker Hannifin Corporation	OK -306723	20.01.2023	30.03.2023	14/10/2022 - Ack ok (wait SAP) - check required documents, readiness 10/01
+	4501742102	  10	105157-06BR	4003076	W G Jones (Durham) Limited	ACK_29/09/2022	22.10.2022	04.11.2022	28/10/2022 - SMDL is in Aker internal review.
+	4501742102	  20	105157-06BR	4003076	W G Jones (Durham) Limited	ACK_29/09/2022	01.02.2023	01.03.2023	28/10/2022 - SMDL is in Aker internal review. Work Progress on schedule material readiness will  be expected by 01.02.2023.
+	4501742102	  30	105157-06BR	4003076	W G Jones (Durham) Limited	ACK_29/09/2022	27.10.2022	27.11.2022	28/10/2022 - SMDL is in Aker internal review.Concession Request approved, supplier informed material readines  probablity of delays.Document expected by 28.10.2022.
+	4501742114	  20	105157-06BR	123286	Vama Industrial Ltda	ack 27/09/2022	01.02.2023	01.03.2023	06/10/2022 - PO aprovada + Aguarda ACK
+	4501742123	  10	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 26/09/222	21.12.2022	18.11.2022	27/10/2022 - AG. APROVAÇÃO TICKET 748.627 (AKER)
+	4501742123	  30	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 26/09/222	06.12.2022	12.06.2022	27/10/2022 - AG. CORTE (PREVISÃO TERMINO 23/11/2022) + USINAGEM (PREVISÃO TÉRMINO 01/12/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 02/12/2022) + DATA BOOK + TICKET (PREVISÃO TÉRMINO 05/12/2022) + FATURAMENTO + COLETA
+	4501742123	  20	105157-06BR	123269	Trieng Tecnica Industrial Ltda	ack 26/09/222	01.02.2023	02.01.2023	27/10/2022 - AG. CORTE (PREVISÃO TERMINO 20/01/2022) + USINAGEM (PREVISÃO TÉRMINO 29/01/2022) + INSP. TRIENG (PREVISÃO TÉRMINO 30/01/2022) + DATA BOOK + TICKET (PREVISÃO TÉRMINO 31/01/2023) + FATURAMENTO + COLETA
+	4501742252	  10	100935-06BR-RP	109799	Tierney Strachan Consulting Ltd.	ACK - 25/10/2022	10.01.2023	10.02.2023	28/10/2022 - Aguarda MODEM.
+	4501742324	  30	105157-06BR	147492	Qualiferr Qualidade em Ferramentas		01.02.2023	15.02.2023	26/09/2022 - PO EM APROVAÇÃO
+	4501742324	  50	105157-06BR	147492	Qualiferr Qualidade em Ferramentas		01.12.2022	15.12.2022
+	4501742324	  20	105157-06BR	147492	Qualiferr Qualidade em Ferramentas	ack 27/09/2022	25.11.2022	09.12.2022	26/09/2022 - PO EM APROVAÇÃO
+	4501742324	  10	105157-06BR	147492	Qualiferr Qualidade em Ferramentas	ack 27/09/2022	26.10.2022	26.10.2022	26/09/2022 - PO EM APROVAÇÃO
+	4501742346	  10	100935-06BR-RP	164751	Charcroft Electronics Ltd		16.01.2023	16.02.2023	27/10/2022 - Aguarda ACK
+	4501742498	  20	105157-06BR	171813	Equipsea Equipamentos E Servicos	ack 30/09/2022	10.12.2022	17.12.2022	21/10/2022 - SMDL em análise pelo Sagar desde 05/10  +  Análise  Engenharia/elaboração de documentação para fabricação.
+	4501742498	  10	105157-06BR	171813	Equipsea Equipamentos E Servicos	ack 30/09/2022	15.10.2022	15.10.2022	27/09/2022 - Po em aprovação
+	4501742532	  20	104564-05BR	104018	TP-Products AS	ACK 30/09/2022	25.10.2022	15.11.2022	Last Update 26/10/2022 -  (SI Date)25/10/2022 - AIR (4 off) PR#02813/22 IMP 1449/22  DI:  ETA AKSO 24.11.2022
+	4501742566	  30	105157-06BRT	I355	Aker Solutions Limited		15.10.2022	15.11.2022
+	4501742566	  20	105157-06BR	I355	Aker Solutions Limited		30.10.2022	01.12.2022
+	4501742772	  20	104564-06BR	I355	Aker Solutions Limited		15.10.2022	09.11.2022	Last Update 26/10/2022 -  (SI Date)06/10/2022 - AIR (4 off) PR#02612/22 IMP 1350/22  DI:  ETA AKSO 09.11.2022
+	4501743068	  20	105157-06BR	149797	Astute Electronics Limited		01.11.2022	25.12.2022	04/10/2022 - PO em Processo de Aprovação Interna
+	4501743068	  10	105157-06BR	149797	Astute Electronics Limited		11.10.2022	11.10.2022
+	4501743111	  10	105157-06BR	122856	Ferramentas Gerais Comercio e		11.10.2022	11.10.2022
+	4501743111	  20	105157-06BR	122856	Ferramentas Gerais Comercio e		21.10.2022	04.11.2022	04/10/2022 - PO em Processo de Aprovação Interna
+	4501743115	  10	100935-06BR-RP	109799	Tierney Strachan Consulting Ltd.		30.11.2022	10.01.2023	28/10/2022 - Pendente ACK.
+	4501743341	  20	105157-06BRT	109799	Tierney Strachan Consulting Ltd.	ACK - 25/10/2022	28.10.2022	28.11.2022	28/10/2022- ACK recebido em 25/10/2022.
+	4501743341	  30	105157-06BRT	109799	Tierney Strachan Consulting Ltd.	ACK - 25/10/2022	28.10.2022	28.11.2022	28/10/2022- ACK recebido em 25/10/2022.
+	4501743341	  10	105157-06BRT	109799	Tierney Strachan Consulting Ltd.	ACK - 25/10/2022	28.10.2022	28.11.2022	28/10/2022- ACK recebido em 25/10/2022.
+	4501743475	  20	104231-05BR	122720	Gravametal Fotogravacao Ltda	ACK OK - 11/10/2022	30.09.2022	04.11.2022	27/10/2022 - CoC em Internal Review (Ticket 749126). Manterial em Produção.
+	4501743659	  20	104231-05BR	I200	Aker Solutions AS		30.10.2022	15.11.2022
+	4501743674	  50	100935-06BR-RP	4003076	W G Jones (Durham) Limited	ACK_17/10/2022	20.12.2022	05.03.2023	28/10/2022 -SMDL awaited from Supplier, Material readiness by 20.12.2022
+	4501743674	  40	100935-06BR	4003076	W G Jones (Durham) Limited	ACK_17/10/2022	20.12.2022	05.03.2023	28/10/2022 -SMDL awaited from Supplier, Material readiness by 20.12.2022
+	4501744053	  30	100935-06BR-RP	160293	Eletronor - Distribuidora de	ACK - 27/10/2022	07.02.2023	05.02.2023	27/10/2022 - Pendente ACK.
+	4501744221	  20	105157-06BRT	I355	Aker Solutions Limited		27.10.2022	28.11.2022
+	4501744228	  10	105157-06BRT	135571	Adriana da Silva Produtos de Metais	OK 19/10/2022	10.12.2022	10.12.2022
+	4501744459	  10	100935-06BR	115436	Brantner & Associates Inc		31.01.2023	28.02.2023	28/10/2022 - Nova PO em fluxo de aprovação. ACK pendente.
+	4501744459	  20	100935-06BR-RP	115436	Brantner & Associates Inc		31.01.2023	28.02.2023	28/10/2022 - Nova PO em fluxo de aprovação. ACK pendente.
+	4501744459	  30	100935-06BR	115436	Brantner & Associates Inc		31.01.2023	28.02.2023	28/10/2022 - Nova PO em fluxo de aprovação. ACK pendente.
+	4501744459	  40	100935-06BR-RP	115436	Brantner & Associates Inc		31.01.2023	28.02.2023	28/10/2022 - Nova PO em fluxo de aprovação. ACK pendente.
+	4501744509	  20	105157-06BRT	I376	Aker Solutions Malaysia Sdn Bhd		31.10.2022	30.11.2022
+	4501744670	  10	105157-06BR	170239	FCF - Fabrica Catarinense De		27.10.2022	27.10.2022
+	4501744670	  20	105157-06BR	170239	FCF - Fabrica Catarinense De		15.03.2023	29.03.2023	20/10/2022 - PO em Processo de Aprovação Interna
+	4501744755	  30	100935-06BR-RP	4003076	W G Jones (Durham) Limited		19.12.2022	04.03.2023	28/10/2022 -  Approved PO sent to Supplier, PO under review at supplier.
+	4501744755	  20	100935-06BR	4003076	W G Jones (Durham) Limited		19.12.2022	04.03.2023	28/10/2022 -  Approved PO sent to Supplier, PO under review at supplier.
+	4501744858	  10	105157-06BR	139591	Aembalogistic Embalagens		04.11.2022	04.11.2022
+	4501745317	  60	100935-06BR	147492	Qualiferr Qualidade em Ferramentas		07.12.2022	21.12.2022	26/10/2022 - PO em Processo de Aprovação Interna
+	4501745317	  50	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas		10.12.2022	24.12.2022	26/10/2022 - PO em Processo de Aprovação Interna
+	4501745317	  40	100935-06BR	147492	Qualiferr Qualidade em Ferramentas		22.12.2022	05.01.2023	26/10/2022 - PO em Processo de Aprovação Interna
+	4501745317	  30	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas		10.12.2022	24.12.2022	26/10/2022 - PO em Processo de Aprovação Interna
+	4501745317	  20	100935-06BR	147492	Qualiferr Qualidade em Ferramentas		05.01.2023	19.01.2023	26/10/2022 - PO em Processo de Aprovação Interna
+	4501745317	  10	100935-06BR	147492	Qualiferr Qualidade em Ferramentas		08.11.2022	08.11.2022
+	4501745317	  80	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas		19.12.2021	02.01.2022	26/10/2022 - PO em Processo de Aprovação Interna
+	4501745317	  70	100935-06BR-RP	147492	Qualiferr Qualidade em Ferramentas		21.11.2022	05.12.2022	26/10/2022 - PO em Processo de Aprovação Interna
+	4501745583	  10	100935-03BR	169829	SMT Service AS		14.12.2022	14.12.2022

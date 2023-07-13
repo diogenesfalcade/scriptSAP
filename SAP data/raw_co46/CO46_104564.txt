@@ -1,0 +1,49 @@
+
+Project				Material	Description	Requirement Element	Receipt Element	Receipt Element No.	Receipt Element Item	Rec./reqd qty	Target Quantity	Release/Creation	Bas. start date	Receipt Date	Requirements Date	MRP Controller	Reqmt Element Number	InhseProdTime	Purch. Group	Base Unit	Pl. Deliv. Time
+
+	104564
+
+		BB19-NT0062-00		BB19-NT0062-00	TX SEAL 12" - 5" (130) MACH	OrdRes	ProjSt			-2					12.12.2022	P02	             7955056		BC8	EA	            153
+		BB19-NT0048-01		BB19-NT0048-01	SEAL TX 2"(50) GR. 2	OrdRes	ProjSt			-2					12.12.2022	P02	             7955056		BC5	EA	            153
+		10120439		10120439	FLUID, TRANSAQUA HT2 ( 208 LITROS )	OrdRes	ProjSt			-2					12.12.2022	E02	             7955056	           15	BC6	GAL	            120
+		10238056		10238056	API STANDARD NAMEPLATE - 140 x 127	OrdRes	ProjSt			-2					12.12.2022	L02	             7955056		BC0	EA	            150
+		BS0000916		BS0000916	TUBE 3/8 ODx.086 WT MP MS15-093	OrdRes	ProjSt			-36					10.12.2022	C02	             7955056		M25	M	            135
+		10041074		10041074	BOLT, CLAMP STACKING, M6x35 , A4-80	OrdRes	ProjSt			-10					10.12.2022	C03	             7955056		BC0	EA	            176
+		BB159343		BB159343	SCREW HEX, M10X30, A4-80	OrdRes	ProjSt			-2					10.12.2022	C03	             7955056		BC5	EA	            216
+		10044570		10044570	HANDLING SLING, 15ton (30º) X 5m, 4legs	OrdRes	ProjSt			-2					10.12.2022	L01	             7955056		BC5	EA	             99
+		BB17-MX0014-00		BB17-MX0014-00	DRIVE SCREW, NO.6 x  9.5mm, A2	OrdRes	ProjSt			-4					10.12.2022	P01	             7955056		BC5	EA	            202
+		10141986		10141986	PIPE SUPPORT 2 1/2'', Ø78MM - FCM GLCV	OrdRes	ProjSt			-2					10.12.2022	P02	             7955056		BC5	EA	            220
+		ABRS1701		ABRS1701	ASSESSORIA OU CONSULT DE QLQUER NATUREZA	OrdRes				-1					26.03.2021		             7955058		BC0	EA
+		10095518		10095518	WATER INJECTION FCM	OrdRes	PrdOrd	             508893	                   1	-1	              1	20.10.2022	21.10.2022	25.10.2022	05.08.2022	A11	             7955060	           30		EA
+		10111876		10111876	PROTECTION CAP FOR FCM UPPER HUB	OrdRes	ProjSt			-1					17.06.2022	P02	             7955060		BC5	EA	            180
+		10355405		10355405	TARPAULIN, FCM GOLIAT	OrdRes	ProjSt			-1					17.06.2022	P02	             7955060		BC0	EA	             50
+		10095517		10095517	PRODUCTION FCM W/GAS LIFT	OrdRes	PrdOrd	             509941	                   1	-1	              1	21.10.2022	24.10.2022	10.11.2022	02.09.2022	A11	             7955062	           30		EA
+
+			BS0000916	BS0000916	TUBE 3/8 ODx.086 WT MP MS15-093	OrdRes	ProjSt			-12					01.09.2022	C02	             9935917		M25	M	            135
+			10099043	10099043	TX-SEAL 12"-5"(130) w/ELAST BACKUP ASSY	OrdRes	ProjSt			-2					01.09.2022	P02	             9935917		D73	EA	            195
+
+		10355405		10355405	TARPAULIN, FCM GOLIAT	OrdRes	ProjSt			-1					17.06.2022	P02	             7955062		BC0	EA	             50
+		10120159		10120159	DEBRIS CAP 18-3/4",2 HOT STABS	OrdRes	PrdOrd	             509026	                   1	-1	              1	21.10.2022	21.10.2022	28.10.2022	06.04.2022	C01	             7955064	           10	BC4	EA	            210
+
+			BB17-MX0086-26	BB17-MX0086-26	WASHER FLAT, M10, ISO 7089, A4	OrdRes	PurRqs	           17569908	                  10	-40	             80	28.10.2022		19.04.2023	21.07.2022	P01	             9540756		BC5	EA	            146
+
+		BB18-HS0021-23		BB18-HS0021-23	ROD END, LOCKDOWN ASSY, TREE DEBRIS CAP	OrdRes	POitem	         4501742532	                  20	-4	              4			18.11.2022	07.10.2022	P02	             7955064		BC3	EA	             45
+		10120159		10120159	DEBRIS CAP 18-3/4",2 HOT STABS	OrdRes	PrdOrd	             509027	                   1	-1	              1	21.10.2022	21.10.2022	03.11.2022	07.06.2022	C01	             7955065	           10	BC4	EA	            210
+
+			BB17-MX0086-26	BB17-MX0086-26	WASHER FLAT, M10, ISO 7089, A4	OrdRes	PurRqs	           17569908	                  10	-40	             80	28.10.2022		19.04.2023	21.07.2022	P01	             9540757		BC5	EA	            146
+
+		10098826		10098826	DOWNHOLE INTERFACE UNIT (DIU)	OrdRes	PrdOrd	             508595	                   1	-1	              1	28.09.2022	29.09.2022	05.12.2022	12.08.2022	A71	             7955089	           30		EA
+		BB17-NT0001-00		BB17-NT0001-00	12' SP BACKSEAL TEST GASKET	OrdRes	ProjSt			-3					20.08.2022	Y01	             8397231		TS9	EA	            195
+		10107868		10107868	HYDRAUALIC SEAL 28 MM W/ O-RING ASSY	OrdRes	ProjSt			-4					20.08.2022	P02	             8397231		D73	EA	            195
+		10008554		10008554	SHCS HEX, M16X120, A4-80	OrdRes	ProjSt			-8					20.08.2022	Y01	             8397231		BA1	EA	            150
+		10037617		10037617	GUIDE PIN FEMALE MB SEALPLATE	OrdRes	ProjSt			-4					20.08.2022	P02	             8397231		BC5	EA	            120
+		10037618		10037618	GUIDE PIN MALE MB SEALPLATE	OrdRes	ProjSt			-8					20.08.2022	P02	             8397231		BC5	EA	            120
+		BBIST000001		BBIST000001	TIECOAT PART A, CONTRATHERME	OrdRes	ProjSt			-10,800					05.05.2022	C03	             8397231		BC5	KG	            220
+		BBIST000002		BBIST000002	TIECOAT PART B, CONTRATHERM AIS	OrdRes	ProjSt			-1,440					05.05.2022	C03	             8397231		BC5	KG	            220
+		BBIST000003		BBIST000003	CONTRATHERM C55 750,- 30	OrdRes	ProjSt			-480					05.05.2022	C03	             8397231		BC5	KG	            220
+		BBIST000004		BBIST000004	CONTRATHERM C55 750,- 30 VM PART B	OrdRes	ProjSt			-67,200					05.05.2022	C03	             8397231		BC5	KG	            220
+		BBIST000005		BBIST000005	CONTRATHERM, D2004/3	OrdRes	ProjSt			-75					05.05.2022	C03	             8397231		BC5	KG	            220
+		BBIST000006		BBIST000006	CONTRATHERM, AMCAT3	OrdRes	ProjSt			-4					05.05.2022	C03	             8397231		BC5	KG	            220
+		BBIST000007		BBIST000007	CONTRATHERM,E1-01 WHITE RESIN PART A	OrdRes	ProjSt			-3,120					05.05.2022	C03	             8397231		BC5	KG	            220
+		BBIST000008		BBIST000008	CONTRATHERM,E1-01 E1-01 PART B	OrdRes	ProjSt			-0,880					05.05.2022	C03	             8397231		BC5	KG	            220
+		BBIST000009		BBIST000009	DB 446 127 CM,OCV TECHNICAL FABRICS	OrdRes	PurRqs	           17583470	                  10	-25	             25	28.10.2022		04.07.2023	05.05.2022	C03	             8397231		BC5	KG	            220

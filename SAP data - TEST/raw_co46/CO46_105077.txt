@@ -1,0 +1,9 @@
+
+Project			Actual finish	Actual Finish	Actual start	Assembly scrap	Base Unit	Basic fin. date	Bas. start date	Confirmed Rework	CustomerStock	Delivered qty	Requirement Element	Requirements Date	InhseProdTime	Reqmt Element Item	Receipt Element Item	Reqmt Element Key	Receipt Element Key	Receipt Date	Receipt Element	Material	Description	Material Memo	Missing Part	MRP Area	MRP Controller	Reqmt Element Number	Receipt Element No.	Order Type	Pl. Deliv. Time	Plant stock	Price unit	Prodn Supervisor	Project stock	Purch. Group	Rec./reqd qty	Release/Creation	Reqmnt Segment	Rescheduling date	Safety Stock	Sched. finish	Sched. start	Special Stock	Standard price	Stock Segment	System Status	Total RL time	Target Quantity	Total Scrap	Unit of measure
+
+	105077
+
+		BB26-080097-06					EA				            0		OrdRes	04.08.2022		                 3		AR	PB		ProjSt	BB26-080097-06	GRAVOPLY 1.6MM THK - RED/WHITE			5260	C01	             8039396			            160	          0	         1		            1	BC4	-1							Q	          1,00
+		BB17-080522-02					EA				            0		OrdRes	04.08.2022		                 4		AR	PB		ProjSt	BB17-080522-02	No.2 x 6.5Lg DR. SCREW TYPE U			5260	P01	             8039396			            232	          0	         1		            8	BC5	-8							Q	         30,00
+		BB15-081238-67					EA				            0		OrdRes	01.01.2023		                 1		AR	PB		ProjSt	BB15-081238-67	GUIDE RAIL 160 RED			5260	P01	             8307908			            160	          0	         1		            2	BC7	-2							Q	          1,00
+		BB88-060181-03					EA				            0		OrdRes	01.01.2023		                 2		AR	PB		ProjSt	BB88-060181-03	PCB TERMINATION - PINPAK SIZE18, AWG22/			5260	P01	             8307908			            160	          0	         1		            8	BC7	-8							Q	          1,00

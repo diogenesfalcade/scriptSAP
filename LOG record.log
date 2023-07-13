@@ -1,0 +1,994 @@
+INFO:(2022-08-16 00:18:47,263) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-08-16 00:18:47,379) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-16 00:18:51,379) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-16 00:18:54,284) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-16 00:18:54,287) In module: transformadados at Line 201 --> Directory C:\Temp\Temporario already exists
+ERROR:(2022-08-16 00:21:15,945) In module: transformadados at Line 98 --> CO46 or OPR Script error in project: 105061
+ERROR:(2022-08-16 01:51:32,688) In module: transformadados at Line 98 --> CO46 or OPR Script error in project: 102822
+ERROR:(2022-08-16 01:51:35,605) In module: transformadados at Line 98 --> CO46 or OPR Script error in project: 102437
+ERROR:(2022-08-16 01:51:46,850) In module: transformadados at Line 98 --> CO46 or OPR Script error in project: 101968
+INFO:(2022-08-16 04:10:51,292) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-08-16 04:10:51,335) In module: transformadados at Line 136 --> Project 105061 doesen't have a \CO46_ file
+INFO:(2022-08-16 04:10:51,827) In module: transformadados at Line 136 --> Project 102822 doesen't have a \CO46_ file
+INFO:(2022-08-16 04:10:51,827) In module: transformadados at Line 136 --> Project 102437 doesen't have a \CO46_ file
+INFO:(2022-08-16 04:10:51,827) In module: transformadados at Line 136 --> Project 101968 doesen't have a \CO46_ file
+INFO:(2022-08-16 04:10:52,550) In module: transformadados at Line 156 --> Project 105061 doesen't have an CO46 file to clear
+INFO:(2022-08-16 04:10:52,597) In module: transformadados at Line 156 --> Project 102822 doesen't have an CO46 file to clear
+INFO:(2022-08-16 04:10:52,597) In module: transformadados at Line 156 --> Project 102437 doesen't have an CO46 file to clear
+INFO:(2022-08-16 04:10:52,597) In module: transformadados at Line 156 --> Project 101968 doesen't have an CO46 file to clear
+INFO:(2022-08-16 04:10:55,026) In module: transformadados at Line 136 --> Project 105061 doesen't have a \OPR_ file
+INFO:(2022-08-16 04:10:55,691) In module: transformadados at Line 136 --> Project 102822 doesen't have a \OPR_ file
+INFO:(2022-08-16 04:10:55,691) In module: transformadados at Line 136 --> Project 102437 doesen't have a \OPR_ file
+INFO:(2022-08-16 04:10:55,691) In module: transformadados at Line 136 --> Project 101968 doesen't have a \OPR_ file
+INFO:(2022-08-16 04:10:56,305) In module: transformadados at Line 175 --> Project 105061 doesen't have an OPR file to clear
+INFO:(2022-08-16 04:10:56,348) In module: transformadados at Line 175 --> Project 102822 doesen't have an OPR file to clear
+INFO:(2022-08-16 04:10:56,348) In module: transformadados at Line 175 --> Project 102437 doesen't have an OPR file to clear
+INFO:(2022-08-16 04:10:56,348) In module: transformadados at Line 175 --> Project 101968 doesen't have an OPR file to clear
+INFO:(2022-08-17 09:16:21,350) In module: transformadados at Line 136 --> Project 105061 doesen't have a \CO46_ file
+INFO:(2022-08-17 09:16:21,953) In module: transformadados at Line 136 --> Project 102822 doesen't have a \CO46_ file
+INFO:(2022-08-17 09:16:21,956) In module: transformadados at Line 136 --> Project 102437 doesen't have a \CO46_ file
+INFO:(2022-08-17 09:16:21,958) In module: transformadados at Line 136 --> Project 101968 doesen't have a \CO46_ file
+INFO:(2022-08-17 09:16:22,832) In module: transformadados at Line 156 --> Project 105061 doesen't have an CO46 file to clear
+INFO:(2022-08-17 09:16:22,897) In module: transformadados at Line 156 --> Project 102822 doesen't have an CO46 file to clear
+INFO:(2022-08-17 09:16:22,898) In module: transformadados at Line 156 --> Project 102437 doesen't have an CO46 file to clear
+INFO:(2022-08-17 09:16:22,899) In module: transformadados at Line 156 --> Project 101968 doesen't have an CO46 file to clear
+INFO:(2022-08-17 09:16:26,529) In module: transformadados at Line 136 --> Project 105061 doesen't have a \OPR_ file
+INFO:(2022-08-17 09:16:27,093) In module: transformadados at Line 136 --> Project 102822 doesen't have a \OPR_ file
+INFO:(2022-08-17 09:16:27,095) In module: transformadados at Line 136 --> Project 102437 doesen't have a \OPR_ file
+INFO:(2022-08-17 09:16:27,096) In module: transformadados at Line 136 --> Project 101968 doesen't have a \OPR_ file
+INFO:(2022-08-17 09:16:27,865) In module: transformadados at Line 175 --> Project 105061 doesen't have an OPR file to clear
+INFO:(2022-08-17 09:16:27,929) In module: transformadados at Line 175 --> Project 102822 doesen't have an OPR file to clear
+INFO:(2022-08-17 09:16:27,930) In module: transformadados at Line 175 --> Project 102437 doesen't have an OPR file to clear
+INFO:(2022-08-17 09:16:27,931) In module: transformadados at Line 175 --> Project 101968 doesen't have an OPR file to clear
+INFO:(2022-08-17 09:22:23,261) In module: transformadados at Line 136 --> Project 105061 doesen't have a \CO46_ file
+INFO:(2022-08-17 09:22:23,774) In module: transformadados at Line 136 --> Project 102822 doesen't have a \CO46_ file
+INFO:(2022-08-17 09:22:23,776) In module: transformadados at Line 136 --> Project 102437 doesen't have a \CO46_ file
+INFO:(2022-08-17 09:22:23,778) In module: transformadados at Line 136 --> Project 101968 doesen't have a \CO46_ file
+INFO:(2022-08-17 09:22:24,552) In module: transformadados at Line 156 --> Project 105061 doesen't have an CO46 file to clear
+INFO:(2022-08-17 09:22:24,697) In module: transformadados at Line 156 --> Project 102822 doesen't have an CO46 file to clear
+INFO:(2022-08-17 09:22:24,698) In module: transformadados at Line 156 --> Project 102437 doesen't have an CO46 file to clear
+INFO:(2022-08-17 09:22:24,700) In module: transformadados at Line 156 --> Project 101968 doesen't have an CO46 file to clear
+INFO:(2022-08-17 09:22:41,468) In module: transformadados at Line 136 --> Project 105061 doesen't have a \OPR_ file
+INFO:(2022-08-17 09:22:42,493) In module: transformadados at Line 136 --> Project 102822 doesen't have a \OPR_ file
+INFO:(2022-08-17 09:22:42,497) In module: transformadados at Line 136 --> Project 102437 doesen't have a \OPR_ file
+INFO:(2022-08-17 09:22:42,503) In module: transformadados at Line 136 --> Project 101968 doesen't have a \OPR_ file
+INFO:(2022-08-17 09:22:44,167) In module: transformadados at Line 175 --> Project 105061 doesen't have an OPR file to clear
+INFO:(2022-08-17 09:22:44,413) In module: transformadados at Line 175 --> Project 102822 doesen't have an OPR file to clear
+INFO:(2022-08-17 09:22:44,413) In module: transformadados at Line 175 --> Project 102437 doesen't have an OPR file to clear
+INFO:(2022-08-17 09:22:44,414) In module: transformadados at Line 175 --> Project 101968 doesen't have an OPR file to clear
+INFO:(2022-08-18 23:25:50,486) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-08-18 23:25:50,887) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-18 23:25:54,982) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-18 23:25:57,407) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-18 23:25:57,410) In module: transformadados at Line 202 --> Directory C:\Temp\Temporario already exists
+INFO:(2022-08-19 03:17:44,630) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-08-22 00:11:48,081) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-08-22 00:11:50,050) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-22 00:11:54,090) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-22 00:11:56,839) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-22 00:11:56,842) In module: transformadados at Line 223 --> Directory C:\Temp\Temporario already exists
+INFO:(2022-08-22 03:43:40,896) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-08-22 23:50:18,483) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-08-22 23:50:21,450) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-22 23:50:27,734) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-22 23:50:31,263) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-22 23:50:31,263) In module: transformadados at Line 223 --> Directory C:\Temp\Temporario already exists
+ERROR:(2022-08-23 03:18:17,976) In module: transformadados at Line 119 --> CO46 or OPR Script error in project: 104214  Moho Infill
+INFO:(2022-08-23 03:23:09,831) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-08-23 03:23:11,146) In module: transformadados at Line 157 --> Project 104214  Moho Infill doesen't have a \CO46_ file
+INFO:(2022-08-23 03:23:11,316) In module: transformadados at Line 177 --> Project 104214  Moho Infill doesen't have an CO46 file to clear
+INFO:(2022-08-23 03:23:14,775) In module: transformadados at Line 157 --> Project 104214  Moho Infill doesen't have a \OPR_ file
+INFO:(2022-08-23 03:23:14,886) In module: transformadados at Line 196 --> Project 104214  Moho Infill doesen't have an OPR file to clear
+INFO:(2022-08-23 03:23:22,928) In module: email_handler at Line 53 --> Outlook object was obtained with success. 
+INFO:(2022-08-23 03:23:28,464) In module: email_handler at Line 92 --> Outlook closed.
+ERROR:(2022-08-23 03:23:28,464) In module: email_handler at Line 38 --> <class 'pywintypes.com_error'> (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Path does not exist. Verify the path is correct.', None, 0, -2147024893), None) <traceback object at 0x000001E5A1137040>
+INFO:(2022-08-23 08:00:17,261) In module: transformadados at Line 157 --> Project 104214 doesen't have a \CO46_ file
+INFO:(2022-08-23 08:00:17,439) In module: transformadados at Line 177 --> Project 104214 doesen't have an CO46 file to clear
+INFO:(2022-08-23 08:00:22,715) In module: transformadados at Line 157 --> Project 104214 doesen't have a \OPR_ file
+INFO:(2022-08-23 08:00:22,900) In module: transformadados at Line 196 --> Project 104214 doesen't have an OPR file to clear
+INFO:(2022-08-24 01:27:29,036) In module: transformadados at Line 162 --> Project 104214 doesen't have a \CO46_ file
+INFO:(2022-08-24 01:27:29,182) In module: transformadados at Line 182 --> Project 104214 doesen't have an CO46 file to clear
+INFO:(2022-08-24 01:27:33,894) In module: transformadados at Line 162 --> Project 104214 doesen't have a \OPR_ file
+INFO:(2022-08-24 01:27:34,024) In module: transformadados at Line 201 --> Project 104214 doesen't have an OPR file to clear
+INFO:(2022-08-25 01:06:57,845) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-08-25 01:07:01,407) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-25 01:07:05,363) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-25 01:07:07,938) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-25 01:07:07,940) In module: transformadados at Line 228 --> Directory C:\Temp\Temporario already exists
+INFO:(2022-08-25 04:47:01,418) In module: sap_bot at Line 82 --> Application closed.
+WARNING:(2022-08-25 04:47:15,754) In module: email_handler at Line 80 --> Outlook wasn't running: No window can be found.
+INFO:(2022-08-25 04:47:20,880) In module: email_handler at Line 67 --> Outlook lauched.
+INFO:(2022-08-25 04:47:35,364) In module: email_handler at Line 53 --> Outlook object was obtained with success. 
+INFO:(2022-08-25 04:47:44,050) In module: email_handler at Line 92 --> Outlook closed.
+ERROR:(2022-08-25 04:47:44,050) In module: email_handler at Line 38 --> <class 'pywintypes.com_error'> (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Path does not exist. Verify the path is correct.', None, 0, -2147024893), None) <traceback object at 0x0000020040AF8A00>
+INFO:(2022-08-25 23:44:42,078) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-08-25 23:44:42,363) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-25 23:44:46,568) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-25 23:44:49,579) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-25 23:44:49,595) In module: transformadados at Line 228 --> Directory C:\Temp\Temporario already exists
+INFO:(2022-08-26 03:22:29,277) In module: sap_bot at Line 82 --> Application closed.
+WARNING:(2022-08-26 03:22:44,084) In module: email_handler at Line 80 --> Outlook wasn't running: No window can be found.
+INFO:(2022-08-26 03:22:49,133) In module: email_handler at Line 67 --> Outlook lauched.
+INFO:(2022-08-26 03:23:01,608) In module: email_handler at Line 53 --> Outlook object was obtained with success. 
+INFO:(2022-08-26 03:23:10,943) In module: email_handler at Line 92 --> Outlook closed.
+INFO:(2022-08-26 09:38:03,763) In module: sap_bot at Line 70 --> SAP lauched.
+ERROR:(2022-08-26 09:38:04,127) In module: sap_bot at Line 104 --> (<class 'pywintypes.com_error'>, com_error(-2147221020, 'Invalid syntax', None, None), <traceback object at 0x0000020340CC7380>)
+INFO:(2022-08-26 13:45:06,196) In module: sap_bot at Line 70 --> SAP lauched.
+ERROR:(2022-08-26 13:45:06,199) In module: sap_bot at Line 104 --> (<class 'pywintypes.com_error'>, com_error(-2147221020, 'Invalid syntax', None, None), <traceback object at 0x0000020031EA8F00>)
+INFO:(2022-08-26 13:53:14,463) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-26 13:53:20,240) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-26 13:53:20,500) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-26 13:53:20,519) In module: transformadados at Line 225 --> Temporary path created
+INFO:(2022-08-26 13:55:52,602) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-08-26 13:55:52,722) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-26 13:55:56,282) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-26 13:55:56,369) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-26 13:55:56,369) In module: transformadados at Line 227 --> Directory C:\Temp\Temporario already exists
+INFO:(2022-08-26 17:41:41,985) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-08-30 08:52:26,627) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-30 08:52:31,192) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-30 08:52:31,293) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-30 12:51:50,072) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-08-30 20:02:10,468) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-30 20:02:10,483) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-30 20:02:10,506) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-30 20:19:27,265) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-08-30 20:19:27,364) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-30 20:19:35,183) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-30 20:19:35,318) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-30 20:23:32,883) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-30 20:23:36,136) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-30 20:23:36,198) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-30 20:34:18,993) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-30 20:34:19,024) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-30 20:34:19,062) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-30 20:36:26,623) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-30 20:36:26,652) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-30 20:36:26,672) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-30 20:37:40,489) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-30 20:37:40,505) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-30 20:37:40,511) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-08-30 21:10:00,172) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-08-31 21:00:57,506) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-08-31 21:00:57,686) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-08-31 21:01:08,521) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-08-31 21:01:12,511) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-01 00:59:24,705) In module: sap_bot at Line 82 --> Application closed.
+WARNING:(2022-09-01 00:59:40,330) In module: email_handler at Line 80 --> Outlook wasn't running: No window can be found.
+INFO:(2022-09-01 00:59:45,380) In module: email_handler at Line 67 --> Outlook lauched.
+INFO:(2022-09-01 00:59:57,241) In module: email_handler at Line 53 --> Outlook object was obtained with success. 
+INFO:(2022-09-01 01:00:03,117) In module: email_handler at Line 92 --> Outlook closed.
+ERROR:(2022-09-01 01:00:03,117) In module: email_handler at Line 38 --> <class 'pywintypes.com_error'> (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Cannot find this file. Verify the path and file name are correct.', None, 0, -2147024894), None) <traceback object at 0x000001BA62056100>
+INFO:(2022-09-01 21:30:54,480) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-01 21:30:54,605) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-01 21:30:59,275) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-01 21:31:02,511) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-02 01:18:01,362) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-02 01:18:16,984) In module: email_handler at Line 53 --> Outlook object was obtained with success. 
+INFO:(2022-09-02 01:18:22,619) In module: email_handler at Line 92 --> Outlook closed.
+ERROR:(2022-09-02 01:18:22,619) In module: email_handler at Line 38 --> <class 'pywintypes.com_error'> (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Cannot find this file. Verify the path and file name are correct.', None, 0, -2147024894), None) <traceback object at 0x000001D26A26BE40>
+INFO:(2022-09-04 21:03:21,508) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-04 21:03:21,601) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-04 21:03:25,469) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-04 21:03:28,014) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-05 00:49:29,182) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-05 22:03:34,234) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-05 22:03:34,357) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-05 22:03:38,003) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-05 22:03:40,652) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-06 01:45:06,331) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-06 21:12:47,082) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-06 21:12:47,192) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-06 21:12:50,447) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-06 21:12:52,869) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-07 01:04:46,194) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-07 20:19:21,079) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-07 20:19:21,172) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-07 20:19:30,051) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-07 20:19:30,197) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-08 00:00:44,342) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-08 20:26:03,163) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-08 20:26:03,253) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-08 20:26:06,562) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-08 20:26:09,000) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-09 00:17:27,048) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-11 20:04:50,347) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-11 20:04:50,441) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-11 20:04:55,076) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-11 20:04:57,748) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-11 23:39:42,129) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-12 20:45:40,591) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-12 20:45:40,669) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-12 20:45:44,612) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-12 20:45:46,946) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-12 23:10:26,889) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-12 23:10:26,941) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-12 23:10:30,208) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-12 23:10:30,288) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-13 02:56:21,248) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-13 10:43:26,659) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 10:43:28,136) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 10:43:29,898) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 10:43:30,262) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 10:43:30,375) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 10:43:30,447) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 10:43:30,514) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 10:43:30,589) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 10:43:30,679) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 12:10:11,162) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 12:10:11,995) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 12:10:12,398) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 12:10:12,874) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 12:10:13,365) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 12:10:14,038) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 23:52:28,162) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 23:52:28,706) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 23:52:29,154) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 23:52:29,589) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 23:52:29,927) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-13 23:52:39,984) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-13 23:52:40,156) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-13 23:52:46,734) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-13 23:52:50,547) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-14 04:05:11,081) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-14 08:44:36,916) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-14 08:44:37,308) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-14 08:44:44,792) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-14 08:44:48,020) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-14 08:47:43,908) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-14 09:01:27,442) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-14 09:01:27,583) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-14 09:01:34,411) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-14 09:01:34,427) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-14 09:04:08,114) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-14 09:36:16,504) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-14 09:36:16,738) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-14 09:36:22,426) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-14 09:36:22,472) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-14 09:39:52,849) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-14 10:00:25,868) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 10:00:26,555) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 10:17:10,769) In module: transformadados at Line 203 --> Project 102505 doesen't have a \CO46_ file
+INFO:(2022-09-14 10:17:11,065) In module: transformadados at Line 223 --> Project 102505 doesen't have an CO46 file to clear
+INFO:(2022-09-14 12:00:13,136) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 12:00:13,573) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 13:00:23,314) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 13:00:24,080) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 13:00:25,424) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 14:00:53,219) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 14:00:53,953) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 15:00:39,426) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 15:00:40,067) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 16:00:29,136) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 16:00:29,809) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 17:00:28,802) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 17:00:29,474) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 18:00:25,389) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 18:00:26,013) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 19:00:28,764) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 19:00:29,436) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 20:00:25,994) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 20:00:26,634) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 21:00:29,509) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 21:00:30,040) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 22:00:30,519) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 22:00:31,191) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 23:00:29,888) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-14 23:00:30,794) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 00:00:40,660) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 00:00:41,519) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 00:00:42,363) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 01:00:29,954) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 01:00:30,610) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 02:00:26,883) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 02:00:27,742) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 03:00:27,335) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 03:00:28,132) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 04:00:26,439) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 04:00:27,204) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 05:00:26,035) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 05:00:26,724) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 06:00:26,767) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 06:00:27,158) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 07:00:25,055) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 07:00:25,617) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 08:00:32,655) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 08:00:33,186) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 08:00:33,780) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 09:00:25,113) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 09:00:25,941) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 10:00:25,226) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 10:00:25,897) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 11:00:34,012) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 11:00:34,621) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 12:00:27,338) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 12:00:27,916) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 13:00:28,945) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 13:00:29,773) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 13:00:30,492) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 14:00:26,574) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 14:00:27,403) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 15:00:28,068) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 15:00:29,146) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 16:00:27,671) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 16:00:28,389) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 17:00:27,814) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 17:00:28,439) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 18:00:26,372) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 18:00:26,965) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 19:00:14,564) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 19:00:15,252) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 20:00:28,537) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 20:00:29,099) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 21:00:43,341) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 21:00:43,950) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 22:00:40,691) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 22:00:41,379) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 23:00:32,857) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-15 23:00:33,498) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 00:00:42,742) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 00:00:43,914) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 00:00:44,649) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 01:00:32,882) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 01:00:33,570) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 02:00:29,556) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 02:00:30,197) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 03:00:27,885) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 03:00:28,573) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 04:00:26,024) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 04:00:26,477) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 05:00:29,866) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 05:00:30,523) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 06:00:26,811) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 06:00:27,499) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 07:00:15,723) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 07:00:16,395) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 08:00:33,477) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 08:00:34,071) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 08:00:34,961) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 08:31:45,775) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 08:31:46,416) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 08:53:01,005) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 08:53:01,495) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 08:53:12,115) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 08:55:40,201) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 08:55:41,025) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 08:55:42,180) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 08:55:43,062) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 09:02:06,258) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 09:02:07,992) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 09:02:08,758) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 09:02:19,383) In module: sap_bot at Line 70 --> SAP lauched.
+ERROR:(2022-09-16 09:02:19,383) In module: sap_bot at Line 104 --> (<class 'pywintypes.com_error'>, com_error(-2147221020, 'Invalid syntax', None, None), <traceback object at 0x000001B99058D500>)
+INFO:(2022-09-16 09:06:55,398) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 09:06:55,961) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-16 09:07:06,086) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-16 09:07:06,711) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-16 09:07:28,023) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-16 09:07:28,258) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-16 11:08:04,764) In module: email_handler at Line 53 --> Outlook object was obtained with success. 
+INFO:(2022-09-16 11:08:11,233) In module: email_handler at Line 92 --> Outlook closed.
+INFO:(2022-09-19 00:00:40,973) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-19 00:00:41,629) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-19 00:00:42,426) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-19 00:00:43,051) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-19 00:00:47,973) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-19 00:01:01,332) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-19 00:01:09,379) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-19 05:07:56,803) In module: sap_bot at Line 82 --> Application closed.
+WARNING:(2022-09-19 05:08:16,396) In module: email_handler at Line 80 --> Outlook wasn't running: No window can be found.
+INFO:(2022-09-19 05:08:21,521) In module: email_handler at Line 67 --> Outlook lauched.
+INFO:(2022-09-20 00:00:50,683) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-20 00:00:51,261) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-20 00:00:52,230) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-20 00:00:55,761) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-20 00:01:08,355) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-20 00:01:15,120) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-20 04:55:27,344) In module: sap_bot at Line 82 --> Application closed.
+WARNING:(2022-09-20 04:55:48,266) In module: email_handler at Line 80 --> Outlook wasn't running: No window can be found.
+INFO:(2022-09-20 04:55:53,359) In module: email_handler at Line 67 --> Outlook lauched.
+INFO:(2022-09-20 04:56:33,422) In module: email_handler at Line 53 --> Outlook object was obtained with success. 
+INFO:(2022-09-20 04:56:46,531) In module: email_handler at Line 92 --> Outlook closed.
+INFO:(2022-09-21 00:00:37,211) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-21 00:00:38,352) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-21 00:00:39,039) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-21 00:00:39,470) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-21 00:00:46,548) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-21 00:00:46,642) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-21 04:34:33,792) In module: sap_bot at Line 82 --> Application closed.
+WARNING:(2022-09-21 04:34:53,417) In module: email_handler at Line 80 --> Outlook wasn't running: No window can be found.
+INFO:(2022-09-21 04:34:58,479) In module: email_handler at Line 67 --> Outlook lauched.
+INFO:(2022-09-22 00:00:53,047) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-22 00:00:55,047) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-22 00:00:56,485) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-22 00:00:58,266) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-22 00:01:15,563) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-22 00:01:21,223) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-22 04:32:54,779) In module: sap_bot at Line 82 --> Application closed.
+WARNING:(2022-09-22 04:33:17,341) In module: email_handler at Line 80 --> Outlook wasn't running: No window can be found.
+INFO:(2022-09-22 04:33:23,154) In module: email_handler at Line 67 --> Outlook lauched.
+INFO:(2022-09-22 04:34:13,310) In module: email_handler at Line 53 --> Outlook object was obtained with success. 
+INFO:(2022-09-22 04:34:24,216) In module: email_handler at Line 92 --> Outlook closed.
+INFO:(2022-09-26 22:16:28,621) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-26 22:16:28,816) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-26 22:16:29,066) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-26 22:16:29,474) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-26 22:16:29,787) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-26 22:16:49,799) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-26 22:16:49,862) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-26 22:16:54,845) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-26 22:16:54,908) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-27 02:07:46,353) In module: sap_bot at Line 82 --> Application closed.
+WARNING:(2022-09-27 02:07:55,289) In module: email_handler at Line 80 --> Outlook wasn't running: No window can be found.
+INFO:(2022-09-27 02:08:01,523) In module: email_handler at Line 67 --> Outlook lauched.
+INFO:(2022-09-27 02:08:23,834) In module: email_handler at Line 53 --> Outlook object was obtained with success. 
+INFO:(2022-09-27 02:08:34,677) In module: email_handler at Line 92 --> Outlook closed.
+INFO:(2022-09-27 03:07:11,673) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-27 03:07:11,973) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-27 03:07:12,399) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-27 03:07:12,712) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-27 03:07:32,898) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-27 03:07:33,013) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-27 03:07:36,700) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-27 03:07:39,269) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-28 00:00:16,870) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-28 00:00:17,089) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-28 00:00:17,308) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-28 00:00:37,511) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-28 00:00:37,574) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-28 00:00:42,372) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-28 00:00:42,450) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-28 04:06:17,860) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-29 00:00:20,152) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-29 00:00:20,355) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-29 00:00:20,558) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-29 00:00:40,828) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-29 00:00:41,109) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-29 00:00:45,688) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-29 00:00:45,735) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-29 03:59:38,872) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-09-30 00:00:13,902) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-30 00:00:14,094) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-30 00:00:14,305) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-30 00:00:14,575) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-09-30 00:00:34,608) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-09-30 00:00:34,748) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-09-30 00:00:39,124) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-09-30 00:00:39,186) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-09-30 03:55:15,673) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-03 00:00:17,319) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-03 00:00:17,526) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-03 00:00:17,758) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-03 00:00:17,989) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-03 00:00:38,296) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-10-03 00:00:38,671) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-10-03 00:00:45,297) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-10-03 00:00:49,235) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-10-03 04:32:47,195) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-05 00:00:21,380) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-05 00:00:21,579) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-05 00:00:21,818) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-05 00:00:22,016) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-05 00:00:22,467) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-05 00:00:42,493) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-10-05 00:00:42,573) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-10-05 00:00:45,933) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-10-05 00:00:45,995) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-10-05 04:43:36,092) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-06 00:00:17,828) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-06 00:00:18,149) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-06 00:00:18,390) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-06 00:00:18,771) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-06 00:00:19,052) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-06 00:00:39,153) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-10-06 00:00:39,241) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-10-06 00:00:42,249) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-10-06 00:00:42,312) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-10-06 04:00:08,600) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-10 00:00:24,036) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-10 00:00:24,269) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-10 00:00:24,475) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-10 00:00:24,674) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-10 00:00:24,929) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-10 00:00:45,068) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-10-10 00:00:45,178) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-10-10 00:00:50,631) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-10-10 00:00:50,693) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-10-10 04:06:24,348) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-10 08:42:14,781) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-10-10 08:42:14,980) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-10-10 08:42:22,839) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-10-10 08:42:26,832) In module: sap_bot at Line 137 --> Session obteined.
+ERROR:(2022-10-10 08:42:27,642) In module: transformadados at Line 171 --> ME5A Script error
+INFO:(2022-10-10 08:42:28,788) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-10 08:42:30,884) In module: transformadados at Line 201 --> Project 102505 doesen't have a \CO46_ file
+INFO:(2022-10-10 08:42:31,166) In module: transformadados at Line 221 --> Project 102505 doesen't have an CO46 file to clear
+INFO:(2022-10-10 08:45:15,401) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-10-10 08:45:15,555) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-10-10 08:45:22,220) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-10-10 08:45:24,171) In module: sap_bot at Line 137 --> Session obteined.
+ERROR:(2022-10-10 08:45:25,125) In module: transformadados at Line 171 --> ME5A Script error
+INFO:(2022-10-10 08:45:26,698) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-10 08:45:31,806) In module: transformadados at Line 201 --> Project 102505 doesen't have a \CO46_ file
+INFO:(2022-10-10 08:45:32,167) In module: transformadados at Line 221 --> Project 102505 doesen't have an CO46 file to clear
+INFO:(2022-10-10 10:04:47,459) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-10-10 10:04:47,553) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-10-10 10:05:01,411) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-10-10 10:05:01,489) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-10-10 10:06:45,704) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-11 00:00:23,615) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-11 00:00:23,815) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-11 00:00:24,006) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-11 00:00:24,223) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-11 00:00:24,627) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-11 00:00:25,205) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-11 00:00:45,330) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-10-11 00:00:45,393) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-10-11 00:00:49,238) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-10-11 00:00:49,300) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-10-11 04:01:21,243) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-11 08:28:24,187) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-11 08:28:24,390) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-11 08:29:34,868) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-10-11 08:29:34,930) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-10-11 08:29:39,577) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-10-11 08:29:39,639) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-10-11 08:31:03,668) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-14 11:31:34,837) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-14 11:31:35,401) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-14 11:31:35,708) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-14 11:31:35,949) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-14 11:31:55,970) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-10-14 11:31:56,017) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-10-14 11:31:58,845) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-10-14 11:31:58,908) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-10-14 11:31:58,908) In module: transformadados at Line 270 --> Directory C:\Temp\Temporario already exists
+INFO:(2022-10-14 15:27:43,772) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-17 00:00:24,545) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-17 00:00:24,732) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-17 00:00:24,904) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-17 00:00:44,966) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-10-17 00:00:45,189) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-10-17 00:00:52,756) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-10-17 00:01:01,013) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-10-17 00:01:01,029) In module: transformadados at Line 270 --> Directory C:\Temp\Temporario already exists
+INFO:(2022-10-17 03:51:57,116) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-17 14:04:14,729) In module: transformadados at Line 203 --> Project 105077 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,250) In module: transformadados at Line 203 --> Project 106022 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,251) In module: transformadados at Line 203 --> Project 105157 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,252) In module: transformadados at Line 203 --> Project 104996 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,253) In module: transformadados at Line 203 --> Project 104564 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,253) In module: transformadados at Line 203 --> Project 104231 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,254) In module: transformadados at Line 203 --> Project 104133 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,255) In module: transformadados at Line 203 --> Project 103294 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,256) In module: transformadados at Line 203 --> Project 101598 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,257) In module: transformadados at Line 203 --> Project 105500 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,258) In module: transformadados at Line 203 --> Project 105658 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,259) In module: transformadados at Line 203 --> Project 106004 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,260) In module: transformadados at Line 203 --> Project 106006 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,261) In module: transformadados at Line 203 --> Project 105915 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,262) In module: transformadados at Line 203 --> Project 100798 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,264) In module: transformadados at Line 203 --> Project 100935 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,266) In module: transformadados at Line 203 --> Project 105911 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,267) In module: transformadados at Line 203 --> Project 101353 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,268) In module: transformadados at Line 203 --> Project 103715 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,268) In module: transformadados at Line 203 --> Project 101643 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,269) In module: transformadados at Line 203 --> Project 104214 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,269) In module: transformadados at Line 203 --> Project 102505 doesen't have a \CO46_ file
+INFO:(2022-10-17 14:04:15,269) In module: transformadados at Line 223 --> Project 105077 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,270) In module: transformadados at Line 223 --> Project 106022 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,270) In module: transformadados at Line 223 --> Project 105157 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,270) In module: transformadados at Line 223 --> Project 104996 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,270) In module: transformadados at Line 223 --> Project 104564 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,270) In module: transformadados at Line 223 --> Project 104231 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,270) In module: transformadados at Line 223 --> Project 104133 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,270) In module: transformadados at Line 223 --> Project 103294 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,270) In module: transformadados at Line 223 --> Project 101598 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,270) In module: transformadados at Line 223 --> Project 105500 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,271) In module: transformadados at Line 223 --> Project 105658 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,271) In module: transformadados at Line 223 --> Project 106004 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,271) In module: transformadados at Line 223 --> Project 106006 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,271) In module: transformadados at Line 223 --> Project 105915 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,271) In module: transformadados at Line 223 --> Project 100798 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,271) In module: transformadados at Line 223 --> Project 100935 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,271) In module: transformadados at Line 223 --> Project 105911 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,271) In module: transformadados at Line 223 --> Project 101353 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,272) In module: transformadados at Line 223 --> Project 103715 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,272) In module: transformadados at Line 223 --> Project 101643 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,272) In module: transformadados at Line 223 --> Project 104214 doesen't have an CO46 file to clear
+INFO:(2022-10-17 14:04:15,272) In module: transformadados at Line 223 --> Project 102505 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,678) In module: transformadados at Line 224 --> Project 105077 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,680) In module: transformadados at Line 224 --> Project 106022 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,680) In module: transformadados at Line 224 --> Project 105157 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,681) In module: transformadados at Line 224 --> Project 104996 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,681) In module: transformadados at Line 224 --> Project 104564 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,681) In module: transformadados at Line 224 --> Project 104231 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,682) In module: transformadados at Line 224 --> Project 104133 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,682) In module: transformadados at Line 224 --> Project 103294 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,682) In module: transformadados at Line 224 --> Project 101598 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,682) In module: transformadados at Line 224 --> Project 105500 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,682) In module: transformadados at Line 224 --> Project 105658 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,682) In module: transformadados at Line 224 --> Project 106004 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,682) In module: transformadados at Line 224 --> Project 106006 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,683) In module: transformadados at Line 224 --> Project 105915 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,683) In module: transformadados at Line 224 --> Project 100798 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,683) In module: transformadados at Line 224 --> Project 100935 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,683) In module: transformadados at Line 224 --> Project 105911 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,683) In module: transformadados at Line 224 --> Project 101353 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,683) In module: transformadados at Line 224 --> Project 103715 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,683) In module: transformadados at Line 224 --> Project 101643 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,683) In module: transformadados at Line 224 --> Project 104214 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:48:25,683) In module: transformadados at Line 224 --> Project 102505 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,063) In module: transformadados at Line 224 --> Project 105077 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,066) In module: transformadados at Line 224 --> Project 106022 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,068) In module: transformadados at Line 224 --> Project 105157 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,070) In module: transformadados at Line 224 --> Project 104996 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,073) In module: transformadados at Line 224 --> Project 104564 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,074) In module: transformadados at Line 224 --> Project 104231 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,078) In module: transformadados at Line 224 --> Project 104133 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,081) In module: transformadados at Line 224 --> Project 103294 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,082) In module: transformadados at Line 224 --> Project 101598 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,084) In module: transformadados at Line 224 --> Project 105500 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,086) In module: transformadados at Line 224 --> Project 105658 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,087) In module: transformadados at Line 224 --> Project 106004 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,088) In module: transformadados at Line 224 --> Project 106006 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,090) In module: transformadados at Line 224 --> Project 105915 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,092) In module: transformadados at Line 224 --> Project 100798 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,093) In module: transformadados at Line 224 --> Project 100935 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,095) In module: transformadados at Line 224 --> Project 105911 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,096) In module: transformadados at Line 224 --> Project 101353 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,097) In module: transformadados at Line 224 --> Project 103715 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,098) In module: transformadados at Line 224 --> Project 101643 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,099) In module: transformadados at Line 224 --> Project 104214 doesen't have an CO46 file to clear
+INFO:(2022-10-17 15:52:51,100) In module: transformadados at Line 224 --> Project 102505 doesen't have an CO46 file to clear
+INFO:(2022-10-18 00:00:31,113) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-18 00:00:31,315) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-18 00:00:31,514) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-18 00:00:31,715) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-18 00:00:32,031) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-18 00:00:32,288) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-18 00:00:52,418) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-10-18 00:00:52,526) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-10-18 00:00:57,859) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-10-18 00:00:57,906) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-10-18 00:00:57,922) In module: transformadados at Line 269 --> Directory C:\Temp\Temporario already exists
+INFO:(2022-10-18 03:59:41,681) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-19 00:00:29,380) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-19 00:00:29,742) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-19 00:00:30,016) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-19 00:00:30,315) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-19 00:00:30,596) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-19 00:00:50,645) In module: sap_bot at Line 70 --> SAP lauched.
+INFO:(2022-10-19 00:00:50,739) In module: sap_bot at Line 109 --> Application obteined.
+INFO:(2022-10-19 00:00:55,226) In module: sap_bot at Line 125 --> Connection obteined.
+INFO:(2022-10-19 00:00:55,289) In module: sap_bot at Line 137 --> Session obteined.
+INFO:(2022-10-19 00:00:55,289) In module: transformadados at Line 276 --> Directory C:\Temp\Temporario already exists
+INFO:(2022-10-19 04:02:01,324) In module: sap_bot at Line 82 --> Application closed.
+INFO:(2022-10-21 15:42:27,787) In module: sap_bot at Line 128 --> SAP lauched.
+INFO:(2022-10-21 15:42:31,403) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-21 15:42:38,778) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-21 15:42:39,755) In module: sap_bot at Line 205 --> Session obteined.
+INFO:(2022-10-21 15:44:55,390) In module: transformadados at Line 117 --> Confirmartion of ME5A routine execution
+INFO:(2022-10-21 15:46:03,649) In module: transformadados at Line 123 --> Confirmartion of EXPD routine execution
+ERROR:(2022-10-21 15:46:03,649) In module: sap_bot at Line 79 --> The passed function can't be executed.
+INFO:(2022-10-21 15:47:16,637) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-21 15:47:16,673) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-21 15:47:16,706) In module: sap_bot at Line 205 --> Session obteined.
+INFO:(2022-10-21 16:10:24,084) In module: sap_bot at Line 147 --> Application closed.
+INFO:(2022-10-21 16:32:21,029) In module: sap_bot at Line 128 --> SAP lauched.
+INFO:(2022-10-21 16:32:33,502) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-21 16:32:39,986) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-21 16:32:40,057) In module: sap_bot at Line 205 --> Session obteined.
+INFO:(2022-10-21 16:54:47,428) In module: sap_bot at Line 147 --> Application closed.
+INFO:(2022-10-21 17:04:25,274) In module: sap_bot at Line 128 --> SAP lauched.
+INFO:(2022-10-21 17:04:26,554) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-21 17:04:32,479) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-21 17:04:32,664) In module: sap_bot at Line 205 --> Session obteined.
+INFO:(2022-10-21 17:06:21,165) In module: transformadados at Line 117 --> Confirmartion of ME5A routine execution
+INFO:(2022-10-21 17:07:22,331) In module: transformadados at Line 123 --> Confirmartion of EXPD routine execution
+INFO:(2022-10-21 17:07:24,413) In module: sap_bot at Line 147 --> Application closed.
+INFO:(2022-10-24 00:00:44,395) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-24 00:00:44,895) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-24 00:00:45,223) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-24 00:00:45,754) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-24 00:00:46,129) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-24 00:01:06,208) In module: sap_bot at Line 128 --> SAP lauched.
+INFO:(2022-10-24 00:01:06,304) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-24 00:01:11,112) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-24 00:01:11,175) In module: sap_bot at Line 205 --> Session obteined.
+INFO:(2022-10-24 00:02:23,022) In module: transformadados at Line 117 --> Confirmartion of ME5A routine execution
+INFO:(2022-10-24 00:03:06,682) In module: transformadados at Line 123 --> Confirmartion of EXPD routine execution
+INFO:(2022-10-24 00:21:49,020) In module: sap_bot at Line 147 --> Application closed.
+INFO:(2022-10-25 08:22:11,600) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-25 08:22:11,966) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-25 08:22:13,091) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-25 08:22:13,747) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-25 08:22:34,021) In module: sap_bot at Line 128 --> SAP lauched.
+INFO:(2022-10-25 08:22:34,100) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-25 08:22:40,972) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-25 08:22:41,035) In module: sap_bot at Line 205 --> Session obteined.
+INFO:(2022-10-25 08:24:32,460) In module: transformadados at Line 152 --> Confirmartion of ME5A routine execution
+INFO:(2022-10-25 08:27:36,343) In module: transformadados at Line 158 --> Confirmartion of EXPD routine execution
+INFO:(2022-10-25 12:21:44,203) In module: sap_bot at Line 147 --> Application closed.
+INFO:(2022-10-25 12:21:47,453) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-25 12:21:48,265) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-25 13:37:13,848) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-25 13:37:28,724) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-25 13:39:53,917) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-25 13:39:54,730) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-25 13:40:00,460) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-25 13:40:03,085) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-25 13:40:04,428) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-25 14:12:55,741) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-25 14:12:56,344) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-25 14:13:02,239) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-25 14:13:02,957) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-25 14:13:03,120) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-25 14:25:14,722) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-25 14:25:16,105) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-25 14:25:23,856) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-25 14:25:24,681) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-25 14:25:24,873) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-25 14:26:48,828) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-25 14:26:50,020) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-25 14:27:02,068) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-25 14:27:02,875) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-25 14:27:03,246) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-25 14:37:36,020) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-25 14:37:38,336) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-25 14:37:44,860) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-25 14:37:45,727) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-25 14:37:45,894) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-25 14:46:11,414) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-25 14:46:12,665) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-25 14:46:23,521) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-25 14:46:24,563) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-25 14:46:24,779) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-25 15:01:59,426) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-25 15:02:01,559) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-25 15:02:14,465) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-25 15:02:15,602) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-25 15:02:15,889) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-25 15:04:37,555) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-25 15:04:38,650) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-25 15:04:47,769) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-25 15:04:48,782) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-25 15:04:49,053) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-25 15:26:04,486) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-25 15:26:05,645) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-25 15:26:15,711) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-25 15:26:16,749) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-25 15:26:17,022) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-25 16:21:07,102) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-25 16:21:08,559) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-25 16:21:17,312) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-25 16:21:18,246) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-25 16:21:18,546) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-25 16:35:19,913) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-25 16:35:22,275) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-25 16:35:35,239) In module: transformadados at Line 77 --> Main file cleaned
+INFO:(2022-10-25 16:35:37,010) In module: transformadados at Line 85 --> EXPD file cleaned
+INFO:(2022-10-25 16:35:37,417) In module: transformadados at Line 91 --> ME5A file cleaned
+INFO:(2022-10-26 00:00:18,912) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-26 00:00:19,299) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-26 00:00:19,659) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-26 00:00:20,307) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-26 00:00:21,088) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-26 00:00:41,421) In module: sap_bot at Line 128 --> SAP lauched.
+INFO:(2022-10-26 00:00:41,562) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-26 00:00:45,227) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-26 00:00:45,289) In module: sap_bot at Line 205 --> Session obteined.
+INFO:(2022-10-26 00:02:18,373) In module: transformadados at Line 153 --> Confirmartion of ME5A routine execution
+INFO:(2022-10-26 00:05:22,012) In module: transformadados at Line 159 --> Confirmartion of EXPD routine execution
+INFO:(2022-10-26 03:54:56,296) In module: sap_bot at Line 147 --> Application closed.
+INFO:(2022-10-26 03:55:02,327) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-26 03:55:03,874) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-26 03:55:09,936) In module: transformadados at Line 77 --> Main file cleaned
+INFO:(2022-10-26 03:55:10,764) In module: transformadados at Line 85 --> EXPD file cleaned
+INFO:(2022-10-26 03:55:10,951) In module: transformadados at Line 91 --> ME5A file cleaned
+WARNING:(2022-10-26 03:55:12,795) In module: email_handler at Line 80 --> Outlook wasn't running: No window can be found.
+INFO:(2022-10-26 03:55:18,123) In module: email_handler at Line 67 --> Outlook lauched.
+INFO:(2022-10-26 03:55:45,841) In module: email_handler at Line 53 --> Outlook object was obtained with success. 
+INFO:(2022-10-26 03:56:00,949) In module: email_handler at Line 92 --> Outlook closed.
+INFO:(2022-10-26 08:14:14,985) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-26 08:14:38,201) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-26 08:14:46,609) In module: transformadados at Line 77 --> Main file cleaned
+INFO:(2022-10-26 08:14:50,654) In module: transformadados at Line 85 --> EXPD file cleaned
+INFO:(2022-10-26 08:14:52,267) In module: transformadados at Line 91 --> ME5A file cleaned
+INFO:(2022-10-26 11:16:14,834) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-26 11:16:15,711) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-26 11:16:22,024) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-26 11:16:23,025) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-26 11:16:23,151) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-26 13:16:43,333) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-26 13:16:44,540) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-26 13:16:54,113) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-26 13:16:56,401) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-26 13:16:56,988) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-26 13:19:49,345) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-26 13:19:50,361) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-26 13:19:58,814) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-26 13:19:59,503) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-26 13:19:59,622) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-26 13:48:15,474) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-26 13:48:16,911) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-26 13:48:20,355) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-26 13:48:21,420) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-26 13:48:21,596) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-26 13:59:19,049) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-26 13:59:21,481) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-26 13:59:26,921) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-26 13:59:28,584) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-26 13:59:28,849) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-26 14:02:24,701) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-26 14:02:25,319) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-26 14:02:29,758) In module: transformadados at Line 76 --> Main file cleaned
+INFO:(2022-10-26 14:02:30,413) In module: transformadados at Line 84 --> EXPD file cleaned
+INFO:(2022-10-26 14:02:30,577) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-26 14:14:02,837) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-26 14:14:04,233) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-26 14:16:44,087) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-26 14:16:45,517) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-26 14:22:09,618) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-26 14:22:11,025) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-26 14:22:17,974) In module: transformadados at Line 78 --> Main file cleaned
+INFO:(2022-10-26 14:22:20,656) In module: transformadados at Line 86 --> EXPD file cleaned
+INFO:(2022-10-26 14:22:20,979) In module: transformadados at Line 92 --> ME5A file cleaned
+INFO:(2022-10-26 14:24:59,511) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-26 14:25:00,262) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-26 14:25:05,692) In module: transformadados at Line 78 --> Main file cleaned
+INFO:(2022-10-26 14:25:07,032) In module: transformadados at Line 86 --> EXPD file cleaned
+INFO:(2022-10-26 14:25:07,239) In module: transformadados at Line 92 --> ME5A file cleaned
+INFO:(2022-10-26 14:32:24,356) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-26 14:32:26,413) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-26 14:32:33,806) In module: transformadados at Line 78 --> Main file cleaned
+INFO:(2022-10-26 14:32:35,076) In module: transformadados at Line 86 --> EXPD file cleaned
+INFO:(2022-10-26 14:32:35,236) In module: transformadados at Line 92 --> ME5A file cleaned
+INFO:(2022-10-26 14:36:05,321) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-26 14:36:07,366) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-26 14:38:13,805) In module: transformadados at Line 78 --> Main file cleaned
+INFO:(2022-10-26 14:38:59,343) In module: transformadados at Line 86 --> EXPD file cleaned
+INFO:(2022-10-26 14:38:59,542) In module: transformadados at Line 92 --> ME5A file cleaned
+INFO:(2022-10-26 14:42:42,141) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-26 14:42:44,120) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-26 14:42:52,870) In module: transformadados at Line 78 --> Main file cleaned
+INFO:(2022-10-26 14:42:53,973) In module: transformadados at Line 86 --> EXPD file cleaned
+INFO:(2022-10-26 14:42:54,050) In module: transformadados at Line 91 --> ME5A file cleaned
+INFO:(2022-10-26 14:50:58,415) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-26 14:50:59,301) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-26 14:51:02,863) In module: transformadados at Line 77 --> Main file cleaned
+INFO:(2022-10-26 14:51:03,637) In module: transformadados at Line 85 --> EXPD file cleaned
+INFO:(2022-10-26 14:51:03,720) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-26 14:53:56,966) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-26 14:53:57,730) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-26 14:54:01,246) In module: transformadados at Line 77 --> Main file cleaned
+INFO:(2022-10-26 14:54:01,873) In module: transformadados at Line 85 --> EXPD file cleaned
+INFO:(2022-10-26 14:54:01,920) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-26 14:58:03,605) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-26 14:58:04,372) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-26 14:58:08,229) In module: transformadados at Line 77 --> Main file cleaned
+INFO:(2022-10-26 14:58:09,005) In module: transformadados at Line 85 --> EXPD file cleaned
+INFO:(2022-10-26 14:58:09,071) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-26 15:06:47,130) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-26 15:06:47,918) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-26 15:06:51,219) In module: transformadados at Line 77 --> Main file cleaned
+INFO:(2022-10-26 15:06:51,924) In module: transformadados at Line 85 --> EXPD file cleaned
+INFO:(2022-10-26 15:06:51,984) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-27 00:40:51,882) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-27 00:40:52,303) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-27 00:40:52,699) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-27 00:40:53,565) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-27 00:40:53,861) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-27 00:41:13,922) In module: sap_bot at Line 128 --> SAP lauched.
+INFO:(2022-10-27 00:41:14,109) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-27 00:41:17,634) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-27 00:41:17,712) In module: sap_bot at Line 205 --> Session obteined.
+INFO:(2022-10-27 00:42:57,476) In module: transformadados at Line 153 --> Confirmartion of ME5A routine execution
+INFO:(2022-10-27 00:45:56,979) In module: transformadados at Line 159 --> Confirmartion of EXPD routine execution
+INFO:(2022-10-27 04:37:52,621) In module: sap_bot at Line 147 --> Application closed.
+INFO:(2022-10-27 04:37:56,972) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-27 04:37:58,238) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-27 04:38:02,098) In module: transformadados at Line 77 --> Main file cleaned
+INFO:(2022-10-27 04:38:02,738) In module: transformadados at Line 85 --> EXPD file cleaned
+INFO:(2022-10-27 04:38:02,801) In module: transformadados at Line 90 --> ME5A file cleaned
+WARNING:(2022-10-27 04:38:08,911) In module: email_handler at Line 80 --> Outlook wasn't running: No window can be found.
+INFO:(2022-10-27 04:38:14,020) In module: email_handler at Line 67 --> Outlook lauched.
+INFO:(2022-10-27 04:38:31,365) In module: email_handler at Line 53 --> Outlook object was obtained with success. 
+INFO:(2022-10-27 04:38:40,147) In module: email_handler at Line 92 --> Outlook closed.
+INFO:(2022-10-27 08:18:02,677) In module: transformadados at Line 58 --> CO46 files cleaned
+INFO:(2022-10-27 08:18:04,930) In module: transformadados at Line 63 --> OPR files cleaned
+INFO:(2022-10-27 08:18:09,467) In module: transformadados at Line 77 --> Main file cleaned
+INFO:(2022-10-27 08:18:10,581) In module: transformadados at Line 85 --> EXPD file cleaned
+INFO:(2022-10-27 08:18:10,690) In module: transformadados at Line 90 --> ME5A file cleaned
+INFO:(2022-10-27 14:00:59,183) In module: sap_bot at Line 128 --> SAP lauched.
+INFO:(2022-10-27 14:00:59,307) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-27 14:01:04,102) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-27 14:01:07,810) In module: sap_bot at Line 205 --> Session obteined.
+ERROR:(2022-10-27 14:01:07,972) In module: sap_bot at Line 79 --> The passed function can't be executed.
+INFO:(2022-10-27 14:02:20,317) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-27 14:02:20,336) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-27 14:02:20,363) In module: sap_bot at Line 205 --> Session obteined.
+INFO:(2022-10-27 14:04:06,494) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-27 14:04:06,537) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-27 14:04:06,578) In module: sap_bot at Line 205 --> Session obteined.
+ERROR:(2022-10-27 14:04:50,912) In module: sap_bot at Line 79 --> The passed function can't be executed.
+INFO:(2022-10-27 14:05:37,868) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-27 14:05:37,897) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-27 14:05:37,927) In module: sap_bot at Line 205 --> Session obteined.
+ERROR:(2022-10-27 14:08:37,456) In module: sap_bot at Line 79 --> The passed function can't be executed.
+INFO:(2022-10-27 14:09:29,076) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-27 14:09:29,099) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-27 14:09:29,120) In module: sap_bot at Line 205 --> Session obteined.
+ERROR:(2022-10-27 14:16:41,251) In module: sap_bot at Line 79 --> The passed function can't be executed.
+INFO:(2022-10-27 14:41:06,240) In module: sap_bot at Line 128 --> SAP lauched.
+INFO:(2022-10-27 14:41:07,325) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-27 14:41:14,199) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-27 14:41:14,368) In module: sap_bot at Line 205 --> Session obteined.
+INFO:(2022-10-27 14:57:31,044) In module: sap_bot at Line 147 --> Application closed.
+INFO:(2022-10-27 15:05:34,114) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-27 15:05:34,317) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-27 15:07:19,666) In module: transformadados at Line 57 --> CO46 files cleaned
+INFO:(2022-10-27 15:07:19,797) In module: transformadados at Line 62 --> OPR files cleaned
+INFO:(2022-10-28 00:00:27,838) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-28 00:00:28,312) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-28 00:00:28,684) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-28 00:00:29,104) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-28 00:00:29,524) In module: os_handler at Line 24 --> Application closed.
+INFO:(2022-10-28 00:00:49,623) In module: sap_bot at Line 128 --> SAP lauched.
+INFO:(2022-10-28 00:00:49,716) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-28 00:00:54,404) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-28 00:00:54,467) In module: sap_bot at Line 205 --> Session obteined.
+ERROR:(2022-10-28 03:18:39,200) In module: sap_bot at Line 79 --> The passed function can't be executed.
+INFO:(2022-10-28 13:49:39,631) In module: sap_bot at Line 128 --> SAP lauched.
+INFO:(2022-10-28 13:49:39,731) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-28 13:49:43,303) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-28 13:49:45,801) In module: sap_bot at Line 205 --> Session obteined.
+ERROR:(2022-10-28 13:50:47,379) In module: sap_bot at Line 79 --> (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SapGui\\sapfront.HLP', 393215, 0), None)
+The passed function can't be executed.
+ERROR:(2022-10-28 13:50:53,432) In module: sap_bot at Line 79 --> (-2147483638, 'The data necessary to complete this operation is not yet available.', None, None)
+The passed function can't be executed.
+ERROR:(2022-10-28 13:50:57,376) In module: sap_bot at Line 79 --> Property '<unknown>.selected' can not be set.
+The passed function can't be executed.
+ERROR:(2022-10-28 13:51:28,173) In module: sap_bot at Line 79 --> (-2147023170, 'The remote procedure call failed.', None, None)
+The passed function can't be executed.
+ERROR:(2022-10-28 13:51:28,173) In module: sap_bot at Line 79 --> (-2147023174, 'The RPC server is unavailable.', None, None)
+The passed function can't be executed.
+ERROR:(2022-10-28 13:51:28,173) In module: sap_bot at Line 79 --> (-2147023174, 'The RPC server is unavailable.', None, None)
+The passed function can't be executed.
+ERROR:(2022-10-28 13:51:28,183) In module: sap_bot at Line 79 --> (-2147023174, 'The RPC server is unavailable.', None, None)
+The passed function can't be executed.
+ERROR:(2022-10-28 13:51:28,183) In module: sap_bot at Line 79 --> (-2147023174, 'The RPC server is unavailable.', None, None)
+The passed function can't be executed.
+ERROR:(2022-10-28 13:51:28,183) In module: sap_bot at Line 79 --> (-2147023174, 'The RPC server is unavailable.', None, None)
+The passed function can't be executed.
+ERROR:(2022-10-28 13:51:28,183) In module: sap_bot at Line 79 --> (-2147023174, 'The RPC server is unavailable.', None, None)
+The passed function can't be executed.
+ERROR:(2022-10-28 13:51:28,183) In module: sap_bot at Line 79 --> (-2147023174, 'The RPC server is unavailable.', None, None)
+The passed function can't be executed.
+ERROR:(2022-10-28 13:51:28,183) In module: sap_bot at Line 79 --> (-2147023174, 'The RPC server is unavailable.', None, None)
+The passed function can't be executed.
+ERROR:(2022-10-28 13:51:28,193) In module: sap_bot at Line 141 --> <unknown>.CloseSession
+INFO:(2022-10-28 13:52:18,797) In module: sap_bot at Line 128 --> SAP lauched.
+INFO:(2022-10-28 13:52:18,911) In module: sap_bot at Line 176 --> Application obteined.
+INFO:(2022-10-28 13:52:22,321) In module: sap_bot at Line 194 --> Connection obteined.
+INFO:(2022-10-28 13:52:22,421) In module: sap_bot at Line 205 --> Session obteined.
+INFO:(2022-10-28 14:07:08,283) In module: sap_bot at Line 147 --> Application closed.
+INFO:(2022-10-28 14:07:08,914) In module: transformadados at Line 66 --> CO46 files cleaned
+INFO:(2022-10-28 14:07:09,022) In module: transformadados at Line 71 --> OPR files cleaned
+INFO:(2022-10-28 14:07:09,502) In module: transformadados at Line 84 --> Main file cleaned
+INFO:(2022-10-28 14:07:09,725) In module: transformadados at Line 92 --> EXPD file cleaned
+INFO:(2022-10-28 14:07:09,773) In module: transformadados at Line 97 --> ME5A file cleaned
+INFO:(2022-10-28 14:14:40,176) In module: transformadados at Line 66 --> CO46 files cleaned
+INFO:(2022-10-28 14:14:40,299) In module: transformadados at Line 71 --> OPR files cleaned
+INFO:(2022-10-28 14:14:40,488) In module: transformadados at Line 84 --> Main file cleaned
+INFO:(2022-10-28 14:14:40,702) In module: transformadados at Line 92 --> EXPD file cleaned
+INFO:(2022-10-28 14:14:40,753) In module: transformadados at Line 97 --> ME5A file cleaned
+INFO:(2022-10-28 14:15:41,337) In module: transformadados at Line 66 --> CO46 files cleaned
+INFO:(2022-10-28 14:15:41,474) In module: transformadados at Line 71 --> OPR files cleaned
+INFO:(2022-10-28 14:15:41,834) In module: transformadados at Line 84 --> Main file cleaned
+INFO:(2022-10-28 14:15:42,036) In module: transformadados at Line 92 --> EXPD file cleaned
+INFO:(2022-10-28 14:15:42,087) In module: transformadados at Line 97 --> ME5A file cleaned
+WARNING:(2022-10-28 14:30:27,227) In module: email_handler at Line 80 --> Outlook wasn't running: No window can be found.
+INFO:(2022-10-28 14:30:32,328) In module: email_handler at Line 67 --> Outlook lauched.
+INFO:(2022-10-28 14:30:43,991) In module: email_handler at Line 53 --> Outlook object was obtained with success. 
+INFO:(2022-10-28 14:30:50,537) In module: email_handler at Line 92 --> Outlook closed.

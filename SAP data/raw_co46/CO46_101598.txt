@@ -1,0 +1,8 @@
+
+Project			Material	Description	Requirement Element	Receipt Element	Receipt Element No.	Receipt Element Item	Rec./reqd qty	Target Quantity	Release/Creation	Bas. start date	Receipt Date	Requirements Date	MRP Controller	Reqmt Element Number	InhseProdTime	Purch. Group	Base Unit	Pl. Deliv. Time
+
+	101598
+
+		10288372	10288372	CHECK VLV  3 8 SAE M  TO SAE F 25PSI	OrdRes	Stock			-2					05.07.2022	B15	             9419904		B01	EA	            240
+		BB11-KS1012-82	BB11-KS1012-82	CLPG,1/4"NB(F)(WB),NAT I'FCE,10 SAE,K500	OrdRes	PurRqs	           17584222	                  10	-1	              1	28.10.2022		02.08.2023	06.10.2022	S03	            10225411		BA1	EA	            249
+		BB91-080012-01	BB91-080012-01	FILTER CART PILOT LINE 18MICRON	OrdRes	ProjSt			-1					06.10.2022	C02	            10225411		BC7	EA	            199
