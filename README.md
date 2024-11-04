@@ -5,8 +5,7 @@
 ### Within the repository we find both the bot (based on OS), as well as the extraction scripts (VBScript), in addition to the cleaning (Pandas & Pure Python)
 
 ### You should only run the script through main and the folder structure should be kept the same
-### The prerequisite for running the script is to keep the PMO & Planning Team folder synchronized with your PC,
-### so that it is possible to access it directly through Windows Explorer
+### The prerequisite for running the script is to keep the PMO & Planning Team folder synchronized with your PC, so that it is possible to access it directly through Windows Explorer
 
 ### NEW PROJECTS
 ### 1. Add the Project ID (6 digits - NNNNNN) followed by a 'tab' (\t) with the project name - otherwise the bot will not identify it
